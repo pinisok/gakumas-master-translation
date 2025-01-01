@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "memory_tag_01",
-      "defaultName": "声乐力"
+      "defaultName": "声乐"
     },
     {
       "id": "memory_tag_02",
-      "defaultName": "舞蹈力"
+      "defaultName": "舞蹈"
     },
     {
       "id": "memory_tag_03",
-      "defaultName": "形象力"
+      "defaultName": "形象"
     },
     {
       "id": "memory_tag_04",
@@ -51,7 +51,7 @@
     },
     {
       "id": "memory_tag_12",
-      "defaultName": "竞赛"
+      "defaultName": "比赛"
     },
     {
       "id": "memory_tag_13",
@@ -79,7 +79,7 @@
     },
     {
       "id": "memory_tag_19",
-      "defaultName": "体耗减半"
+      "defaultName": "消耗体力减少"
     },
     {
       "id": "memory_tag_20",

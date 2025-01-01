@@ -2948,7 +2948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3033,7 +3033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3128,7 +3128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3398,7 +3398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3678,7 +3678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4043,7 +4043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4108,7 +4108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4688,7 +4688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4908,7 +4908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4983,7 +4983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5478,7 +5478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5563,7 +5563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6153,7 +6153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6228,7 +6228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6778,7 +6778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6853,7 +6853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7388,7 +7388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7473,7 +7473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8493,7 +8493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8513,7 +8513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8598,7 +8598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8648,7 +8648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8733,7 +8733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8828,7 +8828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8848,7 +8848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8953,7 +8953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9058,7 +9058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9423,7 +9423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9538,7 +9538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9623,7 +9623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10753,7 +10753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10918,7 +10918,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13153,7 +13153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13328,7 +13328,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13423,7 +13423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13538,7 +13538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13728,7 +13728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14218,7 +14218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14363,7 +14363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14518,7 +14518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14673,7 +14673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14878,7 +14878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15033,7 +15033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15698,7 +15698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15863,7 +15863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16573,7 +16573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16668,7 +16668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17078,7 +17078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17238,7 +17238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17358,7 +17358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17543,7 +17543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17678,7 +17678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17813,7 +17813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17948,7 +17948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18188,7 +18188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18538,7 +18538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18723,7 +18723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19238,7 +19238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "初次奖励"
+          "text": "第一次的奖励"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19333,7 +19333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "初次奖励"
+          "text": "第一次的奖励"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19558,7 +19558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19858,7 +19858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20053,7 +20053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20188,7 +20188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20353,7 +20353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20588,7 +20588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21478,7 +21478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21663,7 +21663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21713,7 +21713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22313,7 +22313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22498,7 +22498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22548,7 +22548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22653,7 +22653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22808,7 +22808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23233,7 +23233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23358,7 +23358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23533,7 +23533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23698,7 +23698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24343,7 +24343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25273,7 +25273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25933,7 +25933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26238,7 +26238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "轻快步伐"
+          "text": "轻快的步伐"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26308,7 +26308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26358,7 +26358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26433,7 +26433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "轻快步伐"
+          "text": "轻快的步伐"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26503,7 +26503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26553,7 +26553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26628,7 +26628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "任凭势头"
+          "text": "凭势而为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26698,7 +26698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26748,7 +26748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26823,7 +26823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "任凭势头"
+          "text": "凭势而为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26893,7 +26893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26943,7 +26943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27118,7 +27118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27293,7 +27293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29458,7 +29458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31018,7 +31018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31203,7 +31203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31578,7 +31578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32408,7 +32408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32593,7 +32593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32643,7 +32643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33223,7 +33223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33358,7 +33358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33513,7 +33513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33668,7 +33668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34068,7 +34068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34233,7 +34233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34618,7 +34618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34813,7 +34813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35038,7 +35038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35263,7 +35263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36578,7 +36578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36843,7 +36843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36998,7 +36998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37948,7 +37948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆笑"
+          "text": "回忆微笑"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38018,7 +38018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38068,7 +38068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38143,7 +38143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆笑"
+          "text": "回忆微笑"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38213,7 +38213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38263,7 +38263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39848,7 +39848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40083,7 +40083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40518,7 +40518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40653,7 +40653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40748,7 +40748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40863,7 +40863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40983,7 +40983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41128,7 +41128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41158,7 +41158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41208,7 +41208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41728,7 +41728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41943,7 +41943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41993,7 +41993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42098,7 +42098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42293,7 +42293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42818,7 +42818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "在踏切的前方"
+          "text": "在道口的前方"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42993,7 +42993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "在踏切的前方"
+          "text": "在道口的前方"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43368,7 +43368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43438,7 +43438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43468,7 +43468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43623,7 +43623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43693,7 +43693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43723,7 +43723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43798,7 +43798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "令人开心的错算"
+          "text": "开心的误算"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43818,7 +43818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43938,7 +43938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44013,7 +44013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "令人开心的错算"
+          "text": "开心的误算"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44033,7 +44033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44153,7 +44153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44518,7 +44518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45558,7 +45558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "我就是明星"
+          "text": "我是明星"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45578,7 +45578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45683,7 +45683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45753,7 +45753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45838,7 +45838,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46028,7 +46028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46248,7 +46248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46498,7 +46498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46568,7 +46568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46663,7 +46663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46768,7 +46768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46853,7 +46853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47228,7 +47228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47408,7 +47408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47478,7 +47478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47573,7 +47573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47678,7 +47678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47763,7 +47763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48158,7 +48158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48338,7 +48338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48408,7 +48408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48503,7 +48503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48608,7 +48608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48693,7 +48693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49278,7 +49278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49383,7 +49383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49453,7 +49453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49538,7 +49538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49728,7 +49728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49948,7 +49948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50298,7 +50298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50393,7 +50393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50498,7 +50498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50583,7 +50583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51158,7 +51158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51263,7 +51263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51333,7 +51333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51418,7 +51418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51608,7 +51608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51808,7 +51808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52008,7 +52008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52078,7 +52078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52173,7 +52173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52278,7 +52278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52363,7 +52363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52938,7 +52938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "我就是明星"
+          "text": "我是明星"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52958,7 +52958,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53063,7 +53063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53133,7 +53133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53218,7 +53218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53408,7 +53408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53818,7 +53818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53888,7 +53888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53983,7 +53983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -54088,7 +54088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -54173,7 +54173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAntiDebuff",
-          "text": "无效化下降状态"
+          "text": "状态下降无效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -55558,7 +55558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -55738,7 +55738,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "困倦"
+          "text": "睡意"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -57833,7 +57833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -58433,7 +58433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -59923,7 +59923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -60008,7 +60008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "困倦"
+          "text": "睡意"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -60223,7 +60223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -60403,7 +60403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -60858,7 +60858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -61038,7 +61038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -61313,7 +61313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "困倦"
+          "text": "睡意"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -61523,7 +61523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -63063,7 +63063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -63233,7 +63233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "困倦"
+          "text": "睡意"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -63648,7 +63648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -63933,7 +63933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64333,7 +64333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64543,7 +64543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64743,7 +64743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64763,7 +64763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPanic",
-          "text": "浮躁"
+          "text": "随意"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64943,7 +64943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "困倦"
+          "text": "睡意"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -65258,7 +65258,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

@@ -731,7 +731,7 @@
     },
     {
       "id": "mission-highscore-event-001-mission_13",
-      "name": "葛城莉莉娅的形象力培育到1000以上并完成培育"
+      "name": "将葛城莉莉娅的形象力培养至1000以上并完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_13_1",
@@ -1575,7 +1575,7 @@
     },
     {
       "id": "mission-normal-absolutepvprategrade-2",
-      "name": "在竞赛中达到等级2"
+      "name": "在竞赛中达到2级"
     },
     {
       "id": "mission-normal-absolutepvprategrade-3",
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "mission-normal-incrementproducememorydeckupdatecount-1",
-      "name": "编成回忆吧"
+      "name": "编成回忆"
     },
     {
       "id": "mission-normal-incrementproducesupportcarddeckupdatecount-1",
@@ -1699,7 +1699,7 @@
     },
     {
       "id": "mission-normal-linkBandaiNamco-1",
-      "name": "进行数据结合吧\n※在菜单 > 数据结合中可能实现"
+      "name": "进行数据联动\n※菜单 > 可以通过数据联动进行"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-amao-1st",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": "mission-normal-profileupdate-1",
-      "name": "设定プロフィール"
+      "name": "设置个人资料"
     },
     {
       "id": "mission-normal-view-shop_pack_hume-0001",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "mission-release_mission-1-4",
-      "name": "完成一个研修"
+      "name": "完成一次研修"
     },
     {
       "id": "mission-release_mission-1-5",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": "mission-release_mission-1-6",
-      "name": "完成第1天的所有任务"
+      "name": "完成第一天的所有任务"
     },
     {
       "id": "mission-release_mission-2-1",
@@ -1987,7 +1987,7 @@
     },
     {
       "id": "mission-release_mission-2-6",
-      "name": "完成第2天的所有任务"
+      "name": "完成第二天的所有任务"
     },
     {
       "id": "mission-release_mission-3-1",
@@ -2003,11 +2003,11 @@
     },
     {
       "id": "mission-release_mission-3-4",
-      "name": "在感性方案的可培育偶像培育中达到C+以上评价"
+      "name": "方案：在感性培育偶像的培育中达到评价C+以上"
     },
     {
       "id": "mission-release_mission-3-5",
-      "name": "在理性方案的可培育偶像培育中达到C+以上评价"
+      "name": "方案：在理性培育偶像的培育中达到评价C+以上"
     },
     {
       "id": "mission-release_mission-3-6",
@@ -2019,7 +2019,7 @@
     },
     {
       "id": "mission-release_mission-3-8",
-      "name": "完成第3天的所有任务"
+      "name": "完成第三天的所有任务"
     },
     {
       "id": "mission-release_mission-4-1",
@@ -2043,7 +2043,7 @@
     },
     {
       "id": "mission-release_mission-4-6",
-      "name": "完成第4天的所有任务"
+      "name": "完成第四天的所有任务"
     },
     {
       "id": "mission-release_mission-5-1",
@@ -2063,7 +2063,7 @@
     },
     {
       "id": "mission-release_mission-5-5",
-      "name": "完成第5天的所有任务"
+      "name": "完成第五天的所有任务"
     },
     {
       "id": "mission-release_mission-6-1",
@@ -2075,11 +2075,11 @@
     },
     {
       "id": "mission-release_mission-6-3",
-      "name": "在职业培育中达成评价B以上\n【条件】感性方案的可培育偶像"
+      "name": "在专业培育中达到评价B以上\n【条件】方案：感性可培育偶像"
     },
     {
       "id": "mission-release_mission-6-4",
-      "name": "在职业培育中达成评价B以上\n【条件】理性方案的可培育偶像"
+      "name": "在专业培育中达到评价B以上\n【条件】方案：理性可培育偶像"
     },
     {
       "id": "mission-release_mission-6-5",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": "mission-release_mission-6-7",
-      "name": "完成第6天的所有任务"
+      "name": "完成第六天的所有任务"
     },
     {
       "id": "mission-release_mission-7-1",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "mission-release_mission-7-5",
-      "name": "完成第7天的所有任务"
+      "name": "完成第七天的所有任务"
     },
     {
       "id": "mission-story-event-001-mission_1",
@@ -2251,7 +2251,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_13",
-      "name": "在最终考试中获得5次第一名"
+      "name": "在最终考试中获得5次第一"
     },
     {
       "id": "panel_mission-event-002-mission_14",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_13",
-      "name": "在最终考试中获得5次第一名"
+      "name": "在最终考试中获得5次第一"
     },
     {
       "id": "panel_mission-event-004-mission_14",
@@ -2431,7 +2431,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_13",
-      "name": "在最终考试中获得5次第一名"
+      "name": "在最终考试中获得5次第一"
     },
     {
       "id": "panel_mission-event-006-mission_14",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-01",
-      "name": "【与你和半蓝】通过有村麻央的培育最终考试"
+      "name": "【你与半蓝】有村麻央的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-amao-3-001-02",
@@ -2563,7 +2563,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-001-01",
-      "name": "【Yellow Big Bang！】藤田琴音的培育通过最终考试"
+      "name": "【Yellow Big Bang！】藤田琴音的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "【キミとセミブルー】姫崎莉波的培育通过最终考试"
+      "name": "【你与半蓝】姫崎莉波的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
@@ -2623,7 +2623,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
-      "name": "【L.U.V】姬崎莉波的培育中最终考试合格"
+      "name": "【L.U.V】姬崎莉波的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-02",
@@ -2659,7 +2659,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "【Boom Boom Pow】花海咲季的培育中最终考试合格"
+      "name": "【Boom Boom Pow】花海咲季的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-hski-3-001-02",
@@ -2683,7 +2683,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-01",
-      "name": "【古今東西ちょちょいのちょい】花海咲季的培育中最终考试合格"
+      "name": "【古今东西简简单单】花海咲季的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-hski-3-006-02",
@@ -2707,7 +2707,7 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
-      "name": "【偶像、开始吧！】花海佑芽的培育通过最终考试"
+      "name": "【爱豆之路，出发！】花海佑芽的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-hume-2-000-02",
@@ -2719,7 +2719,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-000-01",
-      "name": "【The Rolling Riceball】花海佑芽的培育通过最终考试"
+      "name": "【The Rolling Riceball】花海佑芽的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-hume-3-000-02",
@@ -2839,7 +2839,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
-      "name": "【コントラスト】在筱泽广的培育中通过最终考试"
+      "name": "【反差】筱泽广的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-shro-3-001-02",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
-      "name": "【キミとセミブルー】紫云清夏的培育通过最终考试"
+      "name": "【你与半蓝】紫云清夏的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
@@ -2887,7 +2887,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
-      "name": "【アイヴイ】月村手毬的培育通过最终考试"
+      "name": "【Ivy】月村手毬的培育中通过期末考试"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-02",
@@ -2967,7 +2967,7 @@
     },
     {
       "id": "achieve-o_001",
-      "name": "培育开始的证据"
+      "name": "开始培育的证明"
     },
     {
       "id": "achieve-o_002",
@@ -3231,7 +3231,7 @@
     },
     {
       "id": "achieve-p_idol-amao-014",
-      "name": "将有村麻央的形象力培养到1000以上并完成培育"
+      "name": "有村 麻央的形象力培育到1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-amao-015",
@@ -3255,7 +3255,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
-      "name": "【帅气的开始】有村麻央培育中合格最终考试"
+      "name": "【帅气的开始】有村麻央的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-amao-002-2",
@@ -3267,7 +3267,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-003-1",
-      "name": "【Fluorite】有村麻央培育中合格最终考试"
+      "name": "【Fluorite】有村麻央的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-amao-003-2",
@@ -3279,7 +3279,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-002-1",
-      "name": "【可爱♡开始了】藤田琴音的培育中合格最终考试"
+      "name": "【卡哇伊♡开始~】藤田琴音的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-2",
@@ -3291,7 +3291,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
-      "name": "【世界一可愛い私】藤田琴音的培育通过最终考试"
+      "name": "【世界第一可爱的我】藤田琴音的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-2",
@@ -3303,7 +3303,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
-      "name": "【『私らしさ』のはじまり】姫崎莉波的培育通过最终考试"
+      "name": "【『我的风格』的开端】姫崎莉波的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-2",
@@ -3315,7 +3315,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-1",
-      "name": "【clumsy trick】姫崎莉波的培育通过最终考试"
+      "name": "【clumsy trick】姫崎莉波的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-2",
@@ -3327,7 +3327,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-002-1",
-      "name": "【わたしが一番！】花海咲季的培育通过最终考试"
+      "name": "【我才是第一！】花海咲季的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-hski-002-2",
@@ -3339,7 +3339,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-003-1",
-      "name": "【Fighting My Way】花海咲季的培育通过最终考试"
+      "name": "【Fighting My Way】花海咲季的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-hski-003-2",
@@ -3351,7 +3351,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-002-1",
-      "name": "【胸を张って一歩ずつ】仓本千奈的培育通过最终考试"
+      "name": "【昂首阔步】仓本千奈的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-2",
@@ -3363,7 +3363,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-003-1",
-      "name": "【Wonder Scale】仓本千奈的培育通过最终考试"
+      "name": "【Wonder Scale】倉本千奈的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-2",
@@ -3375,7 +3375,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-002-1",
-      "name": "【一つ踏み出した先に】在培育葛城莉莉娅时通过最终考试"
+      "name": "【迈出第一步】葛城莉莉娅的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-2",
@@ -3387,7 +3387,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-003-1",
-      "name": "【白线】在培育葛城莉莉娅时通过最终考试"
+      "name": "【白线】葛城莉莉娅的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-2",
@@ -3399,7 +3399,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
-      "name": "【一番向いてないこと】在培育筱泽广时通过最终考试"
+      "name": "【最不擅长的事】筱泽广的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-shro-002-2",
@@ -3411,7 +3411,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
-      "name": "【光景】在培育筱泽广时通过最终考试"
+      "name": "【光景】筱泽广的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-shro-003-2",
@@ -3423,7 +3423,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
-      "name": "【梦へのリスタート】在培育紫云清夏时通过最终考试"
+      "name": "【梦想的重启】紫云清夏的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-2",
@@ -3435,7 +3435,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-1",
-      "name": "【Tame-Lie-One-Step】在培育紫云清夏时通过最终考试"
+      "name": "【Tame-Lie-One-Step】紫云清夏的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-2",
@@ -3447,7 +3447,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-1",
-      "name": "【一匹狼】月村手毬的培育中最终考试合格"
+      "name": "【一匹狼】月村手毬的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-2",
@@ -3459,7 +3459,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-1",
-      "name": "【Luna say maybe】月村手毬的培育中最终考试合格"
+      "name": "【Luna say maybe】月村手毬的培育中通过期末考试"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-2",
@@ -4035,7 +4035,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-014",
-      "name": "葛城莉莉娅的形象力培育到1000以上并完成培育"
+      "name": "将葛城莉莉娅的形象力培养至1000以上并完成培育"
     },
     {
       "id": "achieve-p_idol-kllj-015",
@@ -4311,11 +4311,11 @@
     },
     {
       "id": "main_task_group-01-01#1",
-      "name": "让我们挑战培育"
+      "name": "进行培育吧"
     },
     {
       "id": "main_task_group-01-01#2",
-      "name": "让我们看第1章第1话"
+      "name": "观看第1章第1话"
     },
     {
       "id": "main_task_group-01-01#3",
@@ -4323,47 +4323,47 @@
     },
     {
       "id": "main_task_group-01-01#4",
-      "name": "编辑名片吧"
+      "name": "编辑名片"
     },
     {
       "id": "main_task_group-01-01#5",
-      "name": "关注其他制作人吧"
+      "name": "关注其他制作人"
     },
     {
       "id": "main_task_group-01-01#6",
-      "name": "完成一个研修"
+      "name": "完成一次研修"
     },
     {
       "id": "main_task_group-01-01#7",
-      "name": "完成1次考试研修吧"
+      "name": "完成1个考试培训"
     },
     {
       "id": "main_task_group-01-01#8",
-      "name": "让我们挑战培育"
+      "name": "进行培育吧"
     },
     {
       "id": "main_task_group-01-01#9",
-      "name": "观看第1章第2话吧"
+      "name": "观看第1章第2话"
     },
     {
       "id": "main_task_group-01-01#10",
-      "name": "特训可培育偶像吧"
+      "name": "可培育偶像进行特训"
     },
     {
       "id": "main_task_group-01-01#11",
-      "name": "回收活动资金吧"
+      "name": "收回活动费用"
     },
     {
       "id": "main_task_group-01-01#12",
-      "name": "在金币交换所进行交换吧"
+      "name": "在金币兑换所进行兑换"
     },
     {
       "id": "main_task_group-01-01#13",
-      "name": "让我们挑战培育"
+      "name": "进行培育吧"
     },
     {
       "id": "main_task_group-01-01#14",
-      "name": "观看第1章第3话吧"
+      "name": "观看第1章第3话"
     },
     {
       "id": "main_task_group-01-01#15",
@@ -4371,15 +4371,15 @@
     },
     {
       "id": "main_task_group-01-01#16",
-      "name": "挑战培育吧\n【条件】感性方案的可培育偶像"
+      "name": "进行培育吧\n【条件】方案：感性的可培育偶像"
     },
     {
       "id": "main_task_group-01-01#17",
-      "name": "抽取1次感性扭蛋吧"
+      "name": "抽一次感性扭蛋吧"
     },
     {
       "id": "main_task_group-01-01#18",
-      "name": "观看第1章第4话吧"
+      "name": "观看第1章第4话"
     },
     {
       "id": "main_task_group-01-01#19",
@@ -4391,15 +4391,15 @@
     },
     {
       "id": "main_task_group-01-01#21",
-      "name": "挑战培育吧\n【条件】理性方案的可培育偶像"
+      "name": "进行培育吧\n【条件】方案：理性的可培育偶像"
     },
     {
       "id": "main_task_group-01-01#22",
-      "name": "抽取1次理性扭蛋吧"
+      "name": "抽一次理性扭蛋"
     },
     {
       "id": "main_task_group-01-01#23",
-      "name": "观看第1章第5话吧"
+      "name": "观看第1章第5话"
     },
     {
       "id": "main_task_group-01-01#24",
@@ -4411,7 +4411,7 @@
     },
     {
       "id": "main_task_group-01-01#26",
-      "name": "在竞赛中进行编成吧"
+      "name": "在竞赛中编成吧"
     },
     {
       "id": "main_task_group-01-01#27",
@@ -4419,7 +4419,7 @@
     },
     {
       "id": "main_task_group-01-01#28",
-      "name": "1章6话去看看"
+      "name": "观看第1章第6话"
     },
     {
       "id": "main_task_group-01-01#29",
@@ -4427,11 +4427,11 @@
     },
     {
       "id": "main_task_group-01-01#30",
-      "name": "挑战培育并获得评价C+以上吧"
+      "name": "挑战培育获取评价C+以上"
     },
     {
       "id": "main_task_group-01-01#31",
-      "name": "1章7话去看看"
+      "name": "观看第1章第7话"
     },
     {
       "id": "main_task_group-01-01#32",
@@ -4439,23 +4439,23 @@
     },
     {
       "id": "main_task_group-01-01#33",
-      "name": "研修的【应用1】感性方案来完成吧"
+      "name": "研修的【应用1】方案：完成感性"
     },
     {
       "id": "main_task_group-01-01#34",
-      "name": "挑战培育并获得评价C+以上吧\n【条件】感性方案的可培育偶像"
+      "name": "挑战培育获取评价C+以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "id": "main_task_group-01-01#35",
-      "name": "1章8话去看看"
+      "name": "观看第1章第8话"
     },
     {
       "id": "main_task_group-01-01#36",
-      "name": "研修的【应用2】理性方案来完成吧"
+      "name": "研修的【应用2】方案：完成理性"
     },
     {
       "id": "main_task_group-01-01#37",
-      "name": "挑战培育并获得评价C+以上吧\n【条件】理性方案的可培育偶像"
+      "name": "挑战培育获取评价C+以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "id": "main_task_group-01-01#38",
@@ -4463,7 +4463,7 @@
     },
     {
       "id": "main_task_group-01-01#39",
-      "name": "1章9话去看看"
+      "name": "观看第1章第9话"
     },
     {
       "id": "main_task_group-01-01#40",
@@ -4471,7 +4471,7 @@
     },
     {
       "id": "main_task_group-01-01#41",
-      "name": "在培育中挑战难度Pro吧"
+      "name": "进行培育难度专业"
     },
     {
       "id": "main_task_group-01-01#42",
@@ -4479,7 +4479,7 @@
     },
     {
       "id": "main_task_group-01-01#43",
-      "name": "1章10话去看看"
+      "name": "观看第1章第10话"
     },
     {
       "id": "main_task_group-01-01#44",
@@ -4491,11 +4491,11 @@
     },
     {
       "id": "main_task_group-01-01#46",
-      "name": "在培育中将任一分数培育到600以上吧"
+      "name": "在培育中将任意数值提升至600以上"
     },
     {
       "id": "main_task_group-01-01#47",
-      "name": "1章11话去看看"
+      "name": "观看第1章第11话"
     },
     {
       "id": "main_task_group-01-01#48",
@@ -4503,15 +4503,15 @@
     },
     {
       "id": "main_task_group-01-01#49",
-      "name": "挑战培育并获得评价B以上吧\n【条件】感性方案的可培育偶像"
+      "name": "挑战培育获取评价B以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "id": "main_task_group-01-01#50",
-      "name": "挑战培育并获得评价B以上吧\n【条件】理性方案的可培育偶像"
+      "name": "挑战培育获取评价B以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "id": "main_task_group-01-01#51",
-      "name": "1章12话去看看"
+      "name": "观看第1章第12话"
     },
     {
       "id": "main_task_group-01-01#52",
@@ -4519,11 +4519,11 @@
     },
     {
       "id": "main_task_group-01-01#53",
-      "name": "在最终考试中获得第1名吧"
+      "name": "在最终考试中成为第一"
     },
     {
       "id": "main_task_group-01-01#54",
-      "name": "1章13话去看看"
+      "name": "观看第1章第13话"
     },
     {
       "id": "main_task_group-01-01#55",
@@ -4535,7 +4535,7 @@
     },
     {
       "id": "main_task_group-01-01#57",
-      "name": "培育使任意分数达到800以上"
+      "name": "在培育中将任意数值提升至800以上"
     },
     {
       "id": "main_task_group-01-01#58",
@@ -4547,7 +4547,7 @@
     },
     {
       "id": "main_task_group-01-01#60",
-      "name": "观看TrueEnd"
+      "name": "看看TrueEnd"
     },
     {
       "id": "main_task_group-02-01#1",
@@ -4587,7 +4587,7 @@
     },
     {
       "id": "main_task_group-02-01#10",
-      "name": "挑战培育并获得评价B+以上"
+      "name": "挑战培育获取评价B+以上"
     },
     {
       "id": "main_task_group-02-01#11",
@@ -4599,11 +4599,11 @@
     },
     {
       "id": "main_task_group-02-01#13",
-      "name": "挑战培育并获得评价B+以上\n【条件】感性方案的可培育偶像"
+      "name": "挑战培育获取评价B+以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "id": "main_task_group-02-01#14",
-      "name": "挑战培育并获得评价B+以上\n【条件】理性方案的可培育偶像"
+      "name": "挑战培育获取评价B+以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "id": "main_task_group-02-01#15",
@@ -4655,7 +4655,7 @@
     },
     {
       "id": "main_task_group-02-01#27",
-      "name": "挑战竞赛"
+      "name": "让我们挑战竞赛"
     },
     {
       "id": "main_task_group-02-01#28",
@@ -4667,7 +4667,7 @@
     },
     {
       "id": "main_task_group-02-01#30",
-      "name": "通过培育的最终考试\n【条件】：花海咲季"
+      "name": "培育通过最终考试\n【条件】：花海 咲季"
     },
     {
       "id": "main_task_group-02-01#31",
@@ -4675,7 +4675,7 @@
     },
     {
       "id": "main_task_group-02-01#32",
-      "name": "通过培育的最终考试\n【条件】：月村手毬"
+      "name": "培育中通过最终考试\n【条件】：月村 手毬"
     },
     {
       "id": "main_task_group-02-01#33",
@@ -4683,7 +4683,7 @@
     },
     {
       "id": "main_task_group-02-01#34",
-      "name": "通过培育的最终考试\n【条件】：藤田琴音"
+      "name": "培育通过最终考试\n【条件】：藤田 ことね"
     },
     {
       "id": "main_task_group-02-01#35",
@@ -4695,7 +4695,7 @@
     },
     {
       "id": "main_task_group-02-01#37",
-      "name": "通过培育的最终考试\n【条件】：有村麻央"
+      "name": "培育中通过最终考试\n【条件】：有村 麻央"
     },
     {
       "id": "main_task_group-02-01#38",
@@ -4703,7 +4703,7 @@
     },
     {
       "id": "main_task_group-02-01#39",
-      "name": "通过培育的最终考试\n【条件】：姫崎莉波"
+      "name": "培育中通过最终考试\n【条件】：姫崎 莉波"
     },
     {
       "id": "main_task_group-02-01#40",
@@ -4711,11 +4711,11 @@
     },
     {
       "id": "main_task_group-02-01#41",
-      "name": "通过培育的最终考试\n【条件】：葛城莉莉娅"
+      "name": "培育通过最终考试\n【条件】：葛城 リーリヤ"
     },
     {
       "id": "main_task_group-02-01#42",
-      "name": "挑战竞赛"
+      "name": "让我们挑战竞赛"
     },
     {
       "id": "main_task_group-02-01#43",
@@ -4723,7 +4723,7 @@
     },
     {
       "id": "main_task_group-02-01#44",
-      "name": "通过培育的最终考试\n【条件】：紫云清夏"
+      "name": "培育中通过最终考试\n【条件】：紫雲 清夏"
     },
     {
       "id": "main_task_group-02-01#45",
@@ -4731,7 +4731,7 @@
     },
     {
       "id": "main_task_group-02-01#46",
-      "name": "通过培育的最终考试\n【条件】：筱泽广"
+      "name": "培育中通过最终考试\n【条件】：篠澤 広"
     },
     {
       "id": "main_task_group-02-01#47",
@@ -4739,7 +4739,7 @@
     },
     {
       "id": "main_task_group-02-01#48",
-      "name": "培育通过最终考试\n【条件】：仓本千奈"
+      "name": "培育中通过最终考试\n【条件】：倉本 千奈"
     },
     {
       "id": "main_task_group-02-01#49",
@@ -4751,7 +4751,7 @@
     },
     {
       "id": "main_task_group-02-01#51",
-      "name": "挑战培育获得评价A以上"
+      "name": "进行培育并获得评价A以上"
     },
     {
       "id": "main_task_group-02-01#52",
@@ -4763,11 +4763,11 @@
     },
     {
       "id": "main_task_group-02-01#54",
-      "name": "挑战培育获得评价A以上\n【条件】感性方案的可培育偶像"
+      "name": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "id": "main_task_group-02-01#55",
-      "name": "挑战培育获得评价A以上\n【条件】理性方案的可培育偶像"
+      "name": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "id": "main_task_group-02-01#56",
@@ -4775,7 +4775,7 @@
     },
     {
       "id": "main_task_group-02-01#57",
-      "name": "挑战竞赛"
+      "name": "让我们挑战竞赛"
     },
     {
       "id": "main_task_group-02-01#58",
@@ -4795,7 +4795,7 @@
     },
     {
       "id": "main_task_group-02-01#62",
-      "name": "挑战培育获得评价A以上"
+      "name": "进行培育并获得评价A以上"
     },
     {
       "id": "main_task_group-02-01#63",
@@ -4811,11 +4811,11 @@
     },
     {
       "id": "main_task_group-02-01#66",
-      "name": "挑战培育获得评价A以上\n【条件】感性方案的可培育偶像"
+      "name": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "id": "main_task_group-02-01#67",
-      "name": "挑战培育获得评价A以上\n【条件】理性方案的可培育偶像"
+      "name": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "id": "main_task_group-02-01#68",
@@ -4951,11 +4951,11 @@
     },
     {
       "id": "main_task_group-03-01#1",
-      "name": "完成培训的【基础7】全力"
+      "name": "完成培训【基础7】全力"
     },
     {
       "id": "main_task_group-03-01#2",
-      "name": "完成培训的【基础8】强气"
+      "name": "完成培训【基础8】强气"
     },
     {
       "id": "main_task_group-03-01#3",
@@ -4967,7 +4967,7 @@
     },
     {
       "id": "main_task_group-03-01#5",
-      "name": "完成研修的【应用5】非凡方案"
+      "name": "完成培训【应用5】非凡方案"
     },
     {
       "id": "main_task_group-03-01#6",
@@ -4999,11 +4999,11 @@
     },
     {
       "id": "main_task_group-03-01#13",
-      "name": "完成任何一个敏腕P研修"
+      "name": "完成敏锐P培训中的任何一项"
     },
     {
       "id": "main_task_group-03-01#14",
-      "name": "挑战培育模式下的难度Master"
+      "name": "挑战培育中的难度Master"
     },
     {
       "id": "main_task_group-03-01#15",
@@ -5083,7 +5083,7 @@
     },
     {
       "id": "main_task_group-03-01#34",
-      "name": "挑战培育并获得评价A+以上"
+      "name": "进行培育并获得评价A+以上"
     },
     {
       "id": "main_task_group-03-01#35",

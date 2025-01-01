@@ -41,7 +41,7 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-bonus",
       "order": 3,
-      "name": "活动加成"
+      "name": "事件加成"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
@@ -71,7 +71,7 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-mission",
       "order": 6,
-      "name": "活动任务"
+      "name": "事件任务"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
@@ -101,7 +101,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-mission",
       "order": 7,
-      "name": "活动任务"
+      "name": "事件任务"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
@@ -125,7 +125,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-stage",
       "order": 2,
-      "name": "舞台"
+      "name": "阶段"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
@@ -137,7 +137,7 @@
       "helpCategoryId": "help-contest",
       "id": "contest-contest",
       "order": 1,
-      "name": "竞赛"
+      "name": "比赛"
     },
     {
       "helpCategoryId": "help-contest",
@@ -155,13 +155,13 @@
       "helpCategoryId": "help-contest",
       "id": "contest-preparation-period",
       "order": 7,
-      "name": "举办准备期间"
+      "name": "活动准备期"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-rate-pt",
       "order": 9,
-      "name": "汇率Pt"
+      "name": "评级Pt"
     },
     {
       "helpCategoryId": "help-contest",
@@ -173,7 +173,7 @@
       "helpCategoryId": "help-contest",
       "id": "contest-season",
       "order": 6,
-      "name": "季节"
+      "name": "赛季"
     },
     {
       "helpCategoryId": "help-contest",
@@ -185,19 +185,19 @@
       "helpCategoryId": "help-contest",
       "id": "contest-stage",
       "order": 4,
-      "name": "舞台"
+      "name": "阶段"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-total",
       "order": 5,
-      "name": "综合实力"
+      "name": "综合能力"
     },
     {
       "helpCategoryId": "help-event_mission",
       "id": "event_mission-event_mission",
       "order": 1,
-      "name": "活动任务"
+      "name": "事件任务"
     },
     {
       "helpCategoryId": "help-event-mission",
@@ -287,7 +287,7 @@
       "helpCategoryId": "help-home",
       "id": "home-home",
       "order": 1,
-      "name": "首页"
+      "name": "主页"
     },
     {
       "helpCategoryId": "help-home",
@@ -311,7 +311,7 @@
       "helpCategoryId": "help-home",
       "id": "home-money-received",
       "order": 5,
-      "name": "活动资金"
+      "name": "活动费用"
     },
     {
       "helpCategoryId": "help-home",
@@ -329,7 +329,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-another",
       "order": 2,
-      "name": "其他偶像"
+      "name": "Another 偶像"
     },
     {
       "helpCategoryId": "help-idol",
@@ -497,7 +497,7 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-bonus",
       "order": 4,
-      "name": "活动加成"
+      "name": "事件加成"
     },
     {
       "helpCategoryId": "help-main-story-event",
@@ -521,13 +521,13 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-mission",
       "order": 2,
-      "name": "活动任务"
+      "name": "事件任务"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-point",
       "order": 5,
-      "name": "累计活动Pt奖励"
+      "name": "累计事件Pt奖励"
     },
     {
       "helpCategoryId": "help-main-story-event",
@@ -587,7 +587,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-data-linkage",
       "order": 17,
-      "name": "数据联动"
+      "name": "数据关联"
     },
     {
       "helpCategoryId": "help-menu",
@@ -641,7 +641,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-predownload",
       "order": 16,
-      "name": "批量DL"
+      "name": "全部DL"
     },
     {
       "helpCategoryId": "help-menu",
@@ -653,13 +653,13 @@
       "helpCategoryId": "help-menu",
       "id": "menu-profile",
       "order": 1,
-      "name": "个人资料"
+      "name": "简介"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-roster",
       "order": 11,
-      "name": "名单"
+      "name": "名册"
     },
     {
       "helpCategoryId": "help-menu",
@@ -683,7 +683,7 @@
       "helpCategoryId": "help-mission",
       "id": "mission-event",
       "order": 6,
-      "name": "活动任务"
+      "name": "事件任务"
     },
     {
       "helpCategoryId": "help-mission",
@@ -737,7 +737,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-character-growth",
       "order": 13,
-      "name": "培育目标"
+      "name": "育成目标"
     },
     {
       "helpCategoryId": "help-produce",
@@ -749,7 +749,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-costume-choice",
       "order": 3,
-      "name": "服装选择"
+      "name": "衣装选择"
     },
     {
       "helpCategoryId": "help-produce",
@@ -839,7 +839,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-live",
       "order": 28,
-      "name": "P直播"
+      "name": "P演出"
     },
     {
       "helpCategoryId": "help-produce",
@@ -941,7 +941,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-select-info",
       "order": 5,
-      "name": "编成详情"
+      "name": "编成详细"
     },
     {
       "helpCategoryId": "help-produce",
@@ -953,7 +953,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-seminar",
       "order": 36,
-      "name": "研修"
+      "name": "培训"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1001,7 +1001,7 @@
       "helpCategoryId": "help-shop",
       "id": "shop-coingasha",
       "order": 5,
-      "name": "硬币扭蛋"
+      "name": "金币扭蛋"
     },
     {
       "helpCategoryId": "help-shop",
@@ -1025,7 +1025,7 @@
       "helpCategoryId": "help-shop",
       "id": "shop-exchange-ticket",
       "order": 8,
-      "name": "票券交换所"
+      "name": "票交换所"
     },
     {
       "helpCategoryId": "help-shop",
@@ -1097,13 +1097,13 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-mission",
       "order": 5,
-      "name": "活动任务"
+      "name": "事件任务"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-point",
       "order": 3,
-      "name": "累计活动Pt奖励"
+      "name": "累计事件Pt奖励"
     },
     {
       "helpCategoryId": "help-story-event",
@@ -1115,7 +1115,7 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story-bonus",
       "order": 2,
-      "name": "活动加成"
+      "name": "事件加成"
     },
     {
       "helpCategoryId": "help-story-event",
@@ -1175,13 +1175,13 @@
       "helpCategoryId": "help-support",
       "id": "support-support-card-level-limit-rank",
       "order": 6,
-      "name": "上限解锁"
+      "name": "解锁上限"
     },
     {
       "helpCategoryId": "help-support",
       "id": "support-support-event",
       "order": 3,
-      "name": "支援活动"
+      "name": "支援事件"
     },
     {
       "helpCategoryId": "help-tower",

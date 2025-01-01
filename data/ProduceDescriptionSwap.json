@@ -144,7 +144,7 @@
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分"
+      "text": "分数"
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
@@ -169,12 +169,12 @@
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数上升量增加"
+      "text": "数值提升量增加"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "得分上升量增加"
+      "text": "得分提升量增加"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
@@ -209,7 +209,7 @@
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数值增加"
+      "text": "数值增加"
     },
     {
       "id": "Swap_Label_LessonAdd",
@@ -219,7 +219,7 @@
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "分数上升次数增加"
+      "text": "数值上升次数增加"
     },
     {
       "id": "Swap_Label_LessonCountAdd",

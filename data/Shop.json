@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "shop_costume",
-      "name": "服装"
+      "name": "衣装"
     },
     {
       "id": "shop_jewel",
@@ -15,7 +15,7 @@
     },
     {
       "id": "shop_pack",
-      "name": "礼包"
+      "name": "包"
     },
     {
       "id": "shop_pass",

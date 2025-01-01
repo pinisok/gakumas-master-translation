@@ -300,7 +300,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "新鲜醋"
+      "name": "新鲜醋饮"
     },
     {
       "id": "pdrink_00-2-008",
@@ -313,7 +313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -383,7 +383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -433,7 +433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -519,7 +519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -565,7 +565,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数追加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -690,7 +690,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "维生素饮料"
+      "name": "维他命饮料"
     },
     {
       "id": "pdrink_01-1-003",
@@ -832,7 +832,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "耐力爆发饮料"
+      "name": "爆发耐力饮料"
     },
     {
       "id": "pdrink_01-3-002",
@@ -907,7 +907,7 @@
           "targetId": ""
         }
       ],
-      "name": "严选初星玛奇朵"
+      "name": "精选初星玛奇朵"
     },
     {
       "id": "pdrink_01-3-004",
@@ -1029,7 +1029,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "南非国宝茶"
+      "name": "路易波士茶"
     },
     {
       "id": "pdrink_02-1-008",
@@ -1201,7 +1201,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "时尚草药茶"
+      "name": "时尚草本茶"
     },
     {
       "id": "pdrink_02-3-006",
@@ -1464,7 +1464,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1514,7 +1514,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1850,7 +1850,7 @@
           "targetId": ""
         }
       ],
-      "name": "精选初星奶茶"
+      "name": "精选初星茶"
     },
     {
       "id": "pdrink_03-3-009",
@@ -1903,7 +1903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1936,7 +1936,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "初星超级汽水"
+      "name": "初星超级苏打"
     },
     {
       "id": "pdrink_03-3-011",
@@ -1949,7 +1949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "追加回合"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1979,7 +1979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2029,7 +2029,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

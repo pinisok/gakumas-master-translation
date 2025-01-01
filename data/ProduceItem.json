@@ -345,7 +345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -365,7 +365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -431,7 +431,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -481,7 +481,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -577,7 +577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -683,7 +683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -703,7 +703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -819,7 +819,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -935,7 +935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1273,7 +1273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1399,7 +1399,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1465,7 +1465,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1926,7 +1926,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "必备不锈钢瓶"
+      "name": "必携不锈钢瓶"
     },
     {
       "id": "pitem_00-1-002-1",
@@ -2042,7 +2042,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "必备不锈钢瓶+"
+      "name": "必携不锈钢瓶+"
     },
     {
       "id": "pitem_00-1-003-0",
@@ -2158,7 +2158,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "小孩手工制作的勋章"
+      "name": "小孩手工奖牌"
     },
     {
       "id": "pitem_00-1-003-1",
@@ -2274,7 +2274,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "小孩手工制作的勋章+"
+      "name": "小孩手工奖牌+"
     },
     {
       "id": "pitem_00-1-004-0",
@@ -2821,7 +2821,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2864,7 +2864,7 @@
           "text": ""
         }
       ],
-      "name": "超级安眠面膜"
+      "name": "超绝安眠面膜"
     },
     {
       "id": "pitem_00-1-006-1",
@@ -2967,7 +2967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3010,7 +3010,7 @@
           "text": ""
         }
       ],
-      "name": "超级安眠面膜+"
+      "name": "超绝安眠面膜+"
     },
     {
       "id": "pitem_00-1-007-0",
@@ -3116,7 +3116,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "绿色的配套手镯"
+      "name": "绿色配对手环"
     },
     {
       "id": "pitem_00-1-007-1",
@@ -3222,7 +3222,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "绿色的配套手镯+"
+      "name": "绿色配对手环+"
     },
     {
       "id": "pitem_00-1-008-0",
@@ -3318,7 +3318,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "粉色的配套手镯"
+      "name": "粉色配对手环"
     },
     {
       "id": "pitem_00-1-008-1",
@@ -3414,7 +3414,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "粉色的成对手链+"
+      "name": "粉色配对手环+"
     },
     {
       "id": "pitem_00-1-009-0",
@@ -3712,7 +3712,7 @@
           "text": "5%"
         }
       ],
-      "name": "强化抓手"
+      "name": "强化握力器"
     },
     {
       "id": "pitem_00-1-026-challenge",
@@ -3798,7 +3798,7 @@
           "text": "10%"
         }
       ],
-      "name": "强化高跟鞋"
+      "name": "强化鞋跟"
     },
     {
       "id": "pitem_00-1-027-challenge",
@@ -3894,7 +3894,7 @@
           "text": "\n（培育中2次）"
         }
       ],
-      "name": "强化乐队"
+      "name": "强化弹力带"
     },
     {
       "id": "pitem_00-1-028-challenge",
@@ -3990,7 +3990,7 @@
           "text": "\n（培育中1次）"
         }
       ],
-      "name": "强化最佳"
+      "name": "强化背心"
     },
     {
       "id": "pitem_00-2-001-0",
@@ -4068,7 +4068,7 @@
           "text": "26"
         }
       ],
-      "name": "亲手制作的奖励"
+      "name": "手工奖励"
     },
     {
       "id": "pitem_00-2-004-0",
@@ -4084,7 +4084,7 @@
           "text": "舞蹈SP课程结束时，随机获得2个P饮料"
         }
       ],
-      "name": "柔软蓬松"
+      "name": "蓬松又柔软"
     },
     {
       "id": "pitem_00-2-005-0",
@@ -4162,7 +4162,7 @@
           "text": "13"
         }
       ],
-      "name": "一起午睡香囊"
+      "name": "一起午睡的香囊"
     },
     {
       "id": "pitem_00-2-008-0",
@@ -4188,7 +4188,7 @@
           "text": "13"
         }
       ],
-      "name": "我发现的逸才笔记"
+      "name": "我发现的人才备忘录"
     },
     {
       "id": "pitem_00-2-009-0",
@@ -4868,7 +4868,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "喜爱的运动鞋"
+      "name": "心爱的运动鞋"
     },
     {
       "id": "pitem_00-2-011-1",
@@ -4984,7 +4984,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "喜爱的运动鞋+"
+      "name": "心爱的运动鞋+"
     },
     {
       "id": "pitem_00-2-012-0",
@@ -5090,7 +5090,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "Dear小王子"
+      "name": "亲爱的“小王子”"
     },
     {
       "id": "pitem_00-2-012-1",
@@ -5196,7 +5196,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "Dear小王子+"
+      "name": "亲爱的“小王子”+"
     },
     {
       "id": "pitem_00-2-013-0",
@@ -5312,7 +5312,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "给你的慰问补给"
+      "name": "给你的加餐"
     },
     {
       "id": "pitem_00-2-013-1",
@@ -5428,7 +5428,7 @@
           "text": "内4次）"
         }
       ],
-      "name": "给你的慰问补给+"
+      "name": "给你的加餐+"
     },
     {
       "id": "pitem_00-2-014-0",
@@ -5544,7 +5544,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "人人都懂的入门书"
+      "name": "谁都懂的入门书"
     },
     {
       "id": "pitem_00-2-014-1",
@@ -5660,7 +5660,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "人人都懂的入门书+"
+      "name": "谁都懂的入门书+"
     },
     {
       "id": "pitem_00-2-015-0",
@@ -6177,7 +6177,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6250,7 +6250,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "不气馁的手帕"
+      "name": "不沮丧的手帕"
     },
     {
       "id": "pitem_00-2-017-1",
@@ -6363,7 +6363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6436,7 +6436,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "不气馁的手帕+"
+      "name": "不沮丧的手帕+"
     },
     {
       "id": "pitem_00-2-028-0",
@@ -6498,7 +6498,7 @@
           "text": "15"
         }
       ],
-      "name": "清晨的帮手"
+      "name": "早晨的救援"
     },
     {
       "id": "pitem_00-2-030-0",
@@ -6620,7 +6620,7 @@
           "text": "\n（培育中1次）"
         }
       ],
-      "name": "强化条"
+      "name": "强化杠铃"
     },
     {
       "id": "pitem_00-2-040-challenge",
@@ -6706,7 +6706,7 @@
           "text": "15%"
         }
       ],
-      "name": "强化滚筒"
+      "name": "强化滚轮"
     },
     {
       "id": "pitem_00-2-041-challenge",
@@ -6974,7 +6974,7 @@
           "text": "20%"
         }
       ],
-      "name": "强化踏板"
+      "name": "强化踏步机"
     },
     {
       "id": "pitem_00-3-001-0",
@@ -6987,7 +6987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "课程结束时，增加课程奖励的技能卡选项"
+          "text": "课程结束时，增加课程奖励的技能卡选择"
         }
       ],
       "name": "初星胸针"
@@ -7069,7 +7069,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7162,7 +7162,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "不可捉摸的东西"
+      "name": "未知的存在"
     },
     {
       "id": "pitem_00-3-010-0",
@@ -7195,7 +7195,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7377,7 +7377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7470,7 +7470,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "后悔的象征"
+      "name": "悔恨的象征"
     },
     {
       "id": "pitem_00-3-013-0",
@@ -7586,7 +7586,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "拭去阴云的毛巾"
+      "name": "擦去阴霾的毛巾"
     },
     {
       "id": "pitem_00-3-014-0",
@@ -7712,7 +7712,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "侦察遮阳帽"
+      "name": "侦察遮挡帽"
     },
     {
       "id": "pitem_00-3-015-0",
@@ -7738,7 +7738,7 @@
           "text": "9"
         }
       ],
-      "name": "信赖的象征"
+      "name": "信任的象征"
     },
     {
       "id": "pitem_00-3-016-0",
@@ -7937,7 +7937,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8010,7 +8010,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "共战毛巾"
+      "name": "一起战斗的毛巾"
     },
     {
       "id": "pitem_00-3-017-1",
@@ -8093,7 +8093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8216,7 +8216,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "共战毛巾+"
+      "name": "一起战斗的毛巾+"
     },
     {
       "id": "pitem_00-3-018-0",
@@ -8259,7 +8259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8425,7 +8425,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8641,7 +8641,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8807,7 +8807,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9318,7 +9318,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "等身大的淑女唇膏"
+      "name": "真实的女士唇膏"
     },
     {
       "id": "pitem_00-3-021-1",
@@ -9424,7 +9424,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "等身大的淑女唇膏+"
+      "name": "真实的女士唇膏+"
     },
     {
       "id": "pitem_00-3-022-0",
@@ -9527,7 +9527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9570,7 +9570,7 @@
           "text": ""
         }
       ],
-      "name": "闲游研究笔记"
+      "name": "闲逛研究笔记"
     },
     {
       "id": "pitem_00-3-022-1",
@@ -9673,7 +9673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9716,7 +9716,7 @@
           "text": ""
         }
       ],
-      "name": "闲游研究笔记+"
+      "name": "闲逛研究笔记+"
     },
     {
       "id": "pitem_00-3-023-0",
@@ -9892,7 +9892,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "梦中的生活记录"
+      "name": "梦想生活日志"
     },
     {
       "id": "pitem_00-3-023-1",
@@ -10068,7 +10068,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "梦中的生活记录+"
+      "name": "梦想生活日志+"
     },
     {
       "id": "pitem_00-3-024-0",
@@ -10280,7 +10280,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "游戏中心的战利品+"
+      "name": "游戏厅的战利品+"
     },
     {
       "id": "pitem_00-3-025-0",
@@ -10386,7 +10386,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "秘密特训卡片"
+      "name": "秘密特训针织衫"
     },
     {
       "id": "pitem_00-3-025-1",
@@ -10492,7 +10492,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "秘密特训卡片+"
+      "name": "秘密特训针织衫+"
     },
     {
       "id": "pitem_00-3-026-0",
@@ -10525,7 +10525,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10598,7 +10598,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "和好之契机"
+      "name": "和解的契机"
     },
     {
       "id": "pitem_00-3-027-0",
@@ -10631,7 +10631,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10704,7 +10704,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "充满梦想的大包裹"
+      "name": "充满梦想的大包"
     },
     {
       "id": "pitem_00-3-028-0",
@@ -10926,7 +10926,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "架起彩虹的十字架"
+      "name": "架起彩虹的十字"
     },
     {
       "id": "pitem_00-3-054-0",
@@ -10972,7 +10972,7 @@
           "text": "2"
         }
       ],
-      "name": "远征记录"
+      "name": "投票的记录"
     },
     {
       "id": "pitem_00-3-059-0",
@@ -11005,7 +11005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11134,7 +11134,7 @@
           "text": "折扣"
         }
       ],
-      "name": "谢谢款待"
+      "name": "我吃饱了"
     },
     {
       "id": "pitem_00-3-093-0",
@@ -11312,7 +11312,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_01-0-001-0-001",
@@ -11325,7 +11325,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11445,7 +11445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11518,7 +11518,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_01-0-001-0-002",
@@ -11641,7 +11641,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11714,7 +11714,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_01-0-005-0-000",
@@ -11787,7 +11787,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11880,7 +11880,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-001",
@@ -11933,7 +11933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11976,7 +11976,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-002",
@@ -12049,7 +12049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12122,7 +12122,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-003",
@@ -12288,7 +12288,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-004",
@@ -12311,7 +12311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12454,7 +12454,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-005",
@@ -12550,7 +12550,7 @@
           "text": "内4次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-006",
@@ -12683,7 +12683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12726,7 +12726,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-007",
@@ -12822,7 +12822,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-008",
@@ -12918,7 +12918,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-009",
@@ -13064,7 +13064,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-0-005-0-010",
@@ -13210,7 +13210,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_01-1-015-0",
@@ -13223,7 +13223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "初次奖励"
+          "text": "第一次的奖励"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13316,7 +13316,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初声之证·琴音"
+      "name": "初声的证明・琴音"
     },
     {
       "id": "pitem_01-1-015-1",
@@ -13329,7 +13329,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "初次奖励"
+          "text": "第一次的奖励"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13565,7 +13565,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13638,7 +13638,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初心之证·莉莉娅"
+      "name": "初心的证明·莉莉娅"
     },
     {
       "id": "pitem_01-1-017-1",
@@ -13887,7 +13887,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14093,7 +14093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14239,7 +14239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14342,7 +14342,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初恋的证明·广"
+      "name": "初恋的证明・广"
     },
     {
       "id": "pitem_01-1-020-1",
@@ -14415,7 +14415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14711,7 +14711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14957,7 +14957,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15046,7 +15046,7 @@
           "text": "6"
         }
       ],
-      "name": "双重瓶"
+      "name": "双瓶"
     },
     {
       "id": "pitem_01-2-025-0",
@@ -15284,7 +15284,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "找到小秋天"
+      "name": "找到了小秋天"
     },
     {
       "id": "pitem_01-2-036-0",
@@ -15802,7 +15802,7 @@
           "text": "（培育中3次）"
         }
       ],
-      "name": "强化束带（紫）"
+      "name": "强化弹力带（紫）"
     },
     {
       "id": "pitem_01-2-046-challenge",
@@ -16144,7 +16144,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "强化杆（紫）"
+      "name": "强化杠铃（紫）"
     },
     {
       "id": "pitem_01-2-048-challenge",
@@ -16347,7 +16347,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16543,7 +16543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16593,7 +16593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16842,7 +16842,7 @@
           "text": "（培育中5次）"
         }
       ],
-      "name": "强化治疗（绿）"
+      "name": "强化鞋跟（绿）"
     },
     {
       "id": "pitem_01-2-051-challenge",
@@ -17008,7 +17008,7 @@
           "text": "（培育中3次）"
         }
       ],
-      "name": "强化乐队（绿）"
+      "name": "强化弹力带（绿）"
     },
     {
       "id": "pitem_01-2-052-challenge",
@@ -17350,7 +17350,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "强化酒吧（绿）"
+      "name": "强化杠铃（绿）"
     },
     {
       "id": "pitem_01-2-054-challenge",
@@ -17553,7 +17553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17749,7 +17749,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17799,7 +17799,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17915,7 +17915,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18038,7 +18038,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星手帐"
+      "name": "初星手账"
     },
     {
       "id": "pitem_01-3-004-0",
@@ -18081,7 +18081,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18360,7 +18360,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "最快乐的源泉"
+      "name": "最高快乐之源"
     },
     {
       "id": "pitem_01-3-030-1",
@@ -18516,7 +18516,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "最快乐的源泉+"
+      "name": "最高快乐之源+"
     },
     {
       "id": "pitem_01-3-034-0",
@@ -18539,7 +18539,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18675,7 +18675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18861,7 +18861,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18964,7 +18964,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "未见的世界"
+      "name": "前往未见的世界"
     },
     {
       "id": "pitem_01-3-035-1",
@@ -19037,7 +19037,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19140,7 +19140,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "未见世界+"
+      "name": "前往未见的世界+"
     },
     {
       "id": "pitem_01-3-036-0",
@@ -19488,7 +19488,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "瓶中的闪耀"
+      "name": "瓶中的闪光"
     },
     {
       "id": "pitem_01-3-038-1",
@@ -19604,7 +19604,7 @@
           "text": "内4次）"
         }
       ],
-      "name": "瓶中的闪耀+"
+      "name": "瓶中的闪光+"
     },
     {
       "id": "pitem_01-3-039-0",
@@ -19737,7 +19737,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19810,7 +19810,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "满满的心动"
+      "name": "心跳时刻"
     },
     {
       "id": "pitem_01-3-039-1",
@@ -20192,7 +20192,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "恶作剧玩偶"
+      "name": "淘气木偶"
     },
     {
       "id": "pitem_01-3-044-1",
@@ -20524,7 +20524,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "幽～灵～哦～"
+      "name": "怨灵出动～"
     },
     {
       "id": "pitem_01-3-046-1",
@@ -20733,7 +20733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20806,7 +20806,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "圣诞狮子"
+      "name": "圣诞快乐狮子"
     },
     {
       "id": "pitem_01-3-049-1",
@@ -21437,7 +21437,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21510,7 +21510,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "强力球"
+      "name": "超能力球"
     },
     {
       "id": "pitem_01-3-058-0",
@@ -21536,7 +21536,7 @@
           "text": "获得技能卡效果时，舞蹈力达到200以上时，随机获得一瓶P饮料（SR以上）\n（培育中4次）"
         }
       ],
-      "name": "心满意足"
+      "name": "温暖饱腹"
     },
     {
       "id": "pitem_01-3-061-0",
@@ -21572,7 +21572,7 @@
           "text": "\n（培育中1次）"
         }
       ],
-      "name": "亮丽蓬松"
+      "name": "油亮蓬松"
     },
     {
       "id": "pitem_01-3-067-0",
@@ -21698,7 +21698,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "温泉后的乐趣"
+      "name": "温泉之后的乐趣"
     },
     {
       "id": "pitem_01-3-067-1",
@@ -21907,7 +21907,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21957,7 +21957,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22030,7 +22030,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "面对的觉悟"
+      "name": "面对应对的觉悟"
     },
     {
       "id": "pitem_01-3-069-1",
@@ -22113,7 +22113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22163,7 +22163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22249,7 +22249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "顺势而为"
+          "text": "凭势而为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22319,7 +22319,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22369,7 +22369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22442,7 +22442,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "传递给太阳的歌声"
+      "name": "传达至太阳的歌声"
     },
     {
       "id": "pitem_01-3-070-1",
@@ -22455,7 +22455,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "顺势而为"
+          "text": "凭势而为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22525,7 +22525,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22575,7 +22575,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22681,7 +22681,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22761,7 +22761,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22867,7 +22867,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22947,7 +22947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23372,7 +23372,7 @@
           "text": "%</nobr>"
         }
       ],
-      "name": "强化步进器（紫）"
+      "name": "强化踏步机（紫）"
     },
     {
       "id": "pitem_01-3-082-challenge",
@@ -23724,7 +23724,7 @@
           "text": "%</nobr>"
         }
       ],
-      "name": "强化步进器（绿）"
+      "name": "强化踏步机（绿）"
     },
     {
       "id": "pitem_01-3-100-0",
@@ -25179,7 +25179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26048,7 +26048,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "科技犬"
+      "name": "科技狗"
     },
     {
       "id": "pitem_02-1-010-1",
@@ -26164,7 +26164,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "科技犬+"
+      "name": "科技狗+"
     },
     {
       "id": "pitem_02-1-013-0",
@@ -26270,7 +26270,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初声之证·咲季"
+      "name": "初声的证明・咲季"
     },
     {
       "id": "pitem_02-1-013-1",
@@ -26522,7 +26522,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初声之证·手毬"
+      "name": "初声的证明・手毬"
     },
     {
       "id": "pitem_02-1-014-1",
@@ -26834,7 +26834,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初恋之证·麻央"
+      "name": "初恋的证明・麻央"
     },
     {
       "id": "pitem_02-1-016-1",
@@ -27123,7 +27123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27196,7 +27196,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初恋之证·清夏"
+      "name": "初恋的证明・清夏"
     },
     {
       "id": "pitem_02-1-019-1",
@@ -27319,7 +27319,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27488,7 +27488,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初心之证·莉波"
+      "name": "初心的证明·莉波"
     },
     {
       "id": "pitem_02-1-021-1",
@@ -27777,7 +27777,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27830,7 +27830,7 @@
           "text": "（培育中2次）"
         }
       ],
-      "name": "强化握把（黄）"
+      "name": "强化握力器（黄）"
     },
     {
       "id": "pitem_02-1-032-challenge",
@@ -28023,7 +28023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28076,7 +28076,7 @@
           "text": "（培育中2次）"
         }
       ],
-      "name": "强化握把（红）"
+      "name": "强化握力器（红）"
     },
     {
       "id": "pitem_02-2-018-0",
@@ -28304,7 +28304,7 @@
           "text": "6"
         }
       ],
-      "name": "咲季推荐垫子"
+      "name": "咲季推荐的垫子"
     },
     {
       "id": "pitem_02-2-024-0",
@@ -28340,7 +28340,7 @@
           "text": "6"
         }
       ],
-      "name": "可爱隐藏浴巾"
+      "name": "可爱的隐藏浴巾"
     },
     {
       "id": "pitem_02-2-031-0",
@@ -28406,7 +28406,7 @@
           "text": "\n（培育中1次）"
         }
       ],
-      "name": "温柔奶糖"
+      "name": "温柔牛奶糖"
     },
     {
       "id": "pitem_02-2-032-0",
@@ -28472,7 +28472,7 @@
           "text": "\n（培育中1次）"
         }
       ],
-      "name": "大且光滑"
+      "name": "又大又光滑"
     },
     {
       "id": "pitem_02-2-033-0",
@@ -28628,7 +28628,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "小姐的回报"
+      "name": "大小姐的报恩"
     },
     {
       "id": "pitem_02-2-034-0",
@@ -28694,7 +28694,7 @@
           "text": "\n（培育中1次）"
         }
       ],
-      "name": "绝对秘密配方"
+      "name": "绝对是独家秘方"
     },
     {
       "id": "pitem_02-2-037-0",
@@ -29072,7 +29072,7 @@
           "text": "（培育中3次）"
         }
       ],
-      "name": "强化腕带（黄）"
+      "name": "强化弹力带（黄）"
     },
     {
       "id": "pitem_02-2-058-challenge",
@@ -29414,7 +29414,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "强化杠杆（黄）"
+      "name": "强化杠铃（黄）"
     },
     {
       "id": "pitem_02-2-060-challenge",
@@ -29617,7 +29617,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29690,7 +29690,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "强化滚轮（黄）"
+      "name": "强化滚筒（黄）"
     },
     {
       "id": "pitem_02-2-061-challenge",
@@ -29813,7 +29813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29863,7 +29863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30112,7 +30112,7 @@
           "text": "（培育中5次）"
         }
       ],
-      "name": "强化高跟鞋（红）"
+      "name": "强化鞋跟（红）"
     },
     {
       "id": "pitem_02-2-063-challenge",
@@ -30278,7 +30278,7 @@
           "text": "（培育中3次）"
         }
       ],
-      "name": "强化腕带（红）"
+      "name": "强化弹力带（红）"
     },
     {
       "id": "pitem_02-2-064-challenge",
@@ -30620,7 +30620,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "强化棒（红）"
+      "name": "强化杠铃（红）"
     },
     {
       "id": "pitem_02-2-066-challenge",
@@ -30803,7 +30803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30876,7 +30876,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "强化滚筒（红）"
+      "name": "强化滚轮（红）"
     },
     {
       "id": "pitem_02-2-067-challenge",
@@ -30949,7 +30949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31115,7 +31115,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31281,7 +31281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31404,7 +31404,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "吉祥物（非公认）"
+      "name": "吉祥物（非官方）"
     },
     {
       "id": "pitem_02-3-029-0",
@@ -31899,7 +31899,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31972,7 +31972,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "滚动不止的元气之源"
+      "name": "不断滚动的元气之源"
     },
     {
       "id": "pitem_02-3-031-1",
@@ -32075,7 +32075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32148,7 +32148,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "滚动不止的元气之源+"
+      "name": "不断滚动的元气之源+"
     },
     {
       "id": "pitem_02-3-032-0",
@@ -32463,7 +32463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32536,7 +32536,7 @@
           "text": "内4次）"
         }
       ],
-      "name": "青蛙牌风扇"
+      "name": "青蛙标志的风扇"
     },
     {
       "id": "pitem_02-3-033-1",
@@ -32669,7 +32669,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32905,7 +32905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33141,7 +33141,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33300,7 +33300,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "未败的捞鱼网"
+      "name": "永不破败的抄网"
     },
     {
       "id": "pitem_02-3-040-1",
@@ -33416,7 +33416,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "未败的捞鱼网+"
+      "name": "永不破败的抄网+"
     },
     {
       "id": "pitem_02-3-042-0",
@@ -34024,7 +34024,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "笨拙的蝙蝠"
+      "name": "笨拙蝙蝠"
     },
     {
       "id": "pitem_02-3-043-1",
@@ -34503,7 +34503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34576,7 +34576,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "这样就万全了"
+      "name": "这样就没问题"
     },
     {
       "id": "pitem_02-3-045-1",
@@ -34779,7 +34779,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34945,7 +34945,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35240,7 +35240,7 @@
           "text": ""
         }
       ],
-      "name": "好胜的勋章"
+      "name": "不服输的勋章"
     },
     {
       "id": "pitem_02-3-057-0",
@@ -35522,7 +35522,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "固执的气球"
+      "name": "顽固的气球"
     },
     {
       "id": "pitem_02-3-062-0",
@@ -35674,7 +35674,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "两人的温暖"
+      "name": "两个人的温暖"
     },
     {
       "id": "pitem_02-3-066-0",
@@ -35820,7 +35820,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "扑扇的扇子"
+      "name": "煽动扇子"
     },
     {
       "id": "pitem_02-3-066-1",
@@ -35979,7 +35979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆时的笑"
+          "text": "回忆微笑"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36049,7 +36049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36099,7 +36099,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36172,7 +36172,7 @@
           "text": "内3次）"
         }
       ],
-      "name": "属于我的第一颗星"
+      "name": "我唯一的启明星"
     },
     {
       "id": "pitem_02-3-071-1",
@@ -36185,7 +36185,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆时的笑"
+          "text": "回忆微笑"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36255,7 +36255,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36305,7 +36305,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36534,7 +36534,7 @@
           "text": "抽取技能卡"
         }
       ],
-      "name": "强化哑铃（黄）"
+      "name": "强化哑铃（黄色）"
     },
     {
       "id": "pitem_02-3-085-challenge",
@@ -36730,7 +36730,7 @@
           "text": "%</nobr>"
         }
       ],
-      "name": "强化踏步机（黄）"
+      "name": "强化踏步机（黄色）"
     },
     {
       "id": "pitem_02-3-086-challenge",
@@ -37082,7 +37082,7 @@
           "text": "%</nobr>"
         }
       ],
-      "name": "强化踏步机（红）"
+      "name": "强化踏步机（红色）"
     },
     {
       "id": "pitem_02-3-094-0",
@@ -37592,7 +37592,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "茶侍者"
+      "name": "茶叶罐"
     },
     {
       "id": "pitem_03-1-012-1",
@@ -38001,7 +38001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38054,7 +38054,7 @@
           "text": "（培育中2次）"
         }
       ],
-      "name": "强化握力器（粉）"
+      "name": "强化握力器（粉色）"
     },
     {
       "id": "pitem_03-1-034-challenge",
@@ -38277,7 +38277,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38330,7 +38330,7 @@
           "text": "（培育中2次）"
         }
       ],
-      "name": "强化握力器（蓝）"
+      "name": "强化握力器（蓝色）"
     },
     {
       "id": "pitem_03-2-020-0",
@@ -38738,7 +38738,7 @@
           "text": "\n（培育中1次）"
         }
       ],
-      "name": "温暖分享"
+      "name": "轻松一半"
     },
     {
       "id": "pitem_03-2-068-challenge",
@@ -39027,7 +39027,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39100,7 +39100,7 @@
           "text": "（培育中3次）"
         }
       ],
-      "name": "强化绑带（桃）"
+      "name": "强化弹力带（粉色）"
     },
     {
       "id": "pitem_03-2-070-challenge",
@@ -39233,7 +39233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39389,7 +39389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39402,7 +39402,7 @@
           "text": "+5"
         }
       ],
-      "name": "强化条（桃）"
+      "name": "强化杠铃（粉色）"
     },
     {
       "id": "pitem_03-2-072-challenge",
@@ -39475,7 +39475,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39595,7 +39595,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39751,7 +39751,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39781,7 +39781,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39831,7 +39831,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40080,7 +40080,7 @@
           "text": "（培育中5次）"
         }
       ],
-      "name": "强化鞋跟（青）"
+      "name": "强化高跟鞋（蓝色）"
     },
     {
       "id": "pitem_03-2-075-challenge",
@@ -40246,7 +40246,7 @@
           "text": "（培育中3次）"
         }
       ],
-      "name": "强化绑带（青）"
+      "name": "强化弹力带（蓝色）"
     },
     {
       "id": "pitem_03-2-076-challenge",
@@ -40598,7 +40598,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "强化条（青）"
+      "name": "强化杠铃（蓝色）"
     },
     {
       "id": "pitem_03-2-078-challenge",
@@ -40711,7 +40711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40937,7 +40937,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -40987,7 +40987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamGimmickSlump",
-          "text": "萎靡"
+          "text": "低谷"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41103,7 +41103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41226,7 +41226,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星时钟"
+      "name": "首星时钟"
     },
     {
       "id": "pitem_03-3-008-0",
@@ -41309,7 +41309,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用次数增加"
+          "text": "技能卡使用数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41382,7 +41382,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "初星模型"
+      "name": "首星手办"
     },
     {
       "id": "pitem_03-3-047-0",
@@ -41568,7 +41568,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "新的，我"
+      "name": "崭新的我"
     },
     {
       "id": "pitem_03-3-047-1",
@@ -41754,7 +41754,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "新的，我+"
+      "name": "新的我+"
     },
     {
       "id": "pitem_03-3-048-0",
@@ -41867,7 +41867,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "道口的前面"
+          "text": "在道口的前方"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41940,7 +41940,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "那一天的塑料伞"
+      "name": "那天的塑料伞"
     },
     {
       "id": "pitem_03-3-048-1",
@@ -42053,7 +42053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "道口的前面"
+          "text": "在道口的前方"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42262,7 +42262,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "败北宣言"
+      "name": "失败宣言"
     },
     {
       "id": "pitem_03-3-068-0",
@@ -42388,7 +42388,7 @@
           "text": "内1次）"
         }
       ],
-      "name": "偶像力量测定仪"
+      "name": "偶像力量测定器"
     },
     {
       "id": "pitem_03-3-072-0",
@@ -42401,7 +42401,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_040",
-          "text": "明星闪烁"
+          "text": "星光"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42461,7 +42461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42511,7 +42511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_040",
-          "text": "明星闪烁"
+          "text": "星光"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42531,7 +42531,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42561,7 +42561,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42647,7 +42647,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_040",
-          "text": "明星闪烁"
+          "text": "星光"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42727,7 +42727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42777,7 +42777,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_040",
-          "text": "明星闪烁"
+          "text": "星光"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42797,7 +42797,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42827,7 +42827,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -42933,7 +42933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43053,7 +43053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43159,7 +43159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43279,7 +43279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "体力消耗"
+          "text": "消耗体力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43651,7 +43651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43664,7 +43664,7 @@
           "text": "+3"
         }
       ],
-      "name": "强化踏步机（桃）"
+      "name": "强化踏步机（粉色）"
     },
     {
       "id": "pitem_03-3-090-challenge",
@@ -43790,7 +43790,7 @@
           "text": "抽取技能卡"
         }
       ],
-      "name": "强化哑铃（青）"
+      "name": "强化哑铃（蓝色）"
     },
     {
       "id": "pitem_03-3-091-challenge",
@@ -43966,7 +43966,7 @@
           "text": "%</nobr>"
         }
       ],
-      "name": "强化踏步机（青）"
+      "name": "强化踏步机（蓝色）"
     },
     {
       "id": "pitem_03-3-104-0",
@@ -44363,7 +44363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44449,7 +44449,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44519,7 +44519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44585,7 +44585,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44949,7 +44949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45161,7 +45161,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45231,7 +45231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45337,7 +45337,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45423,7 +45423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45741,7 +45741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45837,7 +45837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46009,7 +46009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46079,7 +46079,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46185,7 +46185,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46271,7 +46271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46589,7 +46589,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46705,7 +46705,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46877,7 +46877,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -46947,7 +46947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47053,7 +47053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47139,7 +47139,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47457,7 +47457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47626,7 +47626,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_010",
@@ -47732,7 +47732,7 @@
           "text": "（开始7回合内有效）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_015",
@@ -47765,7 +47765,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47808,7 +47808,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_016",
@@ -47851,7 +47851,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47921,7 +47921,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47964,7 +47964,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_017",
@@ -47987,7 +47987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48060,7 +48060,7 @@
           "text": "内5次）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_018",
@@ -48136,7 +48136,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_019",
@@ -48212,7 +48212,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_020",
@@ -48308,7 +48308,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_005",
@@ -48351,7 +48351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48414,7 +48414,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_010",
@@ -48530,7 +48530,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_015",
@@ -48663,7 +48663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48736,7 +48736,7 @@
           "text": "内5次）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_016",
@@ -48769,7 +48769,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48812,7 +48812,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_017",
@@ -48855,7 +48855,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48898,7 +48898,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_018",
@@ -48964,7 +48964,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_019",
@@ -49120,7 +49120,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_020",
@@ -49173,7 +49173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49226,7 +49226,7 @@
           "text": "内9次）"
         }
       ],
-      "name": "初星纪念品（银）"
+      "name": "初星雕像（银）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_005",
@@ -49332,7 +49332,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_010",
@@ -49438,7 +49438,7 @@
           "text": "（开始7回合内有效）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_015",
@@ -49471,7 +49471,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49514,7 +49514,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_016",
@@ -49557,7 +49557,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49627,7 +49627,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49670,7 +49670,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_017",
@@ -49693,7 +49693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -49766,7 +49766,7 @@
           "text": "内5次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_018",
@@ -49842,7 +49842,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_019",
@@ -49918,7 +49918,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_020",
@@ -50014,7 +50014,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_005",
@@ -50037,7 +50037,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50130,7 +50130,7 @@
           "text": "内2回）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_010",
@@ -50196,7 +50196,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_015",
@@ -50229,7 +50229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50299,7 +50299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50372,7 +50372,7 @@
           "text": "内5次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_016",
@@ -50405,7 +50405,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50448,7 +50448,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_017",
@@ -50491,7 +50491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50534,7 +50534,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_018",
@@ -50600,7 +50600,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_019",
@@ -50756,7 +50756,7 @@
           "text": ""
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_020",
@@ -50809,7 +50809,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50862,7 +50862,7 @@
           "text": "内9次）"
         }
       ],
-      "name": "初星纪念品（紫）"
+      "name": "初星物体（紫）"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_005",
@@ -51127,7 +51127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51213,7 +51213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51283,7 +51283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "体耗翻倍"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51349,7 +51349,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDownFix",
-          "text": "体耗减少"
+          "text": "消耗体力削减"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51895,7 +51895,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonValueMultiple",
-          "text": "分数上升量增加"
+          "text": "数值提升量增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51965,7 +51965,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAddFix",
-          "text": "体耗增加"
+          "text": "体力消耗增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52071,7 +52071,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52157,7 +52157,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52475,7 +52475,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "回合追加"
+          "text": "增加回合"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

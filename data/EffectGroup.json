@@ -31,15 +31,15 @@
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_up-000",
-      "name": "外出消耗P点数增加"
+      "name": "外出的消耗P点数增加"
     },
     {
       "id": "effect_group-visible-event_school_stamina_down-000",
-      "name": "授课的体耗减少"
+      "name": "课程的体力消耗减少"
     },
     {
       "id": "effect_group-visible-event_school_stamina_up-000",
-      "name": "授课的体耗增加"
+      "name": "课程的体力消耗增加"
     },
     {
       "id": "effect_group-visible-exam_aggressive_reduce-000",
@@ -47,7 +47,7 @@
     },
     {
       "id": "effect_group-visible-exam_anti_debuff-000",
-      "name": "状态降低无效"
+      "name": "状态下降无效"
     },
     {
       "id": "effect_group-visible-exam_block_restriction-000",
@@ -79,11 +79,11 @@
     },
     {
       "id": "effect_group-visible-exam_effect_timer-000",
-      "name": "发动预约"
+      "name": "发起预约"
     },
     {
       "id": "effect_group-visible-exam_extra_turn-000",
-      "name": "回合追加"
+      "name": "增加回合"
     },
     {
       "id": "effect_group-visible-exam_full_power_point_reduce-000",
@@ -95,11 +95,11 @@
     },
     {
       "id": "effect_group-visible-exam_gimmick_slump-000",
-      "name": "萎靡"
+      "name": "低谷"
     },
     {
       "id": "effect_group-visible-exam_hand_grave_count_card_draw-000",
-      "name": "更换手牌"
+      "name": "交换手牌"
     },
     {
       "id": "effect_group-visible-exam_lesson_buff_reduce-000",
@@ -115,7 +115,7 @@
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple-000",
-      "name": "分数上升量增加"
+      "name": "数值提升量增加"
     },
     {
       "id": "effect_group-visible-exam_lesson-000",
@@ -135,7 +135,7 @@
     },
     {
       "id": "effect_group-visible-exam_playable_value_add-000",
-      "name": "技能卡使用次数增加"
+      "name": "技能卡使用数增加"
     },
     {
       "id": "effect_group-visible-exam_preservation-000",
@@ -151,19 +151,19 @@
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add_fix-000",
-      "name": "体耗增加"
+      "name": "体力消耗增加"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add-000",
-      "name": "体耗翻倍"
+      "name": "消耗体力增加"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down_fix-000",
-      "name": "体耗减少"
+      "name": "消耗体力削减"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down-000",
-      "name": "体耗减半"
+      "name": "消耗体力减少"
     },
     {
       "id": "effect_group-visible-exam_stance_reset-000",
@@ -199,7 +199,7 @@
     },
     {
       "id": "effect_group-visible-shop_price_up_multiple-000",
-      "name": "咨询的所有项目涨价"
+      "name": "咨询的所有项目增收"
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_discount_multiple-000",

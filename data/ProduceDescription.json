@@ -97,13 +97,13 @@
     },
     {
       "id": "Label_CardDrawAdd",
-      "name": "抽牌数量增加",
-      "swapName": "抽牌数量增加"
+      "name": "抽牌张数增加",
+      "swapName": "抽牌张数增加"
     },
     {
       "id": "Label_CardDrawReduce",
-      "name": "抽牌数量减少",
-      "swapName": "抽牌数量减少"
+      "name": "抽牌张数减少",
+      "swapName": "抽牌张数减少"
     },
     {
       "id": "Label_CardStatusEnchantChange",
@@ -112,33 +112,33 @@
     },
     {
       "id": "Label_CostAdd",
-      "name": "费用值增加",
-      "swapName": "费用值增加"
+      "name": "成本值增加",
+      "swapName": "成本值增加"
     },
     {
       "id": "Label_CostBuffAdd",
-      "name": "强化状态费用值增加",
-      "swapName": "强化状态费用值增加"
+      "name": "强化状态消耗增加",
+      "swapName": "强化状态消耗增加"
     },
     {
       "id": "Label_CostBuffReduce",
-      "name": "强化状态费用值减少",
-      "swapName": "强化状态费用值减少"
+      "name": "强化状态消耗减少",
+      "swapName": "强化状态消耗减少"
     },
     {
       "id": "Label_CostPenetrateAdd",
-      "name": "体力消耗费用值增加",
-      "swapName": "体力消耗费用值增加"
+      "name": "体力消耗消耗增加",
+      "swapName": "体力消耗消耗增加"
     },
     {
       "id": "Label_CostPenetrateReduce",
-      "name": "体力消耗费用值减少",
-      "swapName": "体力消耗费用值减少"
+      "name": "体力消耗消耗减少",
+      "swapName": "体力消耗消耗减少"
     },
     {
       "id": "Label_CostReduce",
-      "name": "费用值减少",
-      "swapName": "费用值减少"
+      "name": "消耗减少",
+      "swapName": "消耗减少"
     },
     {
       "id": "Label_EffectAdd",
@@ -167,7 +167,7 @@
     },
     {
       "id": "Label_ExamAntiDebuff",
-      "name": "下降状态无效",
+      "name": "状态下降无效",
       "swapName": ""
     },
     {
@@ -262,12 +262,12 @@
     },
     {
       "id": "Label_ExamEffectTimer",
-      "name": "发动预约",
+      "name": "发起预约",
       "swapName": ""
     },
     {
       "id": "Label_ExamExtraTurn",
-      "name": "回合追加",
+      "name": "增加回合",
       "swapName": ""
     },
     {
@@ -322,17 +322,17 @@
     },
     {
       "id": "Label_ExamGimmickSleepy_Exam",
-      "name": "胆怯",
+      "name": "没精打采",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickSleepy_Produce",
-      "name": "胆怯",
+      "name": "没精打采",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickSlump",
-      "name": "萎靡",
+      "name": "低谷",
       "swapName": ""
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
-      "name": "替换手牌",
+      "name": "交换手牌",
       "swapName": ""
     },
     {
@@ -368,7 +368,7 @@
     {
       "id": "Label_ExamLesson",
       "name": "分数",
-      "swapName": "得分"
+      "swapName": "分数"
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
@@ -407,8 +407,8 @@
     },
     {
       "id": "Label_ExamLessonValueMultiple",
-      "name": "分数上升量增加",
-      "swapName": "得分上升量增加"
+      "name": "数值提升量增加",
+      "swapName": "得分提升量增加"
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
@@ -417,7 +417,7 @@
     },
     {
       "id": "Label_ExamPanic",
-      "name": "浮躁",
+      "name": "随意",
       "swapName": ""
     },
     {
@@ -487,7 +487,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionAdd",
-      "name": "体耗翻倍",
+      "name": "消耗体力增加",
       "swapName": ""
     },
     {
@@ -497,12 +497,12 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionAddFix",
-      "name": "体耗增加",
+      "name": "体力消耗增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaConsumptionDown",
-      "name": "体耗减半",
+      "name": "消耗体力减少",
       "swapName": ""
     },
     {
@@ -512,7 +512,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionDownFix",
-      "name": "体耗减少",
+      "name": "消耗体力削减",
       "swapName": ""
     },
     {
@@ -542,7 +542,7 @@
     },
     {
       "id": "Label_ExamStaminaReduceFix",
-      "name": "体力消耗",
+      "name": "消耗体力",
       "swapName": ""
     },
     {
@@ -587,7 +587,7 @@
     },
     {
       "id": "Label_LessonAdd",
-      "name": "分数值增加",
+      "name": "数值增加",
       "swapName": "得分值增加"
     },
     {
@@ -602,7 +602,7 @@
     },
     {
       "id": "Label_LessonCountAdd",
-      "name": "分数上升次数增加",
+      "name": "数值上升次数增加",
       "swapName": "得分上升次数增加"
     },
     {
@@ -632,7 +632,7 @@
     },
     {
       "id": "Label_NoDeckDuplication",
-      "name": "无法重复",
+      "name": "不可重复",
       "swapName": ""
     },
     {
@@ -657,18 +657,18 @@
     },
     {
       "id": "Label_PlayEffectTriggerChange",
-      "name": "替换效果发动条件",
-      "swapName": "替换效果发动条件"
+      "name": "替换效果触发条件",
+      "swapName": "替换效果触发条件"
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
-      "name": "使用后移动目的地变更",
-      "swapName": "使用后移动目的地变更"
+      "name": "使用后移动先变更",
+      "swapName": "使用后移动先变更"
     },
     {
       "id": "Label_PlayTriggerChange",
-      "name": "替换可使用条件",
-      "swapName": "替换可使用条件"
+      "name": "使用条件替换",
+      "swapName": "使用条件替换"
     },
     {
       "id": "Label_ProduceCardChange",
@@ -787,7 +787,7 @@
     },
     {
       "id": "Label_TroubleSkillCard",
-      "name": "干扰卡",
+      "name": "麻烦卡",
       "swapName": ""
     }
   ]

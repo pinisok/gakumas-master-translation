@@ -99,7 +99,7 @@
     },
     {
       "id": "Label_CostAdd",
-      "name": "费用值增加"
+      "name": "成本值增加"
     },
     {
       "id": "Label_CostAggressiveAdd",
@@ -111,11 +111,11 @@
     },
     {
       "id": "Label_CostBuffAdd",
-      "name": "强化状态费用值增加"
+      "name": "强化状态消耗增加"
     },
     {
       "id": "Label_CostBuffReduce",
-      "name": "强化状态成本值减少"
+      "name": "强化状态消耗减少"
     },
     {
       "id": "Label_CostFullPowerPointAdd",
@@ -143,15 +143,15 @@
     },
     {
       "id": "Label_CostPenetrateAdd",
-      "name": "体力消耗成本值增加"
+      "name": "体力消耗消耗增加"
     },
     {
       "id": "Label_CostPenetrateReduce",
-      "name": "体力消耗成本值减少"
+      "name": "体力消耗消耗减少"
     },
     {
       "id": "Label_CostReduce",
-      "name": "成本值减少"
+      "name": "消耗减少"
     },
     {
       "id": "Label_CostReviewAdd",
@@ -259,11 +259,11 @@
     },
     {
       "id": "Label_ExamEffectTimer",
-      "name": "发动预约"
+      "name": "发起预约"
     },
     {
       "id": "Label_ExamExtraTurn",
-      "name": "回合追加"
+      "name": "增加回合"
     },
     {
       "id": "Label_ExamFullPower",
@@ -307,15 +307,15 @@
     },
     {
       "id": "Label_ExamGimmickSleepy_Exam",
-      "name": "胆怯"
+      "name": "没精打采"
     },
     {
       "id": "Label_ExamGimmickSleepy_Produce",
-      "name": "胆怯"
+      "name": "没精打采"
     },
     {
       "id": "Label_ExamGimmickSlump",
-      "name": "萎靡"
+      "name": "低谷"
     },
     {
       "id": "Label_ExamGimmickStartTurnCardDrawDown_Exam",
@@ -335,7 +335,7 @@
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
-      "name": "手牌交换"
+      "name": "交换手牌"
     },
     {
       "id": "Label_ExamHandHold",
@@ -375,15 +375,15 @@
     },
     {
       "id": "Label_ExamLessonValueMultiple",
-      "name": "分数提升量增加"
+      "name": "数值提升量增加"
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
-      "name": "分数提升量减少"
+      "name": "分数上升量减少"
     },
     {
       "id": "Label_ExamPanic",
-      "name": "浮躁"
+      "name": "随意"
     },
     {
       "id": "Label_ExamParameterBuff",
@@ -439,7 +439,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionAdd",
-      "name": "体耗翻倍"
+      "name": "消耗体力增加"
     },
     {
       "id": "Label_ExamStaminaConsumptionAddDown",
@@ -447,11 +447,11 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionAddFix",
-      "name": "体耗增加"
+      "name": "体力消耗增加"
     },
     {
       "id": "Label_ExamStaminaConsumptionDown",
-      "name": "体耗减半"
+      "name": "消耗体力减少"
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
@@ -459,7 +459,7 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionDownFix",
-      "name": "体耗减少"
+      "name": "消耗体力削减"
     },
     {
       "id": "Label_ExamStaminaDamage",
@@ -483,7 +483,7 @@
     },
     {
       "id": "Label_ExamStaminaReduceFix",
-      "name": "体力消耗"
+      "name": "消耗体力"
     },
     {
       "id": "Label_ExamStaminaThresholdAddRestriction",
@@ -519,11 +519,11 @@
     },
     {
       "id": "Label_LessonAdd",
-      "name": "分数值增加"
+      "name": "数值增加"
     },
     {
       "id": "Label_LessonBonus",
-      "name": "参数加成"
+      "name": "数值加成"
     },
     {
       "id": "Label_LessonBuffAdd",
@@ -535,7 +535,7 @@
     },
     {
       "id": "Label_LessonCountAdd",
-      "name": "分数上升次数增加"
+      "name": "数值上升次数增加"
     },
     {
       "id": "Label_LessonCountReduce",
@@ -547,11 +547,11 @@
     },
     {
       "id": "Label_LessonDependExamCardPlayAggressiveAdd",
-      "name": "干劲分分数倍率增加"
+      "name": "干劲分数倍率增加"
     },
     {
       "id": "Label_LessonDependExamReviewAdd",
-      "name": "好印象分分数倍率增加"
+      "name": "好印象分数倍率增加"
     },
     {
       "id": "Label_LessonReduce",
@@ -571,7 +571,7 @@
     },
     {
       "id": "Label_NoDeckDuplication",
-      "name": "无法重复"
+      "name": "不可重复"
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
@@ -591,15 +591,15 @@
     },
     {
       "id": "Label_PlayEffectTriggerChange",
-      "name": "效果发动条件置换"
+      "name": "替换效果触发条件"
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
-      "name": "使用后移动目的地变更"
+      "name": "使用后移动先变更"
     },
     {
       "id": "Label_PlayTriggerChange",
-      "name": "使用可能条件置换"
+      "name": "使用条件替换"
     },
     {
       "id": "Label_ProduceCardChange",
@@ -731,7 +731,7 @@
     },
     {
       "id": "Label_TroubleSkillCard",
-      "name": "干扰卡"
+      "name": "麻烦卡"
     }
   ]
 }

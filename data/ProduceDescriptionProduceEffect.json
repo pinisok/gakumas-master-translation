@@ -31,15 +31,15 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "声乐课加成+"
+      "name": "声乐课程奖励+"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "舞蹈课加成+"
+      "name": "舞蹈课程奖励+"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "形象课加成+"
+      "name": "形象课程奖励+"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
@@ -175,11 +175,11 @@
     },
     {
       "type": "ProduceEffectType_ProduceReward",
-      "name": "获得报酬"
+      "name": "获得奖励"
     },
     {
       "type": "ProduceEffectType_ProduceRewardSet",
-      "name": "获得报酬"
+      "name": "获得奖励"
     },
     {
       "type": "ProduceEffectType_AuditionParameterBonusMultiple",
@@ -191,7 +191,7 @@
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "声乐SP课程发生率增加"
+      "name": "声乐力SP课程发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
@@ -199,7 +199,7 @@
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "形象SP课程发生率增加"
+      "name": "形象力SP课程发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
@@ -299,7 +299,7 @@
     },
     {
       "type": "ProduceEffectType_ShopPriceUpMultiple",
-      "name": "咨询的所有项目增加"
+      "name": "咨询的所有项目增收"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceUpMultiple",
@@ -319,11 +319,11 @@
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "授课的体耗翻倍"
+      "name": "课程的体力消耗增加"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "授课的体耗减半"
+      "name": "课程的体力消耗减少"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",

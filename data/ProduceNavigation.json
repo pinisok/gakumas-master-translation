@@ -199,7 +199,7 @@
     {
       "id": "p_navi-produce_group-001-lose",
       "number": 11,
-      "description": "根据元气值获得得分的卡片，利用一下吧"
+      "description": "根据元气值收集分数的卡片活用吧"
     },
     {
       "id": "p_navi-produce_group-001-lose",
@@ -379,7 +379,7 @@
     {
       "id": "p_navi-produce_group-001-normal",
       "number": 12,
-      "description": "有P点数呢，和老师咨询一下，准备一下吧？"
+      "description": "有P点数呢\n和老师咨询一下，整理准备一下吧？"
     },
     {
       "id": "p_navi-produce_group-001-normal",
@@ -684,7 +684,7 @@
     {
       "id": "p_navi-produce_group-001-normal",
       "number": 73,
-      "description": "体力似乎剩下不多了呢\n让偶像休息一下吧"
+      "description": "体力好像不多了\n让偶像休息一下吧"
     },
     {
       "id": "p_navi-produce_group-001-tutorial",
@@ -704,7 +704,7 @@
     {
       "id": "p_navi-produce_group-001-tutorial",
       "number": 4,
-      "description": "体力似乎剩下不多了呢\n让偶像休息一下吧"
+      "description": "体力好像不多了\n让偶像休息一下吧"
     },
     {
       "id": "p_navi-produce_group-001-tutorial-audition",
@@ -724,7 +724,7 @@
     {
       "id": "p_navi-produce_group-001-tutorial-audition",
       "number": 4,
-      "description": "体力似乎剩下不多了呢\n让偶像休息一下吧"
+      "description": "体力好像不多了\n让偶像休息一下吧"
     },
     {
       "id": "p_navi-produce_group-002-audition",
@@ -1004,12 +1004,12 @@
     {
       "id": "p_navi-produce_group-002-normal",
       "number": 2,
-      "description": "有P点数呢。用特别指导，\n来准备试镜怎么样？"
+      "description": "P点数有啊。特别指导中，\n准备试镜不吗？"
     },
     {
       "id": "p_navi-produce_group-002-normal",
       "number": 3,
-      "description": "有P点数呢，和老师咨询一下，准备一下吧？"
+      "description": "有P点数呢\n和老师咨询一下，整理准备一下吧？"
     },
     {
       "id": "p_navi-produce_group-002-normal",

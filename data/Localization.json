@@ -23,7 +23,7 @@
     },
     {
       "id": "achievement.true_end.lesson_bonus",
-      "description": "参数加成"
+      "description": "数值加成"
     },
     {
       "id": "achievement.true_end.nia_condition",
@@ -55,23 +55,23 @@
     },
     {
       "id": "card.sort.produce_dance_growth_rate_permil",
-      "description": "参数加成\\n舞蹈力"
+      "description": "数值加成\\n舞蹈力"
     },
     {
       "id": "card.sort.produce_visual_growth_rate_permil",
-      "description": "参数加成\\n形象力"
+      "description": "数值加成\\n形象力"
     },
     {
       "id": "card.sort.produce_vocal_growth_rate_permil",
-      "description": "参数加成\\n声乐力"
+      "description": "数值加成\\n声乐力"
     },
     {
       "id": "card.sort.story_event_point_bonus",
-      "description": "活动加成"
+      "description": "事件加成"
     },
     {
       "id": "card.upgrade_status_list.parameter",
-      "description": "分数・参数加成提升"
+      "description": "分数・数值加成提升"
     },
     {
       "id": "card.upgrade_status_list.produce_card",
@@ -163,11 +163,11 @@
     },
     {
       "id": "memory.detail.tab.contest",
-      "description": "舞台"
+      "description": "阶段"
     },
     {
       "id": "memory.detail.tab.exam_battle",
-      "description": "舞台"
+      "description": "阶段"
     },
     {
       "id": "memory.filter.exam_battle_card_effect",
@@ -231,7 +231,7 @@
     },
     {
       "id": "produce.common.lesson_bonus",
-      "description": "参数加成"
+      "description": "数值加成"
     },
     {
       "id": "produce.confirm_reroll_sheet.description",
@@ -243,7 +243,7 @@
     },
     {
       "id": "produce.item.card.empty",
-      "description": "技能卡未被选择"
+      "description": "技能卡未被选择。"
     },
     {
       "id": "produce.item.item.empty",
@@ -291,11 +291,11 @@
     },
     {
       "id": "produce.result.photo.re_create.button",
-      "description": "再生成"
+      "description": "重新生成"
     },
     {
       "id": "produce.result.photo.re_create.button.decide",
-      "description": "决定"
+      "description": "确认"
     },
     {
       "id": "produce.result.photo.re_create.button.disable.shortage_count",
@@ -323,7 +323,7 @@
     },
     {
       "id": "produce.result.photo.re_create.description",
-      "description": "请选择要获得的回忆"
+      "description": "请选择要获取的回忆"
     },
     {
       "id": "produce.result.photo.re_create.select_status_origin",
@@ -331,7 +331,7 @@
     },
     {
       "id": "produce.result.photo.re_create.select_status_reroll",
-      "description": "第{0}次再生成"
+      "description": "再生成{0}次"
     },
     {
       "id": "produce.schedule.step_business_description",
@@ -423,7 +423,7 @@
     },
     {
       "id": "story_event.box_gasha.draw.sheet.title",
-      "description": "活动扭蛋确认"
+      "description": "确认活动扭蛋"
     },
     {
       "id": "story_event.box_gasha.item_name",
@@ -447,11 +447,11 @@
     },
     {
       "id": "story_event.box_gasha.reset_result.sheet.title",
-      "description": "活动扭蛋确认"
+      "description": "确认活动扭蛋"
     },
     {
       "id": "story_event.box_gasha.reset.sheet.title",
-      "description": "活动扭蛋确认"
+      "description": "确认活动扭蛋"
     },
     {
       "id": "story_event.box_gasha.story_reward_gasha_count_sheet.condition",

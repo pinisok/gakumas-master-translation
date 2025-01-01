@@ -9,19 +9,19 @@
     {
       "characterId": "amao",
       "number": 1,
-      "title": "新的自己",
+      "title": "崭新的自己",
       "description": "形象力300以上"
     },
     {
       "characterId": "amao",
       "number": 2,
-      "title": "可以成长的证明",
+      "title": "成长的证明",
       "description": "声乐力450以上"
     },
     {
       "characterId": "amao",
       "number": 3,
-      "title": "接近憧憬",
+      "title": "靠近憧憬",
       "description": "形象力1000以上"
     },
     {
@@ -33,7 +33,7 @@
     {
       "characterId": "fktn",
       "number": 2,
-      "title": "才气焕发",
+      "title": "才华横溢",
       "description": "形象力450以上"
     },
     {
@@ -45,13 +45,13 @@
     {
       "characterId": "hrnm",
       "number": 1,
-      "title": "三年级的实力",
+      "title": "三年级生的实力",
       "description": "声乐力200以上"
     },
     {
       "characterId": "hrnm",
       "number": 2,
-      "title": "为了再一次抓住梦想",
+      "title": "为了再次抓住梦想",
       "description": "舞蹈力450以上"
     },
     {
@@ -63,7 +63,7 @@
     {
       "characterId": "hski",
       "number": 1,
-      "title": "稳妥的一步",
+      "title": "稳健的一步",
       "description": "舞蹈力200以上"
     },
     {
@@ -75,7 +75,7 @@
     {
       "characterId": "hski",
       "number": 3,
-      "title": "绝对不输的力量",
+      "title": "绝对不败的力量",
       "description": "形象力900以上"
     },
     {
@@ -111,13 +111,13 @@
     {
       "characterId": "jsna",
       "number": 3,
-      "title": "光辉灿烂",
+      "title": "光辉灿然",
       "description": "形象力900以上"
     },
     {
       "characterId": "kcna",
       "number": 1,
-      "title": "最初的一步",
+      "title": "第一步",
       "description": "声乐力200以上"
     },
     {
@@ -129,43 +129,43 @@
     {
       "characterId": "kcna",
       "number": 3,
-      "title": "向往的一步",
+      "title": "靠近憧憬的一步",
       "description": "舞蹈力1000以上"
     },
     {
       "characterId": "kllj",
       "number": 1,
-      "title": "一步步慢慢地",
+      "title": "一步一步慢慢来",
       "description": "舞蹈力200以上"
     },
     {
       "characterId": "kllj",
       "number": 2,
-      "title": "为传递的力量",
+      "title": "传递的力量",
       "description": "声乐力450以上"
     },
     {
       "characterId": "kllj",
       "number": 3,
-      "title": "理想的姿态",
+      "title": "理想的形象",
       "description": "形象力1000以上"
     },
     {
       "characterId": "shro",
       "number": 1,
-      "title": "必要的基础力量",
+      "title": "必要的基础力",
       "description": "声乐力300以上"
     },
     {
       "characterId": "shro",
       "number": 2,
-      "title": "跳到底的体力",
+      "title": "跳舞的体力",
       "description": "舞蹈力450以上"
     },
     {
       "characterId": "shro",
       "number": 3,
-      "title": "继续歌唱的力量",
+      "title": "持续歌唱的力量",
       "description": "声乐力1000以上"
     },
     {
@@ -183,7 +183,7 @@
     {
       "characterId": "ssmk",
       "number": 3,
-      "title": "再次起舞",
+      "title": "再一次，开始跳舞",
       "description": "舞蹈力1000以上"
     },
     {

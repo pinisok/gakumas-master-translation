@@ -13,20 +13,20 @@
     },
     {
       "tutorialType": "TutorialType_PvpRate",
-      "name": "竞赛",
+      "name": "比赛",
       "description": "「竞赛」功能解锁",
       "routeDescription": "可以在竞赛中确认"
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "硬币扭蛋",
-      "description": "「硬币扭蛋」功能解锁",
+      "name": "金币扭蛋",
+      "description": "「扭蛋」功能解锁",
       "routeDescription": "可以在商店的硬币扭蛋中确认"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "活动资金",
-      "description": "「活动资金」功能解锁",
+      "name": "活动费用",
+      "description": "“活动费”功能解锁",
       "routeDescription": "可以在首页的活动资金中确认"
     },
     {
@@ -39,24 +39,24 @@
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
       "name": "支援卡强化",
       "description": "「支援卡强化」功能解锁",
-      "routeDescription": "可以在偶像的支援卡中确认\n"
+      "routeDescription": "可以从偶像的支援卡确认"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
       "name": "每日交换所",
-      "description": "「每日交换所」功能解锁",
+      "description": "「每日兑换所」功能解锁",
       "routeDescription": "可以从商店的每日交换所中确认"
     },
     {
       "tutorialType": "TutorialType_Tower",
-      "name": "通往偶像之路",
-      "description": "解锁“通往偶像之路”功能",
+      "name": "偶像之路",
+      "description": "「偶像之路」功能解锁",
       "routeDescription": "可以从竞赛的通往偶像之路中确认"
     },
     {
       "tutorialType": "TutorialType_Guild",
       "name": "社团",
-      "description": "解锁“社团”功能",
+      "description": "「社团」功能解锁",
       "routeDescription": "可以从菜单的社团中确认"
     }
   ]

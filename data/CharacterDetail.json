@@ -11,7 +11,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3年级生"
+      "content": "3年级学生"
     },
     {
       "characterId": "amao",
@@ -47,7 +47,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "七濑织"
+      "content": "七瀬つむぎ"
     },
     {
       "characterId": "amao",
@@ -77,13 +77,13 @@
       "characterId": "amao",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "格斗技、手巧"
+      "content": "格斗技术、手巧"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "照顾他人、观剧"
+      "content": "照顾他人、观看戏剧"
     },
     {
       "characterId": "amao",
@@ -95,7 +95,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "fktn",
@@ -161,7 +161,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "舞蹈力、记住人的名字和脸"
+      "content": "跳舞、记住人的脸和名字"
     },
     {
       "characterId": "fktn",
@@ -179,7 +179,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3年级生"
+      "content": "3年级学生"
     },
     {
       "characterId": "hrnm",
@@ -245,7 +245,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "料理、裁缝・手工艺"
+      "content": "料理、裁缝·手工艺"
     },
     {
       "characterId": "hrnm",
@@ -263,7 +263,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "hski",
@@ -299,7 +299,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "长月葵"
+      "content": "长月蓝"
     },
     {
       "characterId": "hski",
@@ -329,13 +329,13 @@
       "characterId": "hski",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "运动全般、家务全般、按摩"
+      "content": "各种运动、各种家务、按摩"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "竞争全般"
+      "content": "各种竞赛"
     },
     {
       "characterId": "hski",
@@ -347,7 +347,7 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "hume",
@@ -383,7 +383,7 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "松田彩音"
+      "content": "松田 彩音"
     },
     {
       "characterId": "hume",
@@ -413,19 +413,19 @@
       "characterId": "hume",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "运动全般、按摩"
+      "content": "各种运动、按摩"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "与姐姐的较量"
+      "content": "和姐姐比赛"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3年级生"
+      "content": "3年级学生"
     },
     {
       "characterId": "jsna",
@@ -461,7 +461,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "阳高真白"
+      "content": "阳高 真白"
     },
     {
       "characterId": "jsna",
@@ -479,7 +479,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "双手灵巧"
+      "content": "双利"
     },
     {
       "characterId": "jsna",
@@ -491,19 +491,19 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "洞察偶像的才能"
+      "content": "识别偶像的才能"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "课程，发现有才华的偶像"
+      "content": "课程，发现有才能的偶像"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "kcna",
@@ -569,13 +569,13 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "元气的问候，受动物喜欢"
+      "content": "充满活力的问候、受到动物的喜爱"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "画画"
+      "content": "绘画"
     },
     {
       "characterId": "kcna",
@@ -587,7 +587,7 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "kllj",
@@ -653,13 +653,13 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "做甜点，游戏"
+      "content": "制作糕点、游戏"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "做甜点，日本的动画"
+      "content": "制作糕点、日本动画"
     },
     {
       "characterId": "kllj",
@@ -671,7 +671,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "shro",
@@ -737,13 +737,13 @@
       "characterId": "shro",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "学业全般，物理学，数学，拼图"
+      "content": "学业全能、物理、数学、谜题"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "挑战不擅长的领域，栽培观叶植物"
+      "content": "挑战自己的弱项、养育观叶植物"
     },
     {
       "characterId": "shro",
@@ -755,7 +755,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "ssmk",
@@ -791,7 +791,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "湊美夜"
+      "content": "湊みや"
     },
     {
       "characterId": "ssmk",
@@ -821,7 +821,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "身体柔软"
+      "content": "身体很柔软"
     },
     {
       "characterId": "ssmk",
@@ -839,7 +839,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1年级生"
+      "content": "1年级学生"
     },
     {
       "characterId": "ttmr",
@@ -875,7 +875,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "小鹿直"
+      "content": "小鹿なお"
     },
     {
       "characterId": "ttmr",
@@ -911,7 +911,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "吃美味的东西（封印中）"
+      "content": "品尝美食（被制作人封印中）"
     },
     {
       "characterId": "ttmr",

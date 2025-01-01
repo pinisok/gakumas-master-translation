@@ -226,7 +226,7 @@
           "targetId": "p_card-00-act-0_001",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "表现的基础"
+          "text": "吸引力的基础"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
@@ -245,7 +245,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-act-0_001",
-          "text": "表现的基础"
+          "text": "吸引力的基础"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267,7 +267,7 @@
           "targetId": "p_card-00-men-0_003",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "表达的基础"
+          "text": "表现的基础"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
@@ -286,7 +286,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-men-0_003",
-          "text": "表达的基础"
+          "text": "表现的基础"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -810,7 +810,7 @@
           "targetId": "p_card-03-ido-3_084",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "踏切的前方"
+          "text": "在道口的前方"
         }
       ],
       "produceDescriptions": [
@@ -822,7 +822,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "踏切的前方"
+          "text": "在道口的前方"
         }
       ]
     },
@@ -1406,7 +1406,7 @@
           "targetId": "p_card-01-act-1_023",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "凭势头"
+          "text": "凭势而为"
         }
       ],
       "produceDescriptions": [
@@ -1418,7 +1418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "凭势头"
+          "text": "凭势而为"
         }
       ]
     },
@@ -1454,7 +1454,7 @@
           "targetId": "p_card-02-men-1_032",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "回忆起微笑"
+          "text": "回忆微笑"
         }
       ],
       "produceDescriptions": [
@@ -1466,7 +1466,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆起微笑"
+          "text": "回忆微笑"
         }
       ]
     },
@@ -1772,7 +1772,7 @@
           "targetId": "Label_ExamStaminaConsumptionDown",
           "examEffectType": "ProduceExamEffectType_ExamStaminaConsumptionDown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
@@ -1791,7 +1791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "体耗减半"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1926,7 +1926,7 @@
           "targetId": "p_card-03-men-1_049",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "令人欣喜的误算"
+          "text": "开心的误算"
         }
       ],
       "produceDescriptions": [
@@ -1938,7 +1938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "令人欣喜的误算"
+          "text": "开心的误算"
         }
       ]
     },
@@ -2046,7 +2046,7 @@
           "targetId": "Label_TroubleSkillCard",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Trouble",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         }
       ],
       "produceDescriptions": [
@@ -2058,7 +2058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         }
       ]
     },
@@ -2077,7 +2077,7 @@
           "targetId": "Label_TroubleSkillCard",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Trouble",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
@@ -2106,7 +2106,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2128,7 +2128,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         }
       ],
       "produceDescriptions": [
@@ -2140,7 +2140,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         }
       ]
     },
@@ -2152,7 +2152,7 @@
           "targetId": "",
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         }
       ],
       "produceDescriptions": [
@@ -2164,7 +2164,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "干扰卡"
+          "text": "麻烦卡"
         }
       ]
     }

@@ -10,8 +10,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 1,
       "title": "初星课题1",
-      "description": "挑战培育",
-      "homeDescription": "挑战培育"
+      "description": "进行培育吧",
+      "homeDescription": "进行培育吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -24,8 +24,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 3,
       "title": "初星课题3",
-      "description": "强化支援卡",
-      "homeDescription": "强化支援卡"
+      "description": "强化支援卡吧",
+      "homeDescription": "强化支援卡吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -45,22 +45,22 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 6,
       "title": "初星课题6",
-      "description": "完成1个研修",
-      "homeDescription": "完成1个研修"
+      "description": "完成一次研修",
+      "homeDescription": "完成一次研修"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 7,
       "title": "初星课题7",
-      "description": "完成1个考试研修",
-      "homeDescription": "完成1个考试研修"
+      "description": "完成1个考试培训",
+      "homeDescription": "完成1个考试培训"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 8,
       "title": "初星课题8",
-      "description": "挑战培育",
-      "homeDescription": "挑战培育"
+      "description": "进行培育吧",
+      "homeDescription": "进行培育吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -73,15 +73,15 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 10,
       "title": "初星课题10",
-      "description": "特训可培育偶像",
-      "homeDescription": "特训可培育偶像"
+      "description": "可培育偶像进行特训",
+      "homeDescription": "可培育偶像进行特训"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 11,
       "title": "初星课题11",
-      "description": "回收活动资金",
-      "homeDescription": "回收活动资金"
+      "description": "收回活动费用",
+      "homeDescription": "收回活动费用"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -94,8 +94,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 13,
       "title": "初星课题13",
-      "description": "挑战培育",
-      "homeDescription": "挑战培育"
+      "description": "进行培育吧",
+      "homeDescription": "进行培育吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -108,22 +108,22 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 15,
       "title": "初星课题15",
-      "description": "开始工作",
-      "homeDescription": "开始工作"
+      "description": "开始工作吧",
+      "homeDescription": "开始工作吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 16,
       "title": "初星课题16",
-      "description": "挑战培育【条件】感性方案的可培育偶像",
-      "homeDescription": "挑战培育【条件】感性方案的可培育偶像"
+      "description": "进行培育吧\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "进行培育吧\n【条件】方案：感性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 17,
       "title": "初星课题17",
-      "description": "进行1次感性扭蛋",
-      "homeDescription": "进行1次感性扭蛋"
+      "description": "抽一次感性扭蛋吧",
+      "homeDescription": "抽一次感性扭蛋吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -150,8 +150,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 21,
       "title": "初星课题21",
-      "description": "挑战培育【条件】理性方案的可培育偶像",
-      "homeDescription": "挑战培育【条件】理性方案的可培育偶像"
+      "description": "进行培育吧\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "进行培育吧\n【条件】方案：理性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -185,8 +185,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 26,
       "title": "初星课题26",
-      "description": "进行竞赛编组",
-      "homeDescription": "进行竞赛编组"
+      "description": "在竞赛中编成吧",
+      "homeDescription": "在竞赛中编成吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -213,8 +213,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 30,
       "title": "初星课题30",
-      "description": "挑战培育并获得C+以上评价",
-      "homeDescription": "挑战培育并获得C+以上评价"
+      "description": "挑战培育获取评价C+以上",
+      "homeDescription": "挑战培育获取评价C+以上"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -234,36 +234,36 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 33,
       "title": "初星课题33",
-      "description": "研修的【应用1】感性方案完成吧",
-      "homeDescription": "研修的【应用1】感性方案完成吧"
+      "description": "研修的【应用1】方案：完成感性",
+      "homeDescription": "研修的【应用1】方案：完成感性"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 34,
       "title": "初星课题34",
-      "description": "挑战培育并获得评价C+以上吧\n【条件】感性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价C+以上吧\n【条件】感性方案的可培育偶像"
+      "description": "挑战培育获取评价C+以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "挑战培育获取评价C+以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 35,
       "title": "初星课题35",
-      "description": "观看第1章第8话吧",
-      "homeDescription": "观看第1章第8话吧"
+      "description": "观看第1章第8话",
+      "homeDescription": "观看第1章第8话"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 36,
       "title": "初星课题36",
-      "description": "研修的【应用2】理性方案完成吧",
-      "homeDescription": "研修的【应用2】理性方案完成吧"
+      "description": "研修的【应用2】方案：完成理性",
+      "homeDescription": "研修的【应用2】方案：完成理性"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 37,
       "title": "初星课题37",
-      "description": "挑战培育并获得评价C+以上吧\n【条件】理性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价C+以上吧\n【条件】理性方案的可培育偶像"
+      "description": "挑战培育获取评价C+以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价C+以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -276,8 +276,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 39,
       "title": "初星课题39",
-      "description": "观看第1章第9话吧",
-      "homeDescription": "观看第1章第9话吧"
+      "description": "观看第1章第9话",
+      "homeDescription": "观看第1章第9话"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -290,8 +290,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 41,
       "title": "初星课题41",
-      "description": "在培育中挑战难度Pro吧",
-      "homeDescription": "在培育中挑战难度Pro吧"
+      "description": "进行培育难度专业",
+      "homeDescription": "进行培育难度专业"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -304,8 +304,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 43,
       "title": "初星课题43",
-      "description": "观看第1章第10话吧",
-      "homeDescription": "观看第1章第10话吧"
+      "description": "观看第1章第10话",
+      "homeDescription": "观看第1章第10话"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -325,8 +325,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 46,
       "title": "初星课题46",
-      "description": "通过培育将任一分数提升到600以上",
-      "homeDescription": "通过培育将任一分数提升到600以上"
+      "description": "在培育中将任意数值提升至600以上",
+      "homeDescription": "在培育中将任意数值提升至600以上"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -346,15 +346,15 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 49,
       "title": "初星课题49",
-      "description": "挑战培育并获得评价B以上\n【条件】感性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价B以上\n【条件】感性方案的可培育偶像"
+      "description": "挑战培育获取评价B以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 50,
       "title": "初星课题50",
-      "description": "挑战培育并获得评价B以上\n【条件】理性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价B以上\n【条件】理性方案的可培育偶像"
+      "description": "挑战培育获取评价B以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -374,8 +374,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 53,
       "title": "初星课题53",
-      "description": "在最终考试中获得第1名",
-      "homeDescription": "在最终考试中获得第1名"
+      "description": "在最终考试中成为第一",
+      "homeDescription": "在最终考试中成为第一"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -402,8 +402,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 57,
       "title": "初星课题57",
-      "description": "培育中任意一个分数提高到800以上",
-      "homeDescription": "培育中任意一个分数提高到800以上"
+      "description": "在培育中将任意数值提升至800以上",
+      "homeDescription": "在培育中将任意数值提升至800以上"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -423,8 +423,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 60,
       "title": "初星课题60",
-      "description": "观看TrueEnd",
-      "homeDescription": "观看TrueEnd"
+      "description": "看看TrueEnd",
+      "homeDescription": "看看TrueEnd"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -493,8 +493,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 10,
       "title": "P课题10",
-      "description": "挑战培育并获得B+以上评价",
-      "homeDescription": "挑战培育并获得B+以上评价"
+      "description": "挑战培育获取评价B+以上",
+      "homeDescription": "挑战培育获取评价B+以上"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -514,15 +514,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 13,
       "title": "P课题13",
-      "description": "挑战培育并获得B+以上评价\n【条件】感性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得B+以上评价\n【条件】感性方案的可培育偶像"
+      "description": "挑战培育获取评价B+以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B+以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 14,
       "title": "P课题14",
-      "description": "挑战培育并获得B+以上评价\n【条件】理性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得B+以上评价\n【条件】理性方案的可培育偶像"
+      "description": "挑战培育获取评价B+以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价B+以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -612,8 +612,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 27,
       "title": "P课题27",
-      "description": "挑战竞赛吧",
-      "homeDescription": "挑战竞赛吧"
+      "description": "让我们挑战竞赛",
+      "homeDescription": "让我们挑战竞赛"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -633,8 +633,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 30,
       "title": "P课题30",
-      "description": "在培育中通过最终考试\n【条件】：花海咲季",
-      "homeDescription": "在培育中通过最终考试\n【条件】：花海咲季"
+      "description": "培育通过最终考试\n【条件】：花海 咲季",
+      "homeDescription": "培育通过最终考试\n【条件】：花海 咲季"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -647,8 +647,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 32,
       "title": "P课题32",
-      "description": "在培育中通过最终考试\n【条件】：月村手毬",
-      "homeDescription": "在培育中通过最终考试\n【条件】：月村手毬"
+      "description": "培育中通过最终考试\n【条件】：月村 手毬",
+      "homeDescription": "培育中通过最终考试\n【条件】：月村 手毬"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -661,8 +661,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 34,
       "title": "P课题34",
-      "description": "在培育中通过最终考试\n【条件】：藤田琴音",
-      "homeDescription": "在培育中通过最终考试\n【条件】：藤田琴音"
+      "description": "培育通过最终考试\n【条件】：藤田 ことね",
+      "homeDescription": "培育通过最终考试\n【条件】：藤田 ことね"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -682,8 +682,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 37,
       "title": "P课题37",
-      "description": "培育通过最终考试\n【条件】：有村麻央",
-      "homeDescription": "培育通过最终考试\n【条件】：有村麻央"
+      "description": "培育中通过最终考试\n【条件】：有村 麻央",
+      "homeDescription": "培育中通过最终考试\n【条件】：有村 麻央"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -696,8 +696,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 39,
       "title": "P课题39",
-      "description": "培育通过最终考试\n【条件】：姫崎莉波",
-      "homeDescription": "培育通过最终考试\n【条件】：姫崎莉波"
+      "description": "培育中通过最终考试\n【条件】：姫崎 莉波",
+      "homeDescription": "培育中通过最终考试\n【条件】：姫崎 莉波"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -710,15 +710,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 41,
       "title": "P课题41",
-      "description": "培育通过最终考试\n【条件】：葛城莉莉娅",
-      "homeDescription": "培育通过最终考试\n【条件】：葛城莉莉娅"
+      "description": "培育通过最终考试\n【条件】：葛城 リーリヤ",
+      "homeDescription": "培育通过最终考试\n【条件】：葛城 リーリヤ"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 42,
       "title": "P课题42",
-      "description": "挑战竞赛吧",
-      "homeDescription": "挑战竞赛吧"
+      "description": "让我们挑战竞赛",
+      "homeDescription": "让我们挑战竞赛"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -731,8 +731,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 44,
       "title": "P课题44",
-      "description": "培育通过最终考试\n【条件】：紫云清夏",
-      "homeDescription": "培育通过最终考试\n【条件】：紫云清夏"
+      "description": "培育中通过最终考试\n【条件】：紫雲 清夏",
+      "homeDescription": "培育中通过最终考试\n【条件】：紫雲 清夏"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -745,8 +745,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 46,
       "title": "P课题46",
-      "description": "培育通过最终考试\n【条件】：筱泽广",
-      "homeDescription": "培育通过最终考试\n【条件】：筱泽广"
+      "description": "培育中通过最终考试\n【条件】：篠澤 広",
+      "homeDescription": "培育中通过最终考试\n【条件】：篠澤 広"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -759,8 +759,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 48,
       "title": "P课题48",
-      "description": "通过培育合格最终考试\n【条件】：仓本千奈",
-      "homeDescription": "通过培育合格最终考试\n【条件】：仓本千奈"
+      "description": "培育中通过最终考试\n【条件】：倉本 千奈",
+      "homeDescription": "培育中通过最终考试\n【条件】：倉本 千奈"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -780,8 +780,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 51,
       "title": "P课题51",
-      "description": "挑战培育并获得评价A以上",
-      "homeDescription": "挑战培育并获得评价A以上"
+      "description": "进行培育并获得评价A以上",
+      "homeDescription": "进行培育并获得评价A以上"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -801,15 +801,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 54,
       "title": "P课题54",
-      "description": "挑战培育并获得评价A以上\n【条件】感性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价A以上\n【条件】感性方案的可培育偶像"
+      "description": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 55,
       "title": "P课题55",
-      "description": "挑战培育并获得评价A以上\n【条件】理性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价A以上\n【条件】理性方案的可培育偶像"
+      "description": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -822,8 +822,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 57,
       "title": "P课题57",
-      "description": "挑战竞赛吧",
-      "homeDescription": "挑战竞赛吧"
+      "description": "让我们挑战竞赛",
+      "homeDescription": "让我们挑战竞赛"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -857,8 +857,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 62,
       "title": "P课题62",
-      "description": "挑战培育并获得评价A以上",
-      "homeDescription": "挑战培育并获得评价A以上"
+      "description": "进行培育并获得评价A以上",
+      "homeDescription": "进行培育并获得评价A以上"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -885,15 +885,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 66,
       "title": "P课题66",
-      "description": "挑战培育并获得评价A以上\n【条件】感性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价A以上\n【条件】感性方案的可培育偶像"
+      "description": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像",
+      "homeDescription": "进行培育并获得评价A以上\n【条件】方案：感性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 67,
       "title": "P课题67",
-      "description": "挑战培育并获得评价A以上\n【条件】理性方案的可培育偶像",
-      "homeDescription": "挑战培育并获得评价A以上\n【条件】理性方案的可培育偶像"
+      "description": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像",
+      "homeDescription": "挑战培育获取评价A以上\n【条件】方案：理性的可培育偶像"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1130,15 +1130,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 1,
       "title": "P课题2-1",
-      "description": "完成研修的【基础7】全力",
-      "homeDescription": "完成研修的【基础7】全力"
+      "description": "完成培训【基础7】全力",
+      "homeDescription": "完成培训【基础7】全力"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 2,
       "title": "P课题2-2",
-      "description": "完成研修的【基础8】强气",
-      "homeDescription": "完成研修的【基础8】强气"
+      "description": "完成培训【基础8】强气",
+      "homeDescription": "完成培训【基础8】强气"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1158,8 +1158,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 5,
       "title": "P课题2-5",
-      "description": "完成研修的【应用5】非凡方案",
-      "homeDescription": "完成研修的【应用5】非凡方案"
+      "description": "完成培训【应用5】非凡方案",
+      "homeDescription": "完成培训【应用5】非凡方案"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1214,15 +1214,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 13,
       "title": "P课题2-13",
-      "description": "完成任何敏腕P研修任务",
-      "homeDescription": "完成任何敏腕P研修任务"
+      "description": "完成敏锐P培训中的任何一项",
+      "homeDescription": "完成敏锐P培训中的任何一项"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 14,
       "title": "P课题2-14",
-      "description": "挑战培育难度Master",
-      "homeDescription": "挑战培育难度Master"
+      "description": "挑战培育中的难度Master",
+      "homeDescription": "挑战培育中的难度Master"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1361,8 +1361,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 34,
       "title": "P课题2-34",
-      "description": "挑战培育并获得评定A+以上",
-      "homeDescription": "挑战培育并获得评定A+以上"
+      "description": "进行培育并获得评价A+以上",
+      "homeDescription": "进行培育并获得评价A+以上"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1473,8 +1473,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 50,
       "title": "P课题2-50",
-      "description": "挑战培育并获取评估S以上吧",
-      "homeDescription": "挑战培育并获取评估S以上吧"
+      "description": "挑战培育并获得评价S以上",
+      "homeDescription": "挑战培育并获得评价S以上"
     }
   ]
 }

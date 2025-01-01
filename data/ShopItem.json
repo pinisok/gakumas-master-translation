@@ -87,31 +87,31 @@
     },
     {
       "id": "shop_jewel_item-0004",
-      "name": "宝石1,200个"
+      "name": "珠宝1,200个"
     },
     {
       "id": "shop_jewel_item-0005",
-      "name": "宝石2,500个"
+      "name": "珠宝2,500个"
     },
     {
       "id": "shop_jewel_item-0006",
-      "name": "宝石4,000个"
+      "name": "珠宝4,000个"
     },
     {
       "id": "shop_jewel_item-0007",
-      "name": "宝石8,200个"
+      "name": "珠宝8,200个"
     },
     {
       "id": "shop_jewel_item-0008",
-      "name": "【仅限1次特惠！】宝石12,300个（6/28前）"
+      "name": "【一次性优惠！】珠宝12,300颗（6/28前）"
     },
     {
       "id": "shop_jewel_item-0009",
-      "name": "【仅限1次特惠！】宝石450个（6/28前）"
+      "name": "【一次性优惠！】珠宝450颗（6/28前）"
     },
     {
       "id": "shop_jewel_item-0010",
-      "name": "【仅限1次特惠！】宝石6,000个（6/28前）"
+      "name": "【一次性优惠！】珠宝6,000颗（6/28前）"
     },
     {
       "id": "shop_jewel_item-0011",
@@ -147,19 +147,19 @@
     },
     {
       "id": "shop_pack_item-0003",
-      "name": "每周发放！初星包"
+      "name": "每周发放！初星礼包"
     },
     {
       "id": "shop_pack_item-0004",
-      "name": "每周更新！育成包"
+      "name": "每周更新！培养礼包"
     },
     {
       "id": "shop_pack_item-0005",
-      "name": "每月更新！育成包"
+      "name": "每月更新！培养包"
     },
     {
       "id": "shop_pack_item-0006",
-      "name": "【限时72小时】可培育偶像角色碎片包（咲季）"
+      "name": "【72小时限定】可培育偶像零件包（咲季）"
     },
     {
       "id": "shop_pack_item-0007",
@@ -179,7 +179,7 @@
     },
     {
       "id": "shop_pack_item-0011",
-      "name": "【72小时限定】可培育偶像角色碎片包（千奈）"
+      "name": "【72小时限定】可培育偶像零件包（千奈）"
     },
     {
       "id": "shop_pack_item-0012",
@@ -195,19 +195,19 @@
     },
     {
       "id": "shop_pack_item-100dl",
-      "name": "【100万DL纪念】培育包（6/28前）"
+      "name": "【100万DL纪念】培养包（6/28前）"
     },
     {
       "id": "shop_pack_item-childsmock-01",
-      "name": "【100万DL纪念】儿童围裙包A（6/28前）"
+      "name": "【100万DL纪念】儿童罩衫包A（6/28前）"
     },
     {
       "id": "shop_pack_item-childsmock-02",
-      "name": "【100万DL纪念】儿童围裙包B（6/28前）"
+      "name": "【100万DL纪念】儿童罩衫包B（6/28前）"
     },
     {
       "id": "shop_pack_item-childsmock-03",
-      "name": "【100万DL纪念】儿童围裙包C（6/28前）"
+      "name": "【100万DL纪念】儿童罩衫包C（6/28前）"
     },
     {
       "id": "shop_pack_item-daily-AP-0001",
@@ -215,7 +215,7 @@
     },
     {
       "id": "shop_pack_item-first-live_001",
-      "name": "初声公演纪念包"
+      "name": "首次声演纪念包"
     },
     {
       "id": "shop_pack_item-first-live_002",
@@ -231,11 +231,11 @@
     },
     {
       "id": "shop_pack_item-monthly-0002",
-      "name": "每月更新！育成包"
+      "name": "每月更新！培养包"
     },
     {
       "id": "shop_pack_item-monthly-0002_re01",
-      "name": "每月更新！育成包"
+      "name": "每月更新！培养包"
     },
     {
       "id": "shop_pack_item-newyear_2500_01",
@@ -247,35 +247,35 @@
     },
     {
       "id": "shop_pack_item-onsen-costume-amao",
-      "name": "温泉泳装（有村麻央）"
+      "name": "温泉专用泳装（有村麻央）"
     },
     {
       "id": "shop_pack_item-onsen-costume-fktn",
-      "name": "温泉泳装（藤田琴音）"
+      "name": "温泉专用泳装（藤田琴音）"
     },
     {
       "id": "shop_pack_item-onsen-costume-hski",
-      "name": "温泉泳装（花海咲季）"
+      "name": "温泉专用泳装（花海咲季）"
     },
     {
       "id": "shop_pack_item-onsen-costume-kllj",
-      "name": "温泉泳装（葛城莉莉娅）"
+      "name": "温泉专用泳装（葛城莉莉亚）"
     },
     {
       "id": "shop_pack_item-onsen-costume-shro",
-      "name": "温泉用泳衣（篠澤広）"
+      "name": "温泉专用泳装（篠泽广）"
     },
     {
       "id": "shop_pack_item-onsen-costume-ssmk",
-      "name": "温泉用泳衣（紫雲清夏）"
+      "name": "温泉专用泳装（紫云清夏）"
     },
     {
       "id": "shop_pack_item-onsen-costume-ttmr",
-      "name": "温泉用泳衣（月村手毬）"
+      "name": "温泉专用泳装（月村手毬）"
     },
     {
       "id": "shop_pack_item-weekly-0002",
-      "name": "每周更新！育成包"
+      "name": "每周更新！培养礼包"
     },
     {
       "id": "shop_pack_jsna-0001",

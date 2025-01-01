@@ -154,22 +154,22 @@
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "amao",
@@ -184,12 +184,12 @@
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "amao",
@@ -259,27 +259,27 @@
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "amao",
@@ -664,22 +664,22 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "fktn",
@@ -694,12 +694,12 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "fktn",
@@ -769,27 +769,27 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "fktn",
@@ -1094,7 +1094,7 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-11",
-      "title": "首页（亲密度Lv2〜4）"
+      "title": "主页（亲密度Lv2〜4）"
     },
     {
       "characterId": "hrnm",
@@ -1179,22 +1179,22 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "hrnm",
@@ -1209,12 +1209,12 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "hrnm",
@@ -1284,27 +1284,27 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "hrnm",
@@ -1689,22 +1689,22 @@
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "hski",
@@ -1719,12 +1719,12 @@
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "hski",
@@ -1794,27 +1794,27 @@
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "hski",
@@ -2189,22 +2189,22 @@
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "hume",
@@ -2219,12 +2219,12 @@
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "hume",
@@ -2279,27 +2279,27 @@
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "hume",
@@ -2684,22 +2684,22 @@
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "jsna",
@@ -2714,12 +2714,12 @@
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "jsna",
@@ -2789,27 +2789,27 @@
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "jsna",
@@ -3194,22 +3194,22 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "kcna",
@@ -3224,12 +3224,12 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "kcna",
@@ -3299,27 +3299,27 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "kcna",
@@ -3614,7 +3614,7 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-10",
-      "title": "首页（亲密度Lv2〜4）"
+      "title": "主页（亲密度Lv2〜4）"
     },
     {
       "characterId": "kllj",
@@ -3624,7 +3624,7 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-12",
-      "title": "首页（亲密度Lv5〜7）"
+      "title": "主页（亲密度Lv5〜7）"
     },
     {
       "characterId": "kllj",
@@ -3704,22 +3704,22 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "kllj",
@@ -3734,12 +3734,12 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "kllj",
@@ -3809,27 +3809,27 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "kllj",
@@ -4124,7 +4124,7 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-10",
-      "title": "首页（亲密度Lv2〜4）"
+      "title": "主页（亲密度Lv2〜4）"
     },
     {
       "characterId": "shro",
@@ -4134,7 +4134,7 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-12",
-      "title": "首页（亲密度Lv5〜7）"
+      "title": "主页（亲密度Lv5〜7）"
     },
     {
       "characterId": "shro",
@@ -4214,22 +4214,22 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "shro",
@@ -4244,12 +4244,12 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "shro",
@@ -4319,27 +4319,27 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "shro",
@@ -4644,7 +4644,7 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-12",
-      "title": "首页（亲密度Lv5〜7）"
+      "title": "主页（亲密度Lv5〜7）"
     },
     {
       "characterId": "ssmk",
@@ -4724,22 +4724,22 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "ssmk",
@@ -4754,12 +4754,12 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "ssmk",
@@ -4829,27 +4829,27 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "ssmk",
@@ -5164,7 +5164,7 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-14",
-      "title": "首页（亲密度Lv5〜7）"
+      "title": "主页（亲密度Lv5〜7）"
     },
     {
       "characterId": "ttmr",
@@ -5234,22 +5234,22 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-01",
-      "title": "主页（早晨）①"
+      "title": "主页（早）①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-02",
-      "title": "主页（早晨）②"
+      "title": "主页（早）②"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-03",
-      "title": "主页（中午）①"
+      "title": "主页（午）①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-04",
-      "title": "主页（中午）②"
+      "title": "主页（午）②"
     },
     {
       "characterId": "ttmr",
@@ -5264,12 +5264,12 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-07",
-      "title": "主页（晚上）①"
+      "title": "主页（夜）①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-08",
-      "title": "主页（晚上）②"
+      "title": "主页（夜）②"
     },
     {
       "characterId": "ttmr",
@@ -5339,27 +5339,27 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-23",
-      "title": "主页（冬）①"
+      "title": "家（冬）①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-24",
-      "title": "主页（冬）②"
+      "title": "家（冬）②"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_transition-25",
-      "title": "主页（冬）③"
+      "title": "家（冬）③"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_idol_potential-01",
-      "title": "才能绽放①"
+      "title": "才能开花①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_idol_potential-02",
-      "title": "才能绽放②"
+      "title": "才能开花②"
     },
     {
       "characterId": "ttmr",

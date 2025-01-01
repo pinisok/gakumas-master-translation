@@ -73,7 +73,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -223,7 +223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -243,7 +243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "费用值增加"
+          "text": "成本值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -338,7 +338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -358,7 +358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "费用值增加"
+          "text": "成本值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -453,7 +453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -548,7 +548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -643,7 +643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "分数上升次数增加"
+          "text": "数值上升次数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -738,7 +738,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "成本值减少"
+          "text": "消耗减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -758,7 +758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -853,7 +853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "成本值减少"
+          "text": "消耗减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -873,7 +873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -968,7 +968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1063,7 +1063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1158,7 +1158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1178,7 +1178,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "费用值增加"
+          "text": "成本值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1273,7 +1273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1368,7 +1368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1388,7 +1388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "费用值增加"
+          "text": "成本值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1483,7 +1483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1578,7 +1578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1653,7 +1653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1728,7 +1728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1803,7 +1803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1878,7 +1878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1953,7 +1953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2048,7 +2048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2143,7 +2143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2238,7 +2238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2333,7 +2333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2428,7 +2428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2523,7 +2523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2598,7 +2598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2673,7 +2673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2768,7 +2768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2883,7 +2883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "费用值增加"
+          "text": "成本值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2978,7 +2978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3073,7 +3073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3168,7 +3168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "分数上升次数增加"
+          "text": "数值上升次数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3263,7 +3263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3338,7 +3338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3413,7 +3413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3488,7 +3488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3563,7 +3563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3638,7 +3638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3713,7 +3713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3788,7 +3788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3863,7 +3863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3938,7 +3938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "分数上升次数增加"
+          "text": "数值上升次数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4203,7 +4203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4298,7 +4298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "分数值增加"
+          "text": "数值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
