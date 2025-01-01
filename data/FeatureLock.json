@@ -1,0 +1,63 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "tutorialType"
+    ]
+  },
+  "data": [
+    {
+      "tutorialType": "TutorialType_Work",
+      "name": "工作",
+      "description": "「工作」功能解锁",
+      "routeDescription": "可以在首页的工作中确认"
+    },
+    {
+      "tutorialType": "TutorialType_PvpRate",
+      "name": "竞赛",
+      "description": "「竞赛」功能解锁",
+      "routeDescription": "可以在竞赛中确认"
+    },
+    {
+      "tutorialType": "TutorialType_CoinGasha",
+      "name": "硬币扭蛋",
+      "description": "「硬币扭蛋」功能解锁",
+      "routeDescription": "可以在商店的硬币扭蛋中确认"
+    },
+    {
+      "tutorialType": "TutorialType_MoneyReceive",
+      "name": "活动资金",
+      "description": "「活动资金」功能解锁",
+      "routeDescription": "可以在首页的活动资金中确认"
+    },
+    {
+      "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+      "name": "可培育偶像特训",
+      "description": "「可培育偶像特训」功能解锁",
+      "routeDescription": "可以在偶像的P偶像培养中确认"
+    },
+    {
+      "tutorialType": "TutorialType_SupportCardLevelUpdate",
+      "name": "支援卡强化",
+      "description": "「支援卡强化」功能解锁",
+      "routeDescription": "可以在偶像的支援卡中确认\n"
+    },
+    {
+      "tutorialType": "TutorialType_DailyExchange",
+      "name": "每日交换所",
+      "description": "「每日交换所」功能解锁",
+      "routeDescription": "可以从商店的每日交换所中确认"
+    },
+    {
+      "tutorialType": "TutorialType_Tower",
+      "name": "通往偶像之路",
+      "description": "解锁“通往偶像之路”功能",
+      "routeDescription": "可以从竞赛的通往偶像之路中确认"
+    },
+    {
+      "tutorialType": "TutorialType_Guild",
+      "name": "社团",
+      "description": "解锁“社团”功能",
+      "routeDescription": "可以从菜单的社团中确认"
+    }
+  ]
+}

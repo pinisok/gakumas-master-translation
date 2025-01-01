@@ -1,0 +1,165 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "box_gasha_event-01-01",
+      "title": "盛夏的夏季演唱会・庆典"
+    },
+    {
+      "id": "box_gasha_event-02-01",
+      "title": "夏宵面对面"
+    },
+    {
+      "id": "box_gasha_event-07-01",
+      "title": "万圣节狂想曲"
+    },
+    {
+      "id": "box_gasha_event-09-01",
+      "title": "蛋糕缔结的友谊圣诞"
+    },
+    {
+      "id": "main_story_group-01-01",
+      "title": ""
+    },
+    {
+      "id": "main_story_group-01-02",
+      "title": ""
+    },
+    {
+      "id": "main_story_group-01-02_1",
+      "title": ""
+    },
+    {
+      "id": "main_story_group-01-02_2",
+      "title": ""
+    },
+    {
+      "id": "main_story_group-01-02_3",
+      "title": ""
+    },
+    {
+      "id": "main_story_group-01-03",
+      "title": ""
+    },
+    {
+      "id": "main_story_group-01-03_1",
+      "title": ""
+    },
+    {
+      "id": "main_story_group-01-03_2",
+      "title": ""
+    },
+    {
+      "id": "story_dearness_amao_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_amao_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_fktn_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_fktn_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_hrnm_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_hrnm_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_hski_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_hski_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_hume_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_hume_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_jsna_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_jsna_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_kcna_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_kcna_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_kllj_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_kllj_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_shro_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_shro_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_ssmk_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_ssmk_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_dearness_ttmr_step-01",
+      "title": "STEP1"
+    },
+    {
+      "id": "story_dearness_ttmr_step-02",
+      "title": "STEP2"
+    },
+    {
+      "id": "story_event_group-01-01",
+      "title": "1年1班的偶像们"
+    },
+    {
+      "id": "story_event_group-02-01",
+      "title": "1年2班的偶像们"
+    },
+    {
+      "id": "story_event_group-05-01",
+      "title": "学生会的偶像们"
+    },
+    {
+      "id": "story_event_group-06-01",
+      "title": "初星温泉～随凋零的寒风～"
+    },
+    {
+      "id": "story_gvg_group-01-01",
+      "title": ""
+    }
+  ]
+}

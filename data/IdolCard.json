@@ -1,0 +1,293 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "i_card-amao-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-amao-1-001",
+      "name": "初恋"
+    },
+    {
+      "id": "i_card-amao-2-000",
+      "name": "起始以帅气"
+    },
+    {
+      "id": "i_card-amao-3-000",
+      "name": "Fluorite"
+    },
+    {
+      "id": "i_card-amao-3-001",
+      "name": "与你的青涩时光"
+    },
+    {
+      "id": "i_card-amao-3-002",
+      "name": "Feel Jewel Dream"
+    },
+    {
+      "id": "i_card-amao-3-007",
+      "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-fktn-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-fktn-1-001",
+      "name": "初声"
+    },
+    {
+      "id": "i_card-fktn-2-000",
+      "name": "可爱♡初次见面"
+    },
+    {
+      "id": "i_card-fktn-3-000",
+      "name": "世界上最可爱的我"
+    },
+    {
+      "id": "i_card-fktn-3-001",
+      "name": "Yellow Big Bang！"
+    },
+    {
+      "id": "i_card-fktn-3-002",
+      "name": "冠菊"
+    },
+    {
+      "id": "i_card-fktn-3-006",
+      "name": "White Night! White Wish!"
+    },
+    {
+      "id": "i_card-fktn-3-007",
+      "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-hrnm-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-hrnm-1-001",
+      "name": "初心"
+    },
+    {
+      "id": "i_card-hrnm-2-000",
+      "name": "『自我』的开始"
+    },
+    {
+      "id": "i_card-hrnm-3-000",
+      "name": "clumsy trick"
+    },
+    {
+      "id": "i_card-hrnm-3-001",
+      "name": "与你的青涩时光"
+    },
+    {
+      "id": "i_card-hrnm-3-002",
+      "name": "L.U.V"
+    },
+    {
+      "id": "i_card-hrnm-3-004",
+      "name": "欢迎来到初星温泉"
+    },
+    {
+      "id": "i_card-hrnm-3-007",
+      "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-hski-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-hski-1-001",
+      "name": "初声"
+    },
+    {
+      "id": "i_card-hski-2-000",
+      "name": "我第一！"
+    },
+    {
+      "id": "i_card-hski-3-000",
+      "name": "Fighting My Way"
+    },
+    {
+      "id": "i_card-hski-3-001",
+      "name": "Boom Boom Pow"
+    },
+    {
+      "id": "i_card-hski-3-002",
+      "name": "冠菊"
+    },
+    {
+      "id": "i_card-hski-3-006",
+      "name": "古今中外轻而易举"
+    },
+    {
+      "id": "i_card-hski-3-008",
+      "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-hume-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-hume-2-000",
+      "name": "偶像，开始吧！"
+    },
+    {
+      "id": "i_card-hume-3-000",
+      "name": "The Rolling Riceball"
+    },
+    {
+      "id": "i_card-hume-3-005",
+      "name": "White Night! White Wish!"
+    },
+    {
+      "id": "i_card-jsna-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-jsna-2-000",
+      "name": "一颗星"
+    },
+    {
+      "id": "i_card-jsna-3-000",
+      "name": "小小的野心"
+    },
+    {
+      "id": "i_card-jsna-3-002",
+      "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-kcna-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-kcna-1-001",
+      "name": "初心"
+    },
+    {
+      "id": "i_card-kcna-2-000",
+      "name": "挺胸阔步，逐步前行"
+    },
+    {
+      "id": "i_card-kcna-3-000",
+      "name": "Wonder Scale"
+    },
+    {
+      "id": "i_card-kcna-3-001",
+      "name": "天天，发现性的步伐！"
+    },
+    {
+      "id": "i_card-kcna-3-002",
+      "name": "化装狂想曲"
+    },
+    {
+      "id": "i_card-kcna-3-005",
+      "name": "欢迎来到初星温泉"
+    },
+    {
+      "id": "i_card-kllj-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-kllj-1-001",
+      "name": "初心"
+    },
+    {
+      "id": "i_card-kllj-2-000",
+      "name": "踏出的一步"
+    },
+    {
+      "id": "i_card-kllj-3-000",
+      "name": "白线"
+    },
+    {
+      "id": "i_card-kllj-3-001",
+      "name": "冠菊"
+    },
+    {
+      "id": "i_card-kllj-3-005",
+      "name": "White Night! White Wish!"
+    },
+    {
+      "id": "i_card-shro-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-shro-1-001",
+      "name": "初恋"
+    },
+    {
+      "id": "i_card-shro-2-000",
+      "name": "最不擅长的事"
+    },
+    {
+      "id": "i_card-shro-3-000",
+      "name": "光景"
+    },
+    {
+      "id": "i_card-shro-3-001",
+      "name": "对比"
+    },
+    {
+      "id": "i_card-shro-3-002",
+      "name": "化装狂想曲"
+    },
+    {
+      "id": "i_card-ssmk-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-ssmk-1-001",
+      "name": "初恋"
+    },
+    {
+      "id": "i_card-ssmk-2-000",
+      "name": "向梦重启"
+    },
+    {
+      "id": "i_card-ssmk-3-000",
+      "name": "Tame-Lie-One-Step"
+    },
+    {
+      "id": "i_card-ssmk-3-001",
+      "name": "与你的青涩时光"
+    },
+    {
+      "id": "i_card-ssmk-3-002",
+      "name": "隐藏的我"
+    },
+    {
+      "id": "i_card-ttmr-1-000",
+      "name": "学园生活"
+    },
+    {
+      "id": "i_card-ttmr-1-001",
+      "name": "初声"
+    },
+    {
+      "id": "i_card-ttmr-2-000",
+      "name": "独行侠"
+    },
+    {
+      "id": "i_card-ttmr-3-000",
+      "name": "Luna say maybe"
+    },
+    {
+      "id": "i_card-ttmr-3-001",
+      "name": "Ivy"
+    },
+    {
+      "id": "i_card-ttmr-3-002",
+      "name": "化装狂想曲"
+    },
+    {
+      "id": "i_card-ttmr-3-007",
+      "name": "Campus mode!!"
+    }
+  ]
+}
