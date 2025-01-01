@@ -174,3 +174,4 @@ cython_debug/
 /exports
 /merged
 /pretranslate_todo
+/scripts/从generic迁移翻译.py

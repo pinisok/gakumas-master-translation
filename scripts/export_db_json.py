@@ -113,15 +113,16 @@ def ex_main(input_json, output_json):
 
 def main():
     orig_dir = input("原json文件夹: ") or "gakumasu-diff/json"
-    if not os.path.isdir("../exports"):
-        os.mkdir("../exports")
+    if not os.path.isdir("./exports"):
+        os.mkdir("./exports")
 
     for root, dirs, files in os.walk(orig_dir):
         for file in files:
             if file.endswith(".json"):
                 input_path = os.path.join(root, file)
-                output_path = os.path.join("../exports", file)
+                output_path = os.path.join("./exports", file)
                 ex_main(input_path, output_path)
+
 
 if __name__ == "__main__":
     main()
