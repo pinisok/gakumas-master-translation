@@ -220,8 +220,8 @@ primary_key_rules = {
                                     "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId",
                                     "descriptions.type", "descriptions.targetId", "descriptions.examEffectType", "descriptions.produceCardCategory"],
                                    ["descriptions.text", "produceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceStepFanPresentMotion": [["id"], ["name"]],
-    # "ProduceStepLesson": [[], []],
+    # "ProduceStepFanPresentMotion": [[], []],
+    "ProduceStepLesson": [["id"], ["name"]],
     # "ProduceStepLessonLevel": [[], []],
     # "ProduceStepSelfLesson": [[], []],
     # "ProduceStepSelfLessonMotion": [[], []],
@@ -247,8 +247,8 @@ primary_key_rules = {
     "SupportCard": [["id", "upgradeProduceCardDescriptions.type", "upgradeProduceCardDescriptions.examEffectType", "upgradeProduceCardDescriptions.produceCardCategory",
                      "upgradeProduceCardProduceDescriptions.produceDescriptionType", "upgradeProduceCardProduceDescriptions.examDescriptionType", "upgradeProduceCardProduceDescriptions.examEffectType", "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardCategory", "upgradeProduceCardProduceDescriptions.produceCardMovePositionType", "upgradeProduceCardProduceDescriptions.produceStepType"],
                     ["name", "upgradeProduceCardDescriptions.text", "upgradeProduceCardProduceDescriptions.text"]],  # 嵌套List Obj
-    "SupportCardBonus": [["supportCardId", "number"], ["text"]],
-    # "SupportCardFlavor": [[], []],
+    # "SupportCardBonus": [[], []],
+    "SupportCardFlavor": [["supportCardId", "number"], ["text"]],
     # "SupportCardLevel": [[], []],
     # "SupportCardLevelLimit": [[], []],
     # "SupportCardProduceSkillLevelAssist": [[], []],
@@ -458,7 +458,7 @@ def transform_value_for_test_mode(value):
     return value
 
 
-# process_list = ["Rule"]
+# process_list = ["ProduceStepLesson", "SupportCardFlavor"]
 process_list = None
 
 def convert_yaml_types(folder_path="./gakumasu-diff/orig"):

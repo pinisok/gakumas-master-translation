@@ -147,8 +147,11 @@ def merge_todo():
 
                 with open(old_key_cn_file, 'r', encoding='utf-8') as f:
                     old_key_cn_data: dict = json.load(f)
-                with open(new_key_jp_file, 'r', encoding='utf-8') as f:
-                    new_key_jp_data = json.load(f)
+                if os.path.exists(new_key_jp_file):
+                    with open(new_key_jp_file, 'r', encoding='utf-8') as f:
+                        new_key_jp_data = json.load(f)
+                else:
+                    new_key_jp_data = {}
 
                 for k, v in old_key_cn_data.items():
                     new_key_jp_data[k] = v
