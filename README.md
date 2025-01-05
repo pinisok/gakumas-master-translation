@@ -11,6 +11,7 @@
    - 需要手动将 `pretranslate_todo/todo` 内的文件复制到 `gakumas-generic-strings-translation/working/todo` 内，然后在 `gakumas-generic-strings-translation` 内运行 `make pretranslate`
    - 翻译完成后将 `gakumas-generic-strings-translation/working/new` 内的文件复制到 `pretranslate_todo/todo/new` 内。若 `new` 文件夹不存在，则手动创建
  - `make merge` 将 `pretranslate_todo/todo/new` 内的文件合并到 `data`
+ - 全部处理完成后，请手动清空 `pretranslate_todo` 文件夹
 
 
 
