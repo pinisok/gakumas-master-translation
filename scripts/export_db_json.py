@@ -73,7 +73,23 @@ def collect_translatable_text(data_obj, primary_keys):
                     if normalized_path not in pk_set:
                         fullKey = baseKey + "|" + new_prefix
                         result[fullKey] = v
-                elif isinstance(v, (dict, list)):
+                elif isinstance(v, list):
+                    if (len(v) > 0) and (not isinstance(v[0], str)):
+                        traverse(v, new_prefix)
+                    else:
+                        new_v = "[LA_N_F]".join(v)
+                        new_v = f"[LA_F]{new_v}"
+                        # 如果字符串为空，则跳过
+                        if not check_need_export(new_v):
+                            continue
+                        # 处理数组index => produceDescriptions[0].xxx -> produceDescriptions.xxx
+                        normalized_path = path_normalize_for_pk(new_prefix)
+                        # 如果它是 pk，就跳过
+                        if normalized_path not in pk_set:
+                            fullKey = baseKey + "|" + new_prefix
+                            result[fullKey] = new_v
+
+                elif isinstance(v, dict):
                     traverse(v, new_prefix)
         elif isinstance(obj, list):
             for idx, item in enumerate(obj):

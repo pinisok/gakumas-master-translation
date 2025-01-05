@@ -904,7 +904,8 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": ""
+          "targetId": "",
+          "text": "\t"
         }
       ],
       "name": "精选初星玛奇朵"
@@ -1273,7 +1274,8 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": ""
+          "targetId": "",
+          "text": "\t"
         }
       ],
       "name": "精选初星茶"
@@ -1348,7 +1350,8 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": ""
+          "targetId": "",
+          "text": "\t"
         }
       ],
       "name": "精选初星混合"
@@ -1847,7 +1850,8 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "targetId": ""
+          "targetId": "",
+          "text": "\t"
         }
       ],
       "name": "精选初星茶"

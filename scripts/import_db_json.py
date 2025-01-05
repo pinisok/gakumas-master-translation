@@ -37,7 +37,18 @@ def fill_back_translations(data_obj, primary_keys, trans_map):
                     fullKey = baseKey + "|" + new_prefix
                     if fullKey in trans_map:
                         obj[k] = trans_map[fullKey]
-                elif isinstance(v, list) or isinstance(v, dict):
+                elif isinstance(v, list):
+                    fullKey = baseKey + "|" + new_prefix
+                    if fullKey in trans_map:
+                        trans_data = trans_map[fullKey]
+                        if trans_data.startswith("[LA_F]"):
+                            list_data = trans_data[len("[LA_F]"):].split("[LA_N_F]")
+                            obj[k] = list_data
+                        else:
+                            traverse(v, new_prefix)
+                    else:
+                        traverse(v, new_prefix)
+                elif isinstance(v, dict):
                     traverse(v, new_prefix)
         elif isinstance(obj, list):
             for idx, item in enumerate(obj):

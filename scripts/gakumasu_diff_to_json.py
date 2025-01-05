@@ -1,6 +1,8 @@
 import os
 import yaml
 import json
+from yaml.reader import Reader
+
 
 primary_key_rules = {
     "Achievement": [["id"], ["name", "description"]],
@@ -281,6 +283,23 @@ primary_key_rules = {
 
 TestMode = False
 
+class CustomLoader(yaml.SafeLoader):
+    def __init__(self, stream):
+        # 重写初始化以支持特定的控制字符
+        super().__init__(stream)
+
+    def check_printable(self, data):
+        """
+        重写检查函数以允许不可打印字符（如 #x000b）
+        """
+        for char in data:
+            if char == "\x0b":  # 允许垂直制表符
+                continue
+            if not super().check_printable(char):
+                return False
+        return True
+
+
 def save_json(data: list, name: str):
     """
     主流程:
@@ -325,6 +344,7 @@ def save_json(data: list, name: str):
     os.makedirs('./gakumasu-diff/json', exist_ok=True)
     with open(f'gakumasu-diff/json/{name}.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
+    return f'gakumasu-diff/json/{name}.json'
 
 
 def filter_record_fields(record: dict, field_paths: list,
@@ -438,7 +458,7 @@ def transform_value_for_test_mode(value):
     return value
 
 
-# process_list = ["HelpContent", "GvgRaid", "GashaButton", "ProduceStepEventDetail", "ProduceCard"]
+# process_list = ["Rule"]
 process_list = None
 
 def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
@@ -467,10 +487,12 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
                     # 预处理文件：替换制表符为 4 个空格
                     with open(file_path, 'r', encoding='utf-8') as f:
                         content = f.read()
-                    content = content.replace('\t', '    ')  # 替换制表符
+                    # content = content.replace('\t', '    ')  # 替换制表符
+                    content = content.replace(": \t", ": \"\t\"")  # 替换制表符
 
                     # 解析 YAML 内容
-                    data = yaml.safe_load(content)
+                    # data = yaml.safe_load(content)
+                    data = yaml.load(content, CustomLoader)
                     save_json(data, file[:-5])
 
                     # print(f"文件: {file_path}")

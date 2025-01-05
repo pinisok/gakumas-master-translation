@@ -904,7 +904,8 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": ""
+                    "targetId": "",
+                    "text": "\t"
                 }
             ],
             "name": "厳選初星マキアート"
@@ -1273,7 +1274,8 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": ""
+                    "targetId": "",
+                    "text": "\t"
                 }
             ],
             "name": "厳選初星ティー"
@@ -1348,7 +1350,8 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": ""
+                    "targetId": "",
+                    "text": "\t"
                 }
             ],
             "name": "厳選初星ブレンド"
@@ -1847,7 +1850,8 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": ""
+                    "targetId": "",
+                    "text": "\t"
                 }
             ],
             "name": "厳選初星チャイ"
