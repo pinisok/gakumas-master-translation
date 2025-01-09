@@ -1447,6 +1447,30 @@
             ]
         },
         {
+            "id": "p_card_search-playing-1-p_card-02-men-1_031",
+            "descriptions": [
+                {
+                    "type": "ProduceDescriptionType_ProduceCard",
+                    "targetId": "p_card-02-men-1_031",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "text": "えいえいおー"
+                }
+            ],
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-02-men-1_031",
+                    "text": "えいえいおー"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-playing-1-p_card-02-men-1_032",
             "descriptions": [
                 {
@@ -1491,6 +1515,30 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-3_002",
                     "text": "私がスター"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-playing-1-p_card-03-act-1_038",
+            "descriptions": [
+                {
+                    "type": "ProduceDescriptionType_ProduceCard",
+                    "targetId": "p_card-03-act-1_038",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "text": "ジャストアピール"
+                }
+            ],
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-03-act-1_038",
+                    "text": "ジャストアピール"
                 }
             ]
         },
@@ -1915,6 +1963,30 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-ido-3_066",
                     "text": "アドレナリン全開"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-playing-p_card-02-act-1_028",
+            "descriptions": [
+                {
+                    "type": "ProduceDescriptionType_ProduceCard",
+                    "targetId": "p_card-02-act-1_028",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "text": "ゆるふわおしゃべり"
+                }
+            ],
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-02-act-1_028",
+                    "text": "ゆるふわおしゃべり"
                 }
             ]
         },

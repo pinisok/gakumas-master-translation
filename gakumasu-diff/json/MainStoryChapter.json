@@ -23,6 +23,12 @@
             "id": "story-main-01-03",
             "title": "3章",
             "description": "わたしたちはRe;IRIS"
+        },
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-04",
+            "title": "4章",
+            "description": "Hatsuboshi IDOL FESTIVAL"
         }
     ]
 }

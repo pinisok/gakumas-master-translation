@@ -379,6 +379,81 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play_after-card_search_count_up-1-p_card_search-hold-p_card_search-playing-1-p_card-03-act-1_038-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_038",
+          "text": "刚好发声"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用后，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardPositionType_Hold",
+          "text": "保留"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "有1张以上技能卡的情况下，"
+        }
+      ],
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-03-act-1_038",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "刚好发声"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "使用后，"
+        },
+        {
+          "type": "ProduceDescriptionType_ProduceDescription",
+          "targetId": "Label_ProduceCardPositionType_Hold",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "保留"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "有1张以上技能卡的情况下，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play_after-concentration_up-p_card_search-active_skill-playing-0_1",
       "produceDescriptions": [
         {
@@ -2939,6 +3014,47 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-02-act-1_028-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-act-1_028",
+          "text": "轻松愉快的聊天"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用时，"
+        }
+      ],
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-02-act-1_028",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "轻松愉快的聊天"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "使用时，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play-parameter_buff",
       "produceDescriptions": [
         {
@@ -3921,6 +4037,47 @@
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_ActiveSkill",
           "text": "主动技能卡"
+        },
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "使用时，体力在50%以上的情况下，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play-stamina_up_multiple-500-p_card_search-playing-1-p_card-02-men-1_031-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_031",
+          "text": "加油加油"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用时，体力在50%以上的情况下，"
+        }
+      ],
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_ProduceCard",
+          "targetId": "p_card-02-men-1_031",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "加油加油"
         },
         {
           "type": "ProduceDescriptionType_PlainText",
@@ -6663,6 +6820,30 @@
           "examEffectType": "ProduceExamEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "text": "技能卡每使用2次，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-2-stamina_less_multiple-500",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "体力在50%以下的情况下，每使用2次技能卡，"
+        }
+      ],
+      "descriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "targetId": "",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "每使用2次技能卡，体力在50%以下的情况下，"
         }
       ]
     },

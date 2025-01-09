@@ -1546,6 +1546,126 @@
             "name": "5日目のミッションを全てクリア"
         },
         {
+            "id": "mission-main-story-event-006-mission_11",
+            "name": "APを{threshold}消費しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_12",
+            "name": "花海 咲季のファンを{threshold}人獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_13",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_14",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_15",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_21",
+            "name": "APを{threshold}消費しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_22",
+            "name": "月村 手毬のファンを{threshold}人獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_23",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_24",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_25",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_31",
+            "name": "APを{threshold}消費しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_32",
+            "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_33",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_34",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_35",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_41",
+            "name": "APを{threshold}消費しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_42",
+            "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_43",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_44",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_45",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_51",
+            "name": "APを{threshold}消費しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_52",
+            "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_53",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_54",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_55",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-main-story-event-006-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
             "id": "mission-normal-absolutedearnesslevel-1",
             "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
         },
@@ -2742,6 +2862,18 @@
             "name": "【White Night! White Wish!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hume-3-006-01",
+            "name": "【Campus mode!!】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-02",
+            "name": "【Campus mode!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-03",
+            "name": "【Campus mode!!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-jsna-2-000-01",
             "name": "【一番星】十王 星南のプロデュースで最終試験に合格"
         },
@@ -2814,6 +2946,18 @@
             "name": "【ようこそ初星温泉】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-kcna-3-007-01",
+            "name": "【Campus mode!!】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-02",
+            "name": "【Campus mode!!】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-03",
+            "name": "【Campus mode!!】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-kllj-3-001-01",
             "name": "【冠菊】葛城 リーリヤのプロデュースで最終試験に合格"
         },
@@ -2860,6 +3004,18 @@
         {
             "id": "achieve-i_card-shro-3-002-03",
             "name": "【仮装狂騒曲】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-01",
+            "name": "【Campus mode!!】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-02",
+            "name": "【Campus mode!!】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-03",
+            "name": "【Campus mode!!】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-i_card-ssmk-3-001-01",

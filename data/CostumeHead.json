@@ -371,6 +371,16 @@
       "description": "【White Night! White Wish!】花海 佑芽的才华开花第4阶段取得"
     },
     {
+      "id": "costume_head_hume-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得花海佑芽"
+    },
+    {
+      "id": "costume_head_hume-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】通过花海佑芽的才能开花第4阶段获得"
+    },
+    {
       "id": "costume_head_hume-cstm-0063",
       "name": "冠菊",
       "description": "【The Rolling Riceball】获得'24祭 花海 佑芽"
@@ -481,6 +491,11 @@
       "description": "【日常、发现性的步骤！】倉本 千奈的才能开花4阶段获得"
     },
     {
+      "id": "costume_head_kcna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得仓本千奈"
+    },
+    {
       "id": "costume_head_kcna-cstm-0063",
       "name": "冠菊",
       "description": "【Wonder Scale】'24祭 仓本 千奈を入手"
@@ -589,6 +604,16 @@
       "id": "costume_head_shro-cstm-0048",
       "name": "假装狂躁曲",
       "description": "【化装狂想曲】篠泽 広的才能开花第4阶段获取"
+    },
+    {
+      "id": "costume_head_shro-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得筱泽广"
+    },
+    {
+      "id": "costume_head_shro-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】通过筱泽广的才能开花第4阶段获得"
     },
     {
       "id": "costume_head_shro-cstm-0063",

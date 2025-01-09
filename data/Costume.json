@@ -461,6 +461,16 @@
       "description": "【The Rolling Riceball】获得'24夏 花海 佑芽"
     },
     {
+      "id": "hume-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得花海佑芽"
+    },
+    {
+      "id": "hume-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】在花海佑芽的天赋开花4阶段获得"
+    },
+    {
       "id": "hume-cstm-0063",
       "name": "冠菊",
       "description": "【The Rolling Riceball】获得'24祭 花海 佑芽"
@@ -614,6 +624,16 @@
       "id": "kcna-cstm-0051",
       "name": "キミとセミブルー",
       "description": "【Wonder Scale】'24夏 仓本 千奈を入手"
+    },
+    {
+      "id": "kcna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得仓本千奈"
+    },
+    {
+      "id": "kcna-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】在仓本千奈的天赋开花4阶段获得"
     },
     {
       "id": "kcna-cstm-0063",
@@ -799,6 +819,16 @@
       "id": "shro-cstm-0051",
       "name": "キミとセミブルー",
       "description": "【光景】'24夏 篠泽 広を入手"
+    },
+    {
+      "id": "shro-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】获得筱泽广"
+    },
+    {
+      "id": "shro-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】在筱泽广的天赋开花4阶段获得"
     },
     {
       "id": "shro-cstm-0063",

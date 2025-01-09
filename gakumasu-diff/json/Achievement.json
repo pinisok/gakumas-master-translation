@@ -276,6 +276,21 @@
             "description": "【White Night! White Wish!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hume-3-006-01",
+            "name": "新たなステージ",
+            "description": "【Campus mode!!】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-03",
+            "name": "たくさんの伝えたいこと",
+            "description": "【Campus mode!!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-jsna-2-000-01",
             "name": "王者の御出まし",
             "description": "【一番星】十王 星南のプロデュースで最終試験に合格"
@@ -366,6 +381,21 @@
             "description": "【ようこそ初星温泉】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-kcna-3-007-01",
+            "name": "広がり続ける世界",
+            "description": "【Campus mode!!】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-03",
+            "name": "生粋のワガママお嬢様",
+            "description": "【Campus mode!!】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-kllj-3-001-01",
             "name": "はじめてのラムネ",
             "description": "【冠菊】葛城 リーリヤのプロデュースで最終試験に合格"
@@ -424,6 +454,21 @@
             "id": "achieve-i_card-shro-3-002-03",
             "name": "面白くて、幸せな夜を……",
             "description": "【仮装狂騒曲】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-01",
+            "name": "エウレカ！",
+            "description": "【Campus mode!!】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-03",
+            "name": "選んで、よかったな",
+            "description": "【Campus mode!!】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-i_card-ssmk-3-001-01",

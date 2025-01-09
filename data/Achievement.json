@@ -276,6 +276,21 @@
       "description": "【White Night! White Wish!】在花海佑芽的培育下获得A+以上评价{threshold}次"
     },
     {
+      "id": "achieve-i_card-hume-3-006-01",
+      "name": "新的舞台",
+      "description": "【Campus mode!!】通过花海佑芽的培育最终考试"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-02",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】将花海佑芽的特训阶段调整为{threshold}"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-03",
+      "name": "许多想要传达的事情",
+      "description": "【Campus mode!!】通过花海佑芽的培育获得A+以上评价{threshold}次"
+    },
+    {
       "id": "achieve-i_card-jsna-2-000-01",
       "name": "王者的登场",
       "description": "【一番星】在十王星南的培育下通过最终考试"
@@ -366,6 +381,21 @@
       "description": "【欢迎初星温泉】在培育仓本千奈时获得A+以上评价{threshold}次"
     },
     {
+      "id": "achieve-i_card-kcna-3-007-01",
+      "name": "不断扩大的世界",
+      "description": "【Campus mode!!】通过仓本千奈的培育最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-02",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】将仓本千奈的特训阶段调整为{threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-03",
+      "name": "天生任性的小公主",
+      "description": "【Campus mode!!】通过仓本千奈的培育获得A+以上评价{threshold}次"
+    },
+    {
       "id": "achieve-i_card-kllj-3-001-01",
       "name": "初次的柠檬水",
       "description": "【冠菊】培育葛城莉莉娅通过最终考试"
@@ -424,6 +454,21 @@
       "id": "achieve-i_card-shro-3-002-03",
       "name": "愉快而幸福的夜晚……",
       "description": "【化装狂响曲】通过筱泽广的培育获得A+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-01",
+      "name": "欧雷卡！",
+      "description": "【Campus mode!!】通过筱泽广的培育最终考试"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-02",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】将筱泽广的特训阶段调整为{threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-03",
+      "name": "选择你，真是太好了",
+      "description": "【Campus mode!!】通过筱泽广的培育获得A+以上评价{threshold}次"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",

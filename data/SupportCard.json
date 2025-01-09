@@ -2200,6 +2200,30 @@
       "name": "再一次，从头开始！"
     },
     {
+      "id": "s_card-3-0045",
+      "upgradeProduceCardDescriptions": [
+        {
+          "type": "ProduceDescriptionType_PlainText",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "text": "/ 概率大"
+        }
+      ],
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率大"
+        }
+      ],
+      "name": "好的，大家一起♪"
+    },
+    {
       "id": "s_card-3-0046",
       "upgradeProduceCardDescriptions": [
         {

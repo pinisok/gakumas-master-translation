@@ -371,6 +371,16 @@
             "description": "【White Night! White Wish!】花海 佑芽の才能開花4段階目で入手"
         },
         {
+            "id": "costume_head_hume-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 佑芽を入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 佑芽の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_hume-cstm-0063",
             "name": "冠菊",
             "description": "【The Rolling Riceball】'24祭 花海 佑芽を入手"
@@ -481,6 +491,11 @@
             "description": "【日々、発見的ステップ！】倉本 千奈の才能開花4段階目で入手"
         },
         {
+            "id": "costume_head_kcna-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】倉本 千奈を入手"
+        },
+        {
             "id": "costume_head_kcna-cstm-0063",
             "name": "冠菊",
             "description": "【Wonder Scale】'24祭 倉本 千奈を入手"
@@ -589,6 +604,16 @@
             "id": "costume_head_shro-cstm-0048",
             "name": "仮装狂騒曲",
             "description": "【仮装狂騒曲】篠澤 広の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】篠澤 広の才能開花4段階目で入手"
         },
         {
             "id": "costume_head_shro-cstm-0063",
