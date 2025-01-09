@@ -1,12 +1,17 @@
 # gakumas-master-translation
 
 
+<div align="center">
+
+简体中文 | [English](README_EN.md)
+
+</div>
 
 
 
 # 使用脚本更新
 
- - `make update` 更新 MasterDB 文件
+ - `make update` 更新 MasterDB 的 `orig` 和 `json` 文件
  - `make gen-todo` 生成待翻译文件到 `pretranslate_todo/todo` 文件夹内
    - 需要手动将 `pretranslate_todo/todo` 内的文件复制到 `gakumas-generic-strings-translation/working/todo` 内，然后在 `gakumas-generic-strings-translation` 内运行 `make pretranslate`
    - 翻译完成后将 `gakumas-generic-strings-translation/working/new` 内的文件复制到 `pretranslate_todo/todo/new` 内。若 `new` 文件夹不存在，则手动创建
