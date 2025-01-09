@@ -1,11 +1,7 @@
 # gakumas-master-translation
 
 
-<div align="center">
-
 [简体中文](README.md) | English
-
-</div>
 
 
 
@@ -13,7 +9,7 @@
 
 - Use `make update` to update the MasterDB (`orig` and `json`) file.
 - Use `make gen-todo` to generate files to be translated into the `pretranslate_todo/todo` folder.
-  - Manually copy the files from `pretranslate_todo/todo` into `gakumas-generic-strings-translation/working/todo`. Then, run `make pretranslate` in the `gakumas-generic-strings-translation` directory.
+  - Manually copy the files from `pretranslate_todo/todo` into `gakumas-generic-strings-translation/working/todo`. Then, run `make pretranslate` in the `gakumas-generic-strings-translation`.
   - After translation is complete, copy the files from `gakumas-generic-strings-translation/working/new` into `pretranslate_todo/todo/new`. If the `new` folder does not exist, create it manually.
 - Use `make merge` to merge the files from `pretranslate_todo/todo/new` into `data`.
 - Once all processes are completed, please manually clear the `pretranslate_todo` folder.
