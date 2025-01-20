@@ -17,14 +17,7 @@
     "data": [
         {
             "id": "s_card-1-0000",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41,14 +34,7 @@
         },
         {
             "id": "s_card-1-0001",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -65,14 +51,7 @@
         },
         {
             "id": "s_card-1-0002",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89,14 +68,7 @@
         },
         {
             "id": "s_card-1-0003",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -113,14 +85,7 @@
         },
         {
             "id": "s_card-1-0004",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -137,14 +102,7 @@
         },
         {
             "id": "s_card-1-0005",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -161,14 +119,7 @@
         },
         {
             "id": "s_card-1-0006",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -185,14 +136,7 @@
         },
         {
             "id": "s_card-1-0007",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -209,14 +153,7 @@
         },
         {
             "id": "s_card-1-0008",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -233,14 +170,7 @@
         },
         {
             "id": "s_card-1-0009",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -257,14 +187,7 @@
         },
         {
             "id": "s_card-1-0010",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -281,14 +204,7 @@
         },
         {
             "id": "s_card-1-0011",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -305,14 +221,7 @@
         },
         {
             "id": "s_card-2-0000",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -329,14 +238,7 @@
         },
         {
             "id": "s_card-2-0001",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -353,14 +255,7 @@
         },
         {
             "id": "s_card-2-0002",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -377,14 +272,7 @@
         },
         {
             "id": "s_card-2-0003",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -401,14 +289,7 @@
         },
         {
             "id": "s_card-2-0004",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -425,14 +306,7 @@
         },
         {
             "id": "s_card-2-0005",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -449,14 +323,7 @@
         },
         {
             "id": "s_card-2-0006",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -473,14 +340,7 @@
         },
         {
             "id": "s_card-2-0007",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -497,14 +357,7 @@
         },
         {
             "id": "s_card-2-0008",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -521,14 +374,7 @@
         },
         {
             "id": "s_card-2-0009",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -545,14 +391,7 @@
         },
         {
             "id": "s_card-2-0010",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -569,14 +408,7 @@
         },
         {
             "id": "s_card-2-0011",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -593,14 +425,7 @@
         },
         {
             "id": "s_card-2-0012",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -617,14 +442,7 @@
         },
         {
             "id": "s_card-2-0013",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -641,14 +459,7 @@
         },
         {
             "id": "s_card-2-0014",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率小"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -665,14 +476,7 @@
         },
         {
             "id": "s_card-2-0015",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -689,14 +493,7 @@
         },
         {
             "id": "s_card-2-0016",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -713,14 +510,7 @@
         },
         {
             "id": "s_card-2-0018",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -737,14 +527,7 @@
         },
         {
             "id": "s_card-2-0019",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -761,14 +544,7 @@
         },
         {
             "id": "s_card-2-0020",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -785,14 +561,7 @@
         },
         {
             "id": "s_card-2-0021",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -809,14 +578,7 @@
         },
         {
             "id": "s_card-2-0023",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -833,14 +595,7 @@
         },
         {
             "id": "s_card-2-0024",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -857,14 +612,7 @@
         },
         {
             "id": "s_card-2-0025",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -881,14 +629,7 @@
         },
         {
             "id": "s_card-2-0027",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -905,14 +646,7 @@
         },
         {
             "id": "s_card-2-0028",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -929,14 +663,7 @@
         },
         {
             "id": "s_card-2-0029",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -953,14 +680,7 @@
         },
         {
             "id": "s_card-2-0030",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -977,14 +697,7 @@
         },
         {
             "id": "s_card-2-0031",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1001,14 +714,7 @@
         },
         {
             "id": "s_card-2-0032",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1025,14 +731,7 @@
         },
         {
             "id": "s_card-2-0033",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1049,14 +748,7 @@
         },
         {
             "id": "s_card-2-0034",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1073,14 +765,7 @@
         },
         {
             "id": "s_card-2-0035",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1097,14 +782,7 @@
         },
         {
             "id": "s_card-2-0036",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1121,14 +799,7 @@
         },
         {
             "id": "s_card-2-0037",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1145,14 +816,7 @@
         },
         {
             "id": "s_card-3-0000",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1169,14 +833,7 @@
         },
         {
             "id": "s_card-3-0001",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1193,14 +850,7 @@
         },
         {
             "id": "s_card-3-0002",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1217,14 +867,7 @@
         },
         {
             "id": "s_card-3-0003",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1241,14 +884,7 @@
         },
         {
             "id": "s_card-3-0004",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1265,14 +901,7 @@
         },
         {
             "id": "s_card-3-0005",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1289,14 +918,7 @@
         },
         {
             "id": "s_card-3-0006",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1313,14 +935,7 @@
         },
         {
             "id": "s_card-3-0007",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1337,14 +952,7 @@
         },
         {
             "id": "s_card-3-0008",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1361,14 +969,7 @@
         },
         {
             "id": "s_card-3-0009",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1385,14 +986,7 @@
         },
         {
             "id": "s_card-3-0010",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1409,14 +1003,7 @@
         },
         {
             "id": "s_card-3-0011",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1433,14 +1020,7 @@
         },
         {
             "id": "s_card-3-0012",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1457,14 +1037,7 @@
         },
         {
             "id": "s_card-3-0013",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1481,14 +1054,7 @@
         },
         {
             "id": "s_card-3-0014",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1505,14 +1071,7 @@
         },
         {
             "id": "s_card-3-0015",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1529,14 +1088,7 @@
         },
         {
             "id": "s_card-3-0016",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1553,14 +1105,7 @@
         },
         {
             "id": "s_card-3-0017",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1577,14 +1122,7 @@
         },
         {
             "id": "s_card-3-0018",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1601,14 +1139,7 @@
         },
         {
             "id": "s_card-3-0019",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1625,14 +1156,7 @@
         },
         {
             "id": "s_card-3-0020",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率中"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1649,14 +1173,7 @@
         },
         {
             "id": "s_card-3-0021",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1673,14 +1190,7 @@
         },
         {
             "id": "s_card-3-0022",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1697,14 +1207,7 @@
         },
         {
             "id": "s_card-3-0023",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1721,14 +1224,7 @@
         },
         {
             "id": "s_card-3-0024",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1745,14 +1241,7 @@
         },
         {
             "id": "s_card-3-0025",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1769,14 +1258,7 @@
         },
         {
             "id": "s_card-3-0026",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1793,14 +1275,7 @@
         },
         {
             "id": "s_card-3-0027",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1817,14 +1292,7 @@
         },
         {
             "id": "s_card-3-0028",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1841,14 +1309,7 @@
         },
         {
             "id": "s_card-3-0029",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1865,14 +1326,7 @@
         },
         {
             "id": "s_card-3-0030",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1889,14 +1343,7 @@
         },
         {
             "id": "s_card-3-0031",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1913,14 +1360,7 @@
         },
         {
             "id": "s_card-3-0032",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1937,14 +1377,7 @@
         },
         {
             "id": "s_card-3-0034",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1961,14 +1394,7 @@
         },
         {
             "id": "s_card-3-0035",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1985,14 +1411,7 @@
         },
         {
             "id": "s_card-3-0036",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2009,14 +1428,7 @@
         },
         {
             "id": "s_card-3-0037",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2033,14 +1445,7 @@
         },
         {
             "id": "s_card-3-0038",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2057,14 +1462,7 @@
         },
         {
             "id": "s_card-3-0039",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2081,14 +1479,7 @@
         },
         {
             "id": "s_card-3-0040",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2105,14 +1496,7 @@
         },
         {
             "id": "s_card-3-0041",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2129,14 +1513,7 @@
         },
         {
             "id": "s_card-3-0042",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2153,14 +1530,7 @@
         },
         {
             "id": "s_card-3-0043",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2177,14 +1547,7 @@
         },
         {
             "id": "s_card-3-0044",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2201,14 +1564,7 @@
         },
         {
             "id": "s_card-3-0045",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2225,14 +1581,7 @@
         },
         {
             "id": "s_card-3-0046",
-            "upgradeProduceCardDescriptions": [
-                {
-                    "type": "ProduceDescriptionType_PlainText",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "text": "/ 確率大"
-                }
-            ],
+            "upgradeProduceCardDescriptions": [],
             "upgradeProduceCardProduceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
