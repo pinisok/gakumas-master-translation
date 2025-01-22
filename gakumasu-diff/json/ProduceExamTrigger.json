@@ -8,11 +8,7 @@
             "produceDescriptions.produceCardCategory",
             "produceDescriptions.produceCardMovePositionType",
             "produceDescriptions.produceStepType",
-            "produceDescriptions.targetId",
-            "descriptions.type",
-            "descriptions.targetId",
-            "descriptions.examEffectType",
-            "descriptions.produceCardCategory"
+            "produceDescriptions.targetId"
         ]
     },
     "data": [
@@ -29,8 +25,7 @@
                     "targetId": "",
                     "text": "自身が捨て札に移動した時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_move_hand-p_card_search-target_is_self",
@@ -45,8 +40,7 @@
                     "targetId": "",
                     "text": "自身が手札に移動した時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_move_lost-p_card_search-target",
@@ -61,8 +55,7 @@
                     "targetId": "",
                     "text": "スキルカードが除外に移動した時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_move_lost-p_card_search-target-_",
@@ -77,8 +70,7 @@
                     "targetId": "",
                     "text": "スキルカードが除外に移動した時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-block_up-7-p_card_search-playing-1-p_card-02-men-1_030-0_1",
@@ -123,8 +115,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-card_play_aggressive_up-12-p_card_search-active_skill-playing-0_1",
@@ -169,8 +160,7 @@
                     "targetId": "",
                     "text": "が12以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-card_play_aggressive_up-3-p_card_search-playing-0_1",
@@ -205,8 +195,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-card_play_aggressive_up-5-p_card_search-mental_skill-playing-0_1",
@@ -251,8 +240,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-card_play_aggressive_up-8-p_card_search-playing-0_1",
@@ -287,8 +275,7 @@
                     "targetId": "",
                     "text": "が8以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-card_search_count_up-1-p_card_search-hold-p_card_search-playing-1-p_card-03-act-1_038-0_1",
@@ -333,8 +320,7 @@
                     "targetId": "",
                     "text": "にあるスキルカードが1枚以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-concentration_up-p_card_search-active_skill-playing-0_1",
@@ -379,8 +365,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-active_skill-playing-0_1",
@@ -405,8 +390,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-active_skill-playing-0_1-lesson_dance",
@@ -441,8 +425,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-mental_skill-playing-0_1",
@@ -467,8 +450,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-01-act-1_001-0_1",
@@ -493,8 +475,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-01-act-1_002-0_1",
@@ -519,8 +500,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-01-act-1_022-0_1",
@@ -545,8 +525,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-01-act-1_023-0_1",
@@ -571,8 +550,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-01-men-3_006-0_1",
@@ -597,8 +575,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-02-men-1_032-0_1",
@@ -623,8 +600,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-02-men-3_002-0_1",
@@ -649,8 +625,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-effect_group-visible-exam_block-000-0_1",
@@ -675,8 +650,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000-0_1",
@@ -701,8 +675,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-effect_group-visible-exam_concentration-000-0_1",
@@ -727,8 +700,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-effect_group-visible-exam_review-000-0_1",
@@ -753,8 +725,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-effect_group-visible-stamina_recover_fix-000-0_1",
@@ -779,8 +750,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-playing-p_card-03-men-1_049-0_1",
@@ -805,8 +775,7 @@
                     "targetId": "",
                     "text": "使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-p_card_search-target_is_self-0_1",
@@ -821,8 +790,7 @@
                     "targetId": "",
                     "text": "自身使用後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-parameter_buff_up-4-p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000-0_1",
@@ -867,8 +835,7 @@
                     "targetId": "",
                     "text": "が4ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-review_up-10-p_card_search-mental_skill-playing-0_1",
@@ -913,8 +880,7 @@
                     "targetId": "",
                     "text": "が10以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-review_up-6",
@@ -949,8 +915,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play_after-stamina_up_multiple-500-p_card_search-active_skill-playing-0_1",
@@ -975,8 +940,7 @@
                     "targetId": "",
                     "text": "使用後、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-block_up-15-p_card_search-active_skill-playing-0_1",
@@ -1021,8 +985,7 @@
                     "targetId": "",
                     "text": "が15以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-block_up-7-p_card_search-active_skill-playing-0_1",
@@ -1067,8 +1030,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-card_play_aggressive_up-3",
@@ -1103,8 +1065,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-card_play_aggressive_up-5-lesson_visual",
@@ -1149,8 +1110,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-card_play_aggressive_up-6",
@@ -1185,8 +1145,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-concentration_up",
@@ -1221,8 +1180,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-condition_threshold_multiple_down-250",
@@ -1237,8 +1195,7 @@
                     "targetId": "",
                     "text": "スキルカード使用時、未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-condition_threshold_multiple_down-500",
@@ -1283,8 +1240,7 @@
                     "targetId": "",
                     "text": "以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-condition_threshold_multiple-500",
@@ -1329,8 +1285,7 @@
                     "targetId": "",
                     "text": "以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-full_power_point_up-1",
@@ -1365,8 +1320,7 @@
                     "targetId": "",
                     "text": "が1以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-full_power_up",
@@ -1401,8 +1355,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-lesson_buff_up-1",
@@ -1437,8 +1390,7 @@
                     "targetId": "",
                     "text": "が1以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-lesson_buff_up-3",
@@ -1473,8 +1425,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-lesson_buff_up-5",
@@ -1509,8 +1460,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-lesson_buff_up-6",
@@ -1545,8 +1495,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-no_block",
@@ -1581,8 +1530,7 @@
                     "targetId": "",
                     "text": "が0の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-no_block-p_card_search-mental_skill-playing-0_1",
@@ -1627,8 +1575,7 @@
                     "targetId": "",
                     "text": "が0の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-active_skill-playing-0_1",
@@ -1653,8 +1600,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-active_skill-playing-0_1-lesson_dance",
@@ -1689,8 +1635,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-active_skill-playing-0_1-lesson_visual",
@@ -1725,8 +1670,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-active_skill-playing-0_1-lesson_vocal",
@@ -1761,8 +1705,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-mental_skill-playing-0_1",
@@ -1787,8 +1730,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-0_1",
@@ -1803,8 +1745,7 @@
                     "targetId": "",
                     "text": "スキルカード使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-effect_group-visible-exam_concentration-000-0_1",
@@ -1829,8 +1770,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-effect_group-visible-exam_preservation-000-0_1",
@@ -1855,8 +1795,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-effect_group-visible-exam_review-000-0_1",
@@ -1881,8 +1820,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000-0_1",
@@ -1907,8 +1845,7 @@
                     "targetId": "",
                     "text": "効果のスキルカード使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-01-ido-1_058-0_1",
@@ -1933,8 +1870,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-01-ido-3_066-0_1",
@@ -1959,8 +1895,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-02-act-1_028-0_1",
@@ -1985,8 +1920,7 @@
                     "targetId": "",
                     "text": "使用時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-parameter_buff",
@@ -2021,8 +1955,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-parameter_buff_up-4",
@@ -2057,8 +1990,7 @@
                     "targetId": "",
                     "text": "が4ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-play_card_lesson-p_card_search-active_skill-playing-0_1",
@@ -2103,8 +2035,7 @@
                     "targetId": "",
                     "text": "を使用した状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-play_card_skill-p_card_search-active_skill-playing-0_1",
@@ -2149,8 +2080,7 @@
                     "targetId": "",
                     "text": "を使用した状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-play_card_skill-p_card_search-mental_skill-playing-0_1",
@@ -2195,8 +2125,7 @@
                     "targetId": "",
                     "text": "を使用した状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-preservation_up",
@@ -2231,8 +2160,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-preservation_up-p_card_search-playing-1-p_card-03-act-1_040-0_1",
@@ -2277,8 +2205,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-review_up-1",
@@ -2313,8 +2240,7 @@
                     "targetId": "",
                     "text": "が1以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-review_up-10",
@@ -2349,8 +2275,7 @@
                     "targetId": "",
                     "text": "が10以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-review_up-3",
@@ -2385,8 +2310,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-review_up-5",
@@ -2421,8 +2345,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-review_up-6",
@@ -2457,8 +2380,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_consumption_down",
@@ -2493,8 +2415,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_less_multiple-300-p_card_search-active_skill-playing-0_1",
@@ -2519,8 +2440,7 @@
                     "targetId": "",
                     "text": "使用時、体力が30%以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_less_multiple-500",
@@ -2535,8 +2455,7 @@
                     "targetId": "",
                     "text": "スキルカード使用時、体力が50%以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_less_multiple-500-p_card_search-active_skill-playing-0_1",
@@ -2561,8 +2480,7 @@
                     "targetId": "",
                     "text": "使用時、体力が50%以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_up_multiple-500",
@@ -2577,8 +2495,7 @@
                     "targetId": "",
                     "text": "スキルカード使用時、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_up_multiple-500-p_card_search-active_skill-playing-0_1",
@@ -2603,8 +2520,7 @@
                     "targetId": "",
                     "text": "使用時、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_up_multiple-500-p_card_search-playing-1-p_card-02-men-1_031-0_1",
@@ -2629,8 +2545,7 @@
                     "targetId": "",
                     "text": "使用時、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-stamina_up_multiple-800",
@@ -2645,8 +2560,7 @@
                     "targetId": "",
                     "text": "スキルカード使用時、体力が80%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_card_play-turn_progress_up-5",
@@ -2661,8 +2575,7 @@
                     "targetId": "",
                     "text": "スキルカード使用時、5ターン目以降の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn",
@@ -2677,8 +2590,7 @@
                     "targetId": "",
                     "text": "ターン終了時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-block_up-12",
@@ -2713,8 +2625,7 @@
                     "targetId": "",
                     "text": "が12以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-block_up-230",
@@ -2749,8 +2660,7 @@
                     "targetId": "",
                     "text": "が230以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-block_up-30",
@@ -2785,8 +2695,7 @@
                     "targetId": "",
                     "text": "が30以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-block_up-50",
@@ -2821,8 +2730,7 @@
                     "targetId": "",
                     "text": "が50以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-block_up-7",
@@ -2857,8 +2765,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-card_play_aggressive_up-3",
@@ -2893,8 +2800,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-card_play_aggressive_up-5",
@@ -2929,8 +2835,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-card_play_aggressive_up-7",
@@ -2965,8 +2870,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-Concentration_up1",
@@ -3001,8 +2905,7 @@
                     "targetId": "",
                     "text": "1段階目の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-Concentration_up2",
@@ -3037,8 +2940,7 @@
                     "targetId": "",
                     "text": "2段階目の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-fullpower_up1",
@@ -3053,8 +2955,7 @@
                     "targetId": "",
                     "text": "ターン終了時、未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-lesson_buff_up-3",
@@ -3089,8 +2990,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-lesson_buff_up-5",
@@ -3125,8 +3025,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-lesson_buff_up-6",
@@ -3161,8 +3060,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-lesson_buff_up-7",
@@ -3197,8 +3095,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-lesson_visual",
@@ -3223,8 +3120,7 @@
                     "targetId": "",
                     "text": "ターン終了時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-no_block",
@@ -3259,8 +3155,7 @@
                     "targetId": "",
                     "text": "が0の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-no_fullpower",
@@ -3295,8 +3190,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not_Concentration",
@@ -3331,8 +3225,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not_Preservation",
@@ -3367,8 +3260,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not-block_up-12",
@@ -3403,8 +3295,7 @@
                     "targetId": "",
                     "text": "が11以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not-lesson_buff_up-5",
@@ -3439,8 +3330,7 @@
                     "targetId": "",
                     "text": "が4以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not-lesson_buff_up-7",
@@ -3475,8 +3365,7 @@
                     "targetId": "",
                     "text": "が6以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not-parameter_buff",
@@ -3511,8 +3400,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not-review_up-6",
@@ -3547,8 +3435,7 @@
                     "targetId": "",
                     "text": "が5以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not-review_up-7",
@@ -3583,8 +3470,7 @@
                     "targetId": "",
                     "text": "が6以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-not-stamina_consumption_down",
@@ -3619,8 +3505,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-parameter_buff",
@@ -3655,8 +3540,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-parameter_buff_up-12",
@@ -3691,8 +3575,7 @@
                     "targetId": "",
                     "text": "が12ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-parameter_buff_up-3",
@@ -3727,8 +3610,7 @@
                     "targetId": "",
                     "text": "が3ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-parameter_buff_up-6",
@@ -3763,8 +3645,7 @@
                     "targetId": "",
                     "text": "が6ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-Preservation_up1",
@@ -3799,8 +3680,7 @@
                     "targetId": "",
                     "text": "1段階目の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-remaining_turn-1",
@@ -3815,8 +3695,7 @@
                     "targetId": "",
                     "text": "最終ターンのターン終了時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-remaining_turn-2",
@@ -3831,8 +3710,7 @@
                     "targetId": "",
                     "text": "残り2ターン以内のターン終了時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-remaining_turn-3",
@@ -3847,8 +3725,7 @@
                     "targetId": "",
                     "text": "残り3ターン以内のターン終了時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-1",
@@ -3883,8 +3760,7 @@
                     "targetId": "",
                     "text": "が1以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-10",
@@ -3919,8 +3795,7 @@
                     "targetId": "",
                     "text": "が10以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-20",
@@ -3955,8 +3830,7 @@
                     "targetId": "",
                     "text": "が20以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-3",
@@ -3991,8 +3865,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-5",
@@ -4027,8 +3900,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-55",
@@ -4063,8 +3935,7 @@
                     "targetId": "",
                     "text": "が55以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-6",
@@ -4099,8 +3970,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-7",
@@ -4135,8 +4005,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-review_up-8",
@@ -4171,8 +4040,7 @@
                     "targetId": "",
                     "text": "が8以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_consumption_down",
@@ -4207,8 +4075,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_less_multiple-0",
@@ -4223,8 +4090,7 @@
                     "targetId": "",
                     "text": "ターン終了時、体力が0%の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_less_multiple-40",
@@ -4239,8 +4105,7 @@
                     "targetId": "",
                     "text": "ターン終了時、体力が4%以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_up_multiple-100",
@@ -4255,8 +4120,7 @@
                     "targetId": "",
                     "text": "ターン終了時、体力が10%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_up_multiple-1000",
@@ -4271,8 +4135,7 @@
                     "targetId": "",
                     "text": "ターン終了時、体力が100%の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_up_multiple-130",
@@ -4287,8 +4150,7 @@
                     "targetId": "",
                     "text": "ターン終了時、体力が13%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_up_multiple-500",
@@ -4303,8 +4165,7 @@
                     "targetId": "",
                     "text": "ターン終了時、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_end_turn-stamina_up_multiple-60",
@@ -4319,8 +4180,7 @@
                     "targetId": "",
                     "text": "ターン終了時、体力が6%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-2",
@@ -4335,8 +4195,7 @@
                     "targetId": "",
                     "text": "スキルカードを2回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-2-stamina_less_multiple-500",
@@ -4351,8 +4210,7 @@
                     "targetId": "",
                     "text": "体力が50%以下の場合、スキルカードを2回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-2-stamina_up_multiple-500",
@@ -4367,8 +4225,7 @@
                     "targetId": "",
                     "text": "体力が50%以上の場合、スキルカードを2回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-3",
@@ -4383,8 +4240,7 @@
                     "targetId": "",
                     "text": "スキルカードを3回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-3-p_card_search-mental_skill-target",
@@ -4409,8 +4265,7 @@
                     "targetId": "",
                     "text": "を3回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-3-p_card_search-mental_skill-target-_",
@@ -4435,8 +4290,7 @@
                     "targetId": "",
                     "text": "を3回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-3-stamina_up_multiple-500",
@@ -4451,8 +4305,7 @@
                     "targetId": "",
                     "text": "体力が50%以上の場合、スキルカードを3回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-4",
@@ -4467,8 +4320,7 @@
                     "targetId": "",
                     "text": "スキルカードを4回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-4-p_card_search-mental_skill-target",
@@ -4493,8 +4345,7 @@
                     "targetId": "",
                     "text": "を4回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-4-p_card_search-mental_skill-target-_",
@@ -4519,8 +4370,7 @@
                     "targetId": "",
                     "text": "を4回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_count_interval-5",
@@ -4535,8 +4385,7 @@
                     "targetId": "",
                     "text": "スキルカードを5回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_turn_count_interval-2-p_card_search-mental_skill-target",
@@ -4571,8 +4420,7 @@
                     "targetId": "",
                     "text": "を2回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_turn_count_interval-2-p_card_search-mental_skill-target-_",
@@ -4607,8 +4455,7 @@
                     "targetId": "",
                     "text": "を2回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_turn_count_interval-2-p_card_search-target",
@@ -4623,8 +4470,7 @@
                     "targetId": "",
                     "text": "ターン内にスキルカードを2回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_play_turn_count_interval-2-p_card_search-target-_",
@@ -4639,8 +4485,7 @@
                     "targetId": "",
                     "text": "ターン内にスキルカードを2回使用するごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_search_card_play-p_card_search-target_is_self-0_1",
@@ -4655,8 +4500,7 @@
                     "targetId": "",
                     "text": "未定義のパターン(Type: ExamSearchCardPlay, PhaseValue: 0, ProduceCardSearchID: p_card_search-target_is_self, UpperCount: 0, LowerCount: 1)"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stamina_reduce",
@@ -4681,8 +4525,7 @@
                     "targetId": "",
                     "text": "中に体力が減少した時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stamina_reduce_card-lesson_visual",
@@ -4707,8 +4550,7 @@
                     "targetId": "",
                     "text": "スキルカード使用で体力減少時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stance_change_concentration",
@@ -4733,8 +4575,7 @@
                     "targetId": "",
                     "text": "になった時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stance_change_concentration-full_power_point_get_sum_up-5",
@@ -4799,8 +4640,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stance_change_count_interval-1",
@@ -4825,8 +4665,7 @@
                     "targetId": "",
                     "text": "を変更するたび、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stance_change_count_interval-2",
@@ -4851,8 +4690,7 @@
                     "targetId": "",
                     "text": "を2回変更するたび、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stance_change_full_power",
@@ -4877,8 +4715,7 @@
                     "targetId": "",
                     "text": "になった時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_stance_change_preservation",
@@ -4903,8 +4740,7 @@
                     "targetId": "",
                     "text": "になった時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_exam",
@@ -4929,8 +4765,7 @@
                     "targetId": "",
                     "text": "開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_exam-next_lesson",
@@ -4965,13 +4800,11 @@
                     "targetId": "",
                     "text": "開始時"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_exam-no_description",
-            "produceDescriptions": [],
-            "descriptions": []
+            "produceDescriptions": []
         },
         {
             "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -4996,8 +4829,7 @@
                     "targetId": "",
                     "text": "開始時、未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_exam-stamina_up_multiple-800",
@@ -5022,8 +4854,7 @@
                     "targetId": "",
                     "text": "開始時、体力が80%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn",
@@ -5038,8 +4869,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-block_up-14",
@@ -5074,8 +4904,7 @@
                     "targetId": "",
                     "text": "が14以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-block_up-15",
@@ -5110,8 +4939,7 @@
                     "targetId": "",
                     "text": "が15以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-block_up-30",
@@ -5146,8 +4974,7 @@
                     "targetId": "",
                     "text": "が30以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-block_up-50",
@@ -5182,8 +5009,7 @@
                     "targetId": "",
                     "text": "が50以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-block_up-7",
@@ -5218,8 +5044,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-block_up-80",
@@ -5254,8 +5079,7 @@
                     "targetId": "",
                     "text": "が80以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-12",
@@ -5290,8 +5114,7 @@
                     "targetId": "",
                     "text": "が12以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-13",
@@ -5326,8 +5149,7 @@
                     "targetId": "",
                     "text": "が13以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-20",
@@ -5362,8 +5184,7 @@
                     "targetId": "",
                     "text": "が20以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-3",
@@ -5398,8 +5219,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-5",
@@ -5434,8 +5254,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-7",
@@ -5470,8 +5289,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-8",
@@ -5506,8 +5324,7 @@
                     "targetId": "",
                     "text": "が8以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-card_play_aggressive_up-8-lesson_visual",
@@ -5552,8 +5369,7 @@
                     "targetId": "",
                     "text": "が8以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-concentration_up",
@@ -5588,8 +5404,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-condition_threshold_multiple_down-1000",
@@ -5634,8 +5449,7 @@
                     "targetId": "",
                     "text": "以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-full_power_point_get_sum_up-15",
@@ -5690,8 +5504,7 @@
                     "targetId": "",
                     "text": "が15以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-full_power_point_get_sum_up-5",
@@ -5746,8 +5559,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-full_power_point_up-3",
@@ -5782,8 +5594,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-full_power_point_up-5",
@@ -5818,8 +5629,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-full_power_up",
@@ -5854,8 +5664,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-full_power_up-lesson_dance",
@@ -5900,8 +5709,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-1-lesson_dance",
@@ -5946,8 +5754,7 @@
                     "targetId": "",
                     "text": "が1以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-10",
@@ -5982,8 +5789,7 @@
                     "targetId": "",
                     "text": "が10以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-13",
@@ -6018,8 +5824,7 @@
                     "targetId": "",
                     "text": "が13以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-20",
@@ -6054,8 +5859,7 @@
                     "targetId": "",
                     "text": "が20以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-25",
@@ -6090,8 +5894,7 @@
                     "targetId": "",
                     "text": "が25以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-3",
@@ -6126,8 +5929,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-5",
@@ -6162,8 +5964,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-5-lesson_dance",
@@ -6208,8 +6009,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-7",
@@ -6244,8 +6044,7 @@
                     "targetId": "",
                     "text": "が7以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_buff_up-8",
@@ -6280,8 +6079,7 @@
                     "targetId": "",
                     "text": "が8以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_dance",
@@ -6306,8 +6104,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_sp",
@@ -6332,8 +6129,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_visual",
@@ -6358,8 +6154,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-lesson_vocal",
@@ -6384,8 +6179,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-no_block",
@@ -6420,8 +6214,7 @@
                     "targetId": "",
                     "text": "が0の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-not-condition_threshold_multiple-1000",
@@ -6456,8 +6249,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-not-no_stance",
@@ -6492,8 +6284,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-not-stamina_consumption_down",
@@ -6528,8 +6319,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-parameter_buff",
@@ -6564,8 +6354,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-parameter_buff_up-10",
@@ -6600,8 +6389,7 @@
                     "targetId": "",
                     "text": "が10ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-parameter_buff_up-15",
@@ -6636,8 +6424,7 @@
                     "targetId": "",
                     "text": "が15ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-parameter_buff_up-3",
@@ -6672,8 +6459,7 @@
                     "targetId": "",
                     "text": "が3ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-parameter_buff_up-6",
@@ -6708,8 +6494,7 @@
                     "targetId": "",
                     "text": "が6ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-preservation_change_count_up-4",
@@ -6744,8 +6529,7 @@
                     "targetId": "",
                     "text": "になった回数が4回以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-preservation_up",
@@ -6780,8 +6564,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-preservation_up-lesson_dance",
@@ -6826,8 +6609,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-remaining_turn-1",
@@ -6842,8 +6624,7 @@
                     "targetId": "",
                     "text": "最終ターンのターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-remaining_turn-2",
@@ -6858,8 +6639,7 @@
                     "targetId": "",
                     "text": "残り2ターン以内のターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-remaining_turn-3",
@@ -6874,8 +6654,7 @@
                     "targetId": "",
                     "text": "残り3ターン以内のターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-remaining_turn-4",
@@ -6890,8 +6669,7 @@
                     "targetId": "",
                     "text": "残り4ターン以内のターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-remaining_turn-5",
@@ -6906,8 +6684,7 @@
                     "targetId": "",
                     "text": "残り5ターン以内のターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-remaining_turn-6",
@@ -6922,8 +6699,7 @@
                     "targetId": "",
                     "text": "残り6ターン以内のターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-1",
@@ -6958,8 +6734,7 @@
                     "targetId": "",
                     "text": "が1以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-10",
@@ -6994,8 +6769,7 @@
                     "targetId": "",
                     "text": "が10以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-15",
@@ -7030,8 +6804,7 @@
                     "targetId": "",
                     "text": "が15以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-3",
@@ -7066,8 +6839,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-3-lesson_dance",
@@ -7112,8 +6884,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-5",
@@ -7148,8 +6919,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-6",
@@ -7184,8 +6954,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-review_up-6-lesson_dance",
@@ -7230,8 +6999,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-stamina_consumption_down",
@@ -7266,8 +7034,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-stamina_less_multiple-500",
@@ -7282,8 +7049,7 @@
                     "targetId": "",
                     "text": "ターン開始時、体力が50%以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-stamina_less_multiple-500-lesson_vocal",
@@ -7308,8 +7074,7 @@
                     "targetId": "",
                     "text": "ターン開始時、体力が50%以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-stamina_up_multiple-500",
@@ -7324,8 +7089,7 @@
                     "targetId": "",
                     "text": "ターン開始時、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-stamina_up_multiple-500-lesson_dance",
@@ -7350,8 +7114,7 @@
                     "targetId": "",
                     "text": "ターン開始時、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-stamina_up_multiple-800",
@@ -7366,8 +7129,7 @@
                     "targetId": "",
                     "text": "ターン開始時、体力が80%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_start_turn-turn_progress_up-3",
@@ -7382,8 +7144,7 @@
                     "targetId": "",
                     "text": "ターン開始時、3ターン目以降の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-card_play_aggressive_up-12-exam_block",
@@ -7428,8 +7189,7 @@
                     "targetId": "",
                     "text": "が12以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-concentration_change_count_up-2-exam_full_power_point",
@@ -7474,8 +7234,7 @@
                     "targetId": "",
                     "text": "になった回数が2回以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-exam_block",
@@ -7500,8 +7259,7 @@
                     "targetId": "",
                     "text": "が増加後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-exam_card_play_aggressive",
@@ -7526,8 +7284,7 @@
                     "targetId": "",
                     "text": "が増加後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-exam_full_power_point",
@@ -7552,8 +7309,7 @@
                     "targetId": "",
                     "text": "が増加後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-exam_lesson_buff",
@@ -7578,8 +7334,7 @@
                     "targetId": "",
                     "text": "が増加後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-exam_lesson_depend_block",
@@ -7624,8 +7379,7 @@
                     "targetId": "",
                     "text": "上昇効果が発動後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-exam_parameter_buff",
@@ -7650,8 +7404,7 @@
                     "targetId": "",
                     "text": "の効果ターンが増加後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-exam_review",
@@ -7676,8 +7429,7 @@
                     "targetId": "",
                     "text": "が増加後、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-lesson_buff_up-5-exam_lesson_buff",
@@ -7722,8 +7474,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-lesson_buff_up-5-exam_parameter_buff",
@@ -7768,8 +7519,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-lesson_buff_up-8-exam_parameter_buff",
@@ -7814,8 +7564,7 @@
                     "targetId": "",
                     "text": "が8以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-parameter_buff_up-10-exam_parameter_buff",
@@ -7860,8 +7609,7 @@
                     "targetId": "",
                     "text": "が10ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-parameter_buff_up-3-exam_lesson_buff",
@@ -7906,8 +7654,7 @@
                     "targetId": "",
                     "text": "が3ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-review_up-10-exam_review",
@@ -7952,8 +7699,7 @@
                     "targetId": "",
                     "text": "が10以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_status_change-stamina_up_multiple-500-exam_lesson_buff",
@@ -7978,8 +7724,7 @@
                     "targetId": "",
                     "text": "が増加後、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_interval-2",
@@ -7994,8 +7739,7 @@
                     "targetId": "",
                     "text": "2ターンごとに、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_interval-2-parameter_buff",
@@ -8030,8 +7774,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_interval-2-review_up-3",
@@ -8066,8 +7809,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_interval-2-stamina_up_multiple-500",
@@ -8082,8 +7824,7 @@
                     "targetId": "",
                     "text": "2ターンごとに、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_interval-3-review_up-3",
@@ -8118,8 +7859,7 @@
                     "targetId": "",
                     "text": "が3以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_interval-3-review_up-6",
@@ -8154,8 +7894,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_interval-3-stamina_up_multiple-500",
@@ -8170,13 +7909,11 @@
                     "targetId": "",
                     "text": "3ターンごとに、体力が50%以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-1",
-            "produceDescriptions": [],
-            "descriptions": []
+            "produceDescriptions": []
         },
         {
             "id": "e_trigger-exam_turn_timer-1-description",
@@ -8191,8 +7928,7 @@
                     "targetId": "",
                     "text": "1ターン目開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-10",
@@ -8207,8 +7943,7 @@
                     "targetId": "",
                     "text": "10ターン目開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-10-parameter_buff_up-10",
@@ -8243,8 +7978,7 @@
                     "targetId": "",
                     "text": "が10ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-11",
@@ -8259,8 +7993,7 @@
                     "targetId": "",
                     "text": "11ターン目開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-12-parameter_buff_up-10",
@@ -8295,8 +8028,7 @@
                     "targetId": "",
                     "text": "が10ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-2",
@@ -8311,8 +8043,7 @@
                     "targetId": "",
                     "text": "2ターン目開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-3-parameter_buff",
@@ -8347,8 +8078,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-3-parameter_buff_up-6",
@@ -8383,8 +8113,7 @@
                     "targetId": "",
                     "text": "が6ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-5",
@@ -8399,8 +8128,7 @@
                     "targetId": "",
                     "text": "5ターン目開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-5-block_up-10",
@@ -8435,8 +8163,7 @@
                     "targetId": "",
                     "text": "が10以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-5-parameter_buff",
@@ -8471,8 +8198,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-7",
@@ -8487,8 +8213,7 @@
                     "targetId": "",
                     "text": "7ターン目開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-8",
@@ -8503,8 +8228,7 @@
                     "targetId": "",
                     "text": "8ターン目開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-exam_turn_timer-8-parameter_buff_up-10",
@@ -8539,8 +8263,7 @@
                     "targetId": "",
                     "text": "が10ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-block_up-30",
@@ -8565,8 +8288,7 @@
                     "targetId": "",
                     "text": "が30以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-concentration_up",
@@ -8591,8 +8313,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-full_power_change_count_up-1",
@@ -8617,8 +8338,7 @@
                     "targetId": "",
                     "text": "になった回数が1回以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-full_power_point_up-1",
@@ -8643,8 +8363,7 @@
                     "targetId": "",
                     "text": "が1以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-full_power_up",
@@ -8669,8 +8388,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-lesson_buff_up-6",
@@ -8695,8 +8413,7 @@
                     "targetId": "",
                     "text": "が6以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-not-no_stance",
@@ -8731,8 +8448,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-parameter_buff",
@@ -8757,8 +8473,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-parameter_buff_up-1",
@@ -8783,8 +8498,7 @@
                     "targetId": "",
                     "text": "が1ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-parameter_buff_up-4",
@@ -8809,8 +8523,7 @@
                     "targetId": "",
                     "text": "が4ターン以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-none-preservation_up",
@@ -8835,8 +8548,7 @@
                     "targetId": "",
                     "text": "の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_exam_play",
@@ -8861,8 +8573,7 @@
                     "targetId": "",
                     "text": "開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_play",
@@ -8877,8 +8588,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_play-card_play_aggressive_up-5",
@@ -8913,8 +8623,7 @@
                     "targetId": "",
                     "text": "が5以上の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_play-lesson_dance",
@@ -8939,8 +8648,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_play-lesson_vocal",
@@ -8965,8 +8673,7 @@
                     "targetId": "",
                     "text": "ターン開始時、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_play-parameter_buff",
@@ -9001,8 +8708,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_play-stamina_consumption_down",
@@ -9037,8 +8743,7 @@
                     "targetId": "",
                     "text": "状態の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         },
         {
             "id": "e_trigger-start_play-stamina_less_multiple-500",
@@ -9053,8 +8758,7 @@
                     "targetId": "",
                     "text": "ターン開始時、体力が50%以下の場合、"
                 }
-            ],
-            "descriptions": []
+            ]
         }
     ]
 }

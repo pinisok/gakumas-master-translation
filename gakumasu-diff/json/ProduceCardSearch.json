@@ -2,10 +2,6 @@
     "rules": {
         "primaryKeys": [
             "id",
-            "descriptions.type",
-            "descriptions.targetId",
-            "descriptions.examEffectType",
-            "descriptions.produceCardCategory",
             "produceDescriptions.produceDescriptionType",
             "produceDescriptions.examDescriptionType",
             "produceDescriptions.examEffectType",
@@ -18,7 +14,6 @@
     "data": [
         {
             "id": "p_card_search-active_skill-deck_all",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -34,7 +29,6 @@
         },
         {
             "id": "p_card_search-active_skill-first-deck-3",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50,7 +44,6 @@
         },
         {
             "id": "p_card_search-active_skill-hand",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -76,7 +69,6 @@
         },
         {
             "id": "p_card_search-active_skill-lost",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -102,7 +94,6 @@
         },
         {
             "id": "p_card_search-active_skill-playing",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -118,7 +109,6 @@
         },
         {
             "id": "p_card_search-deck",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -134,7 +124,6 @@
         },
         {
             "id": "p_card_search-deck_all",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -150,7 +139,6 @@
         },
         {
             "id": "p_card_search-deck_all-1-p_card-00-act-0_001",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -176,7 +164,6 @@
         },
         {
             "id": "p_card_search-deck_all-1-p_card-00-men-0_003",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -202,7 +189,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_block-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -228,7 +214,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -254,7 +239,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -280,7 +264,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -326,7 +309,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -352,7 +334,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -398,7 +379,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -424,7 +404,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -450,7 +429,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_preservation-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -476,7 +454,6 @@
         },
         {
             "id": "p_card_search-deck_all-effect_group-visible-exam_review-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -502,7 +479,6 @@
         },
         {
             "id": "p_card_search-deck_all-p_card-03-act-1_040",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -518,7 +494,6 @@
         },
         {
             "id": "p_card_search-deck_all-p_card-03-ido-3_084",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -534,7 +509,6 @@
         },
         {
             "id": "p_card_search-deck_all-starter",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -550,7 +524,6 @@
         },
         {
             "id": "p_card_search-deck_grave",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -566,7 +539,6 @@
         },
         {
             "id": "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -602,7 +574,6 @@
         },
         {
             "id": "p_card_search-deck_grave-idol-unique-1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -618,7 +589,6 @@
         },
         {
             "id": "p_card_search-deck-1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -634,7 +604,6 @@
         },
         {
             "id": "p_card_search-first-deck-1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -650,7 +619,6 @@
         },
         {
             "id": "p_card_search-first-deck-5",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -666,7 +634,6 @@
         },
         {
             "id": "p_card_search-hand",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -682,7 +649,6 @@
         },
         {
             "id": "p_card_search-hand-1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -698,7 +664,6 @@
         },
         {
             "id": "p_card_search-hand-2",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -714,7 +679,6 @@
         },
         {
             "id": "p_card_search-hand-3",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -730,7 +694,6 @@
         },
         {
             "id": "p_card_search-hold",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -756,7 +719,6 @@
         },
         {
             "id": "p_card_search-lost",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -772,7 +734,6 @@
         },
         {
             "id": "p_card_search-lost-idol-unique-1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -788,7 +749,6 @@
         },
         {
             "id": "p_card_search-lost-p_card-02-ido-3_104",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -814,7 +774,6 @@
         },
         {
             "id": "p_card_search-mental_skill-deck_all",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -830,7 +789,6 @@
         },
         {
             "id": "p_card_search-mental_skill-hand",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -856,7 +814,6 @@
         },
         {
             "id": "p_card_search-mental_skill-playing",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -872,7 +829,6 @@
         },
         {
             "id": "p_card_search-mental_skill-target",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -888,7 +844,6 @@
         },
         {
             "id": "p_card_search-playing",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -904,7 +859,6 @@
         },
         {
             "id": "p_card_search-playing-1-min_max-6_99",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -920,7 +874,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-01-act-1_001",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -936,7 +889,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-01-act-1_002",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -952,7 +904,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-01-act-1_022",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -968,7 +919,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-01-act-1_023",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -984,7 +934,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-01-men-3_006",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1000,7 +949,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-02-men-1_030",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1016,7 +964,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-02-men-1_031",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1032,7 +979,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-02-men-1_032",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1048,7 +994,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-02-men-3_002",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1064,7 +1009,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-03-act-1_038",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1080,7 +1024,6 @@
         },
         {
             "id": "p_card_search-playing-1-p_card-03-act-1_040",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1096,7 +1039,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-exam_block-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1122,7 +1064,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1148,7 +1089,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-exam_concentration-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1174,7 +1114,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1200,7 +1139,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-exam_preservation-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1226,7 +1164,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-exam_review-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1252,7 +1189,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1278,7 +1214,6 @@
         },
         {
             "id": "p_card_search-playing-effect_group-visible-stamina_recover_fix-000",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1304,7 +1239,6 @@
         },
         {
             "id": "p_card_search-playing-is_self",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1320,7 +1254,6 @@
         },
         {
             "id": "p_card_search-playing-p_card-01-ido-1_058",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1336,7 +1269,6 @@
         },
         {
             "id": "p_card_search-playing-p_card-01-ido-3_066",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1352,7 +1284,6 @@
         },
         {
             "id": "p_card_search-playing-p_card-02-act-1_028",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1368,7 +1299,6 @@
         },
         {
             "id": "p_card_search-playing-p_card-03-men-1_049",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1384,7 +1314,6 @@
         },
         {
             "id": "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1400,7 +1329,6 @@
         },
         {
             "id": "p_card_search-random-random_pool-p_random_pool-ssr-upgrade_1-1",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1416,7 +1344,6 @@
         },
         {
             "id": "p_card_search-target",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1432,7 +1359,6 @@
         },
         {
             "id": "p_card_search-target_is_self",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1448,7 +1374,6 @@
         },
         {
             "id": "p_card_search-trouble-deck_all",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1464,7 +1389,6 @@
         },
         {
             "id": "p_card_search-trouble-deck-2",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1500,7 +1424,6 @@
         },
         {
             "id": "p_card_search-trouble-hand",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1516,7 +1439,6 @@
         },
         {
             "id": "p_card_search-trouble-target",
-            "descriptions": [],
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

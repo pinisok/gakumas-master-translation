@@ -166,6 +166,11 @@
             "description": "プレミアムミッションパス 2024年11月で獲得"
         },
         {
+            "id": "costume_head_fktn-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年2月で獲得"
+        },
+        {
             "id": "costume_head_hmsz-casl-0000",
             "name": "いつもの髪型",
             "description": "最初から所持"
@@ -339,6 +344,11 @@
             "id": "costume_head_hski-hair-0004",
             "name": "ネコミミ",
             "description": "プレミアムミッションパス 2024年11月で獲得"
+        },
+        {
+            "id": "costume_head_hski-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年2月で獲得"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -784,6 +794,11 @@
             "id": "costume_head_ttmr-hair-0004",
             "name": "ネコミミ",
             "description": "プレミアムミッションパス 2024年11月で獲得"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年2月で獲得"
         }
     ]
 }
