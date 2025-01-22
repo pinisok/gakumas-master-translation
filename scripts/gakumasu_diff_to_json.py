@@ -1,6 +1,7 @@
 import os
 import yaml
 import json
+from typing import List
 from yaml.reader import Reader
 
 
@@ -354,7 +355,7 @@ def save_json(data: list, name: str):
         json.dump(result, f, ensure_ascii=False, indent=4)
     return f'gakumasu-diff/json/{name}.json'
 
-def sort_records_fields(records: list[dict], field_paths: list):
+def sort_records_fields(records: List[dict], field_paths: list):
     def hasPaths(record:dict, path:list):
         if not path:
             return False
