@@ -175,10 +175,8 @@ primary_key_rules = {
                           "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
                           ["produceDescriptions.text"]],  # 嵌套List Obj
     "ProduceExamGimmickEffectGroup": [["id", "priority", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                                      "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId",
-                                       "effectDescriptions.type", "effectDescriptions.examEffectType", "effectDescriptions.produceCardCategory",
-                                       ],
-                                      ["effectDescriptions.text", "produceDescriptions.text"]],  # 嵌套List Obj
+                                      "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
+                                      ["produceDescriptions.text"]],  # 嵌套List Obj
     "ProduceExamStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                                   "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
                                  ["produceDescriptions.text"]],  # 嵌套List Obj
@@ -247,9 +245,9 @@ primary_key_rules = {
     "Story": [["id"], ["title"]],
     "StoryEvent": [["id"], ["title"]],
     "StoryGroup": [["id"], ["title"]],
-    "SupportCard": [["id", "upgradeProduceCardDescriptions.type", "upgradeProduceCardDescriptions.examEffectType", "upgradeProduceCardDescriptions.produceCardCategory",
-                     "upgradeProduceCardProduceDescriptions.produceDescriptionType", "upgradeProduceCardProduceDescriptions.examDescriptionType", "upgradeProduceCardProduceDescriptions.examEffectType", "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardCategory", "upgradeProduceCardProduceDescriptions.produceCardMovePositionType", "upgradeProduceCardProduceDescriptions.produceStepType"],
-                    ["name", "upgradeProduceCardDescriptions.text", "upgradeProduceCardProduceDescriptions.text"]],  # 嵌套List Obj
+    "SupportCard": [["id", "upgradeProduceCardProduceDescriptions.produceDescriptionType", "upgradeProduceCardProduceDescriptions.examDescriptionType", "upgradeProduceCardProduceDescriptions.examEffectType", 
+                     "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardCategory", "upgradeProduceCardProduceDescriptions.produceCardMovePositionType", "upgradeProduceCardProduceDescriptions.produceStepType"],
+                    ["name", "upgradeProduceCardProduceDescriptions.text"]],  # 嵌套List Obj
     # "SupportCardBonus": [[], []],
     "SupportCardFlavor": [["supportCardId", "number"], ["text"]],
     # "SupportCardLevel": [[], []],
