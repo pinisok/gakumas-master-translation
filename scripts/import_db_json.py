@@ -90,7 +90,7 @@ def import_main(base_json, translated_json, output_json):
     with open(output_json, "w", encoding="utf-8") as out:
         json.dump(root, out, ensure_ascii=False, indent=2)
 
-    print(f"合并完成: {output_json}")
+    print(f"파일 변환: {output_json}")
 
 
 def main(base_dir, translated_dir, output_dir="merged"):

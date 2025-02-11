@@ -6,6 +6,7 @@ import argparse
 import import_db_json
 import export_db_json
 
+IGNORE_INPUT = False
 
 def values_to_keys():
     root_dir = input("export 文件夹: ") or "exports"
@@ -49,7 +50,7 @@ def pretranslated_to_kv_files(
             save_file = os.path.join(save_dir, name[:-16] + ".json")
 
             with open(translated_file, 'r', encoding='utf-8') as f:
-                translated_data = json.load(f)  # 日文: 原文
+                translated_data:dict = json.load(f)  # 日文: 原文
 
             with open(orig_file, 'r', encoding='utf-8') as f:
                 orig_data = json.load(f)  # key: 日文
@@ -60,8 +61,8 @@ def pretranslated_to_kv_files(
             with open(save_file, 'w', encoding='utf-8') as f:
                 json.dump(orig_data, f, ensure_ascii=False, indent=4)
 
-            print("合并文件", name)
-    print("合并完成，接下来请执行 import_db_json 将翻译文件导回")
+            print("파일 병합", name)
+    print("병합 완료, 이제 import_db_json 를 실행해 번역 파일을 가져옵니다")
 
 
 def gen_todo(new_files_dir: str):
@@ -79,6 +80,8 @@ def gen_todo(new_files_dir: str):
         os.makedirs(temp_key_jp_dir)
     if not os.path.isdir(todo_out_dir):
         os.makedirs(todo_out_dir)
+    if os.path.exists("./update_todo.txt"):
+        os.remove("./update_todo.txt")
 
     # 旧已翻译插件 json 转 key: cn
     for root, dirs, files in os.walk(old_files_dir):
@@ -102,25 +105,36 @@ def gen_todo(new_files_dir: str):
             jp_file = os.path.join(root, file)
             cn_file = os.path.join(temp_key_cn_dir, file)
             out_data = {}
-
+            isUpdated = False
             with open(jp_file, 'r', encoding='utf-8') as f:
                 jp_data = json.load(f)
 
             if not os.path.exists(cn_file):
                 for _, v in jp_data.items():
                     out_data[v] = ""
+                    isUpdated = True
             else:
                 with open(cn_file, 'r', encoding='utf-8') as f:
                     cn_data = json.load(f)
                 for k, v in jp_data.items():
-                    if k not in cn_data:
+                    if k not in cn_data: # 새 번역 필요함
                         out_data[v] = ""
+                        isUpdated = True
+                    else:
+                        if v == k:
+                            out_data[v] = ""
+                            isUpdated = True
+                        else:
+                            out_data[v] = cn_data[k]
 
-            if out_data:
+            if out_data and isUpdated:
                 todo_file = os.path.join(todo_out_dir, file)
                 with open(todo_file, 'w', encoding='utf-8') as f:
                     json.dump(out_data, f, ensure_ascii=False, indent=4)
                 print("TODO File", todo_file)
+                # 업데이트된 파일 목록 기록
+                with open("./update_todo.txt", 'a+', encoding='utf-8') as f:
+                    f.write(todo_file+"\n")
 
 
 def merge_todo():
@@ -153,24 +167,30 @@ def merge_todo():
                 else:
                     new_key_jp_data = {}
 
-                for k, v in old_key_cn_data.items():
-                    new_key_jp_data[k] = v
+                # 모든 값이 todo 에 들어있어서 괜찮음
+                # for k, v in old_key_cn_data.items():
+                #     new_key_jp_data[k] = v
 
                 with open(new_key_jp_file, 'w', encoding='utf-8') as f:
                     json.dump(new_key_jp_data, f, ensure_ascii=False, indent=4)
 
     pretranslated_to_kv_files(output_dir, new_files_dir, output_dir)
 
-    if input("继续执行 import_db_json，请输入 1: ") == "1":
+    if IGNORE_INPUT or input("계속해 import_db_json을 실행할려면 1을 입력하세요: ") == "1":
         import_db_json.main("./gakumasu-diff/json", output_dir, "data")
-        print("文件已输出到 data")
+        print("data 폴더로 파일을 내보냈습니다")
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--gen_todo', action='store_true')
     parser.add_argument('--merge', action='store_true')
+    parser.add_argument('--auto', action='store_true')
     args = parser.parse_args()
+
+    if args.auto:
+        global IGNORE_INPUT
+        IGNORE_INPUT = True
 
     if (not args.gen_todo) and (not args.merge):
         do_idx = input("[1] 全部导出转为待翻译文件\n"

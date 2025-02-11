@@ -102,19 +102,19 @@ def collect_translatable_text(data_obj, primary_keys):
 
 def ex_main(input_json, output_json):
     if not os.path.isfile(input_json):
-        print(f"找不到输入文件: {input_json}")
+        print(f"파일이 존재하지 않음음: {input_json}")
         sys.exit(1)
 
     with open(input_json, "r", encoding="utf-8") as f:
         root = json.load(f)
 
     if "rules" not in root or "primaryKeys" not in root["rules"]:
-        print("缺少 rules.primaryKeys，可能不是预期结构")
+        print("rules.primaryKeys 가 존재하지 않음음")
         sys.exit(1)
 
     primary_keys = root["rules"]["primaryKeys"]
     if "data" not in root or not isinstance(root["data"], list):
-        print("缺少 data 数组，可能不是预期结构")
+        print("데이터가 부족함")
         sys.exit(1)
 
     export_dict = {}
@@ -125,7 +125,7 @@ def ex_main(input_json, output_json):
     with open(output_json, "w", encoding="utf-8") as out:
         json.dump(export_dict, out, ensure_ascii=False, indent=2)
 
-    print(f"导出完成: {output_json} (共 {len(export_dict)} 条)")
+    print(f"내보내기 완료 : {output_json} (총 {len(export_dict)} 개)")
 
 def main():
     orig_dir = input("原json文件夹: ") or "gakumasu-diff/json"

@@ -1,10 +1,12 @@
 import os
 import yaml
 import json
-from typing import List
 from yaml.reader import Reader
 
-
+"""
+형식
+"파일이름": [[메인 키(식별용)], [문자열이 포함된 항목]]
+"""
 primary_key_rules = {
     "Achievement": [["id"], ["name", "description"]],
     # "AchievementProgress": [[], []],
@@ -336,11 +338,10 @@ def save_json(data: list, name: str):
 
     # Make first data has all key
     # This can be removed when app can parse all key(also key type) properly.
-    # Currently there is a bug on finding type and find local key from data
-    # We must make first data has all key
+    # Currently there is a bug on type parse and find local key
     if not sort_records_fields(processed_data, all_keys):
         print(f"Failed to find super key object from {name}")
-
+    
     # 生成最终的 JSON 结构
     result = {
         "rules": {
@@ -355,7 +356,7 @@ def save_json(data: list, name: str):
         json.dump(result, f, ensure_ascii=False, indent=4)
     return f'gakumasu-diff/json/{name}.json'
 
-def sort_records_fields(records: List[dict], field_paths: list):
+def sort_records_fields(records: list[dict], field_paths: list):
     def hasPaths(record:dict, path:list):
         if not path:
             return False
