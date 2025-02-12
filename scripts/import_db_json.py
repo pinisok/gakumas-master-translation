@@ -61,11 +61,9 @@ def fill_back_translations(data_obj, primary_keys, trans_map):
 
 def import_main(base_json, translated_json, output_json):
     if not os.path.isfile(base_json):
-        print(f"找不到 base 文件: {base_json}")
-        sys.exit(1)
+        raise Exception(f"Base file not found: {base_json}")
     if not os.path.isfile(translated_json):
-        print(f"找不到翻译文件: {translated_json}")
-        sys.exit(1)
+         raise Exception(f"Translation file not found: {translated_json}")
 
     with open(base_json, "r", encoding="utf-8") as f1:
         root = json.load(f1)
@@ -74,13 +72,11 @@ def import_main(base_json, translated_json, output_json):
         trans_map = json.load(f2)  # {"key": "translated text", ...}
 
     if "rules" not in root or "primaryKeys" not in root["rules"]:
-        print("缺少 rules.primaryKeys，可能不是预期结构")
-        sys.exit(1)
+         raise Exception("Missing rules.primaryKeys, may not be the expected structure")
 
     primary_keys = root["rules"]["primaryKeys"]
     if "data" not in root or not isinstance(root["data"], list):
-        print("缺少 data 数组，可能不是预期结构")
-        sys.exit(1)
+         raise Exception("The data array is missing and may not be the expected structure.")
 
     # 遍历 data 数组，一条一条地把翻译填回去
     for row in root["data"]:

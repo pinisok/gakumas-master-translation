@@ -153,7 +153,7 @@ def merge_todo():
                 shutil.copyfile(os.path.join(root, file), os.path.join(output_dir, file))
 
     # 合并旧翻译
-    for root, dirs, files in os.walk(old_trans_dir):
+    for root, dirs, files in os.walk(new_key_jp_dir):
         for file in files:
             if file.endswith(".json"):
                 old_key_cn_file = os.path.join(root, file)  # 旧版 key: cn
