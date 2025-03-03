@@ -121,7 +121,7 @@ def gen_todo(new_files_dir: str):
                         out_data[v] = ""
                         isUpdated = True
                     else:
-                        if v == k:
+                        if v == cn_data[k]:
                             out_data[v] = ""
                             isUpdated = True
                         else:
