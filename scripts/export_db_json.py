@@ -102,14 +102,14 @@ def collect_translatable_text(data_obj, primary_keys):
 
 def ex_main(input_json, output_json):
     if not os.path.isfile(input_json):
-        print(f"파일이 존재하지 않음음: {input_json}")
+        print(f"파일이 존재하지 않음: {input_json}")
         sys.exit(1)
 
     with open(input_json, "r", encoding="utf-8") as f:
         root = json.load(f)
 
     if "rules" not in root or "primaryKeys" not in root["rules"]:
-        print("rules.primaryKeys 가 존재하지 않음음")
+        print("rules.primaryKeys 가 존재하지 않음")
         sys.exit(1)
 
     primary_keys = root["rules"]["primaryKeys"]

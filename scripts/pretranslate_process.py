@@ -6,6 +6,8 @@ import argparse
 import import_db_json
 import export_db_json
 
+import translate_db
+
 IGNORE_INPUT = False
 
 def values_to_keys():
@@ -57,11 +59,14 @@ def pretranslated_to_kv_files(
 
             for k, orig_jp in orig_data.items():
                 orig_data[k] = translated_data.get(orig_jp, orig_jp)
+                if orig_jp != orig_data[k]:
+                    translate_db.add_db(orig_jp, orig_data[k], name[:len("_translated.json")], k)
 
             with open(save_file, 'w', encoding='utf-8') as f:
                 json.dump(orig_data, f, ensure_ascii=False, indent=4)
 
             print("파일 병합", name)
+    translate_db.save_db()
     print("병합 완료, 이제 import_db_json 를 실행해 번역 파일을 가져옵니다")
 
 
@@ -117,15 +122,12 @@ def gen_todo(new_files_dir: str):
                 with open(cn_file, 'r', encoding='utf-8') as f:
                     cn_data = json.load(f)
                 for k, v in jp_data.items():
-                    if k not in cn_data: # 새 번역 필요함
-                        out_data[v] = ""
+                    if k not in cn_data or v == cn_data[k]: # 새 번역 필요함
+                        #out_data[v] = ""
+                        out_data[v] = translate_db.get_db(v, file[:len(".json")], k)
                         isUpdated = True
                     else:
-                        if v == cn_data[k]:
-                            out_data[v] = ""
-                            isUpdated = True
-                        else:
-                            out_data[v] = cn_data[k]
+                        out_data[v] = cn_data[k]
 
             if out_data and isUpdated:
                 todo_file = os.path.join(todo_out_dir, file)
@@ -135,6 +137,7 @@ def gen_todo(new_files_dir: str):
                 # 업데이트된 파일 목록 기록
                 with open("./update_todo.txt", 'a+', encoding='utf-8') as f:
                     f.write(todo_file+"\n")
+    translate_db.save_db()
 
 
 def merge_todo():
