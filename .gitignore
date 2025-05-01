@@ -179,3 +179,4 @@ cython_debug/
 
 data/
 update_todo.txt
+/scripts/db.json
