@@ -46,7 +46,7 @@ primary_key_rules = {
     # "ExamOutGameMotion": [[], []],
     # "ExamSetting": [[], []],
     # "ExamSimulation": [[], []],
-    "ExchangeItemCategory", [["exchangeId", "number"], ["name"]],
+    "ExchangeItemCategory": [["exchangeId", "number"], ["name"]],
     "FeatureLock": [["tutorialType"], ["name", "description", "routeDescription"]],
     # "ForceAppVersion": [[], []],
     # "GashaAnimation": [[], []],
