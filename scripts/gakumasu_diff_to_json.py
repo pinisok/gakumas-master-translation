@@ -253,7 +253,7 @@ primary_key_rules = {
     # "PvpRateMotion": [[], []],
     # "PvpRateUnitSlotUnlock": [[], []],
     # "ResultGradePattern": [[], []],
-    "Rule": [["type", "platformType", "number"], ["html"]],
+    # "Rule": [["type", "platformType", "number"], ["html"]],
     "SeminarExamTransition": [["examEffectType", "isLessonInt", "seminarExamId"], ["description", "seminarExamGroupName", "seminarExamName"]],
     "Setting": [["id"], ["initialUserName", "banWarningMessage"]],
     "Shop": [["id"], ["name"]],
